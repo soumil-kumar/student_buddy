@@ -1,1 +1,1 @@
-# Pinecone_Database
+# Student Buddy
