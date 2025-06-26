@@ -1,0 +1,43 @@
+Brief Introduction
+
+I am Ayush Khatarkar, a final year undergraduate student of the Department of Chemistry enrolled in its integrated MSc course. I am from Chandrapur, Maharashtra. I will be joining Sprinklr as a Product Engineer at the Gurgaon office.
+
+How did you get into Sprinklr? What was the selection procedure?
+
+I was selected in Sprinklr through the CDC placement process in the academic year 2021–22, Sprinklr was open for all the departments this year.
+
+The first round was an online coding test. No CGPA cut-off was there, hence everyone who applied in the ERP was eligible to write this test. Three coding problems — one easy and two medium-hard — were given to be solved within 90 minutes in Hackerearth platform.
+
+Around 60–65 students were shortlisted for the interviews.
+
+Sprinklr takes 4 interview rounds in general (3 Technical + 1 Culture fit). All rounds were eliminatory and lasted around 45 minutes. The interviews were mostly based on data structures and algorithms, OOPS, OS and DBMS concepts. Some questions were asked on projects and internships from the CV which were of interest to them.
+
+4 students were selected finally.
+
+How to prepare for them?
+
+One needs to have good problem-solving skills and understanding of data structures and algorithms.
+
+Taking the Algorithms course offered by the CSE department is beneficial. Geeksforgeeks is also a good website to learn CS concepts. To practice coding, start solving problems on codeforces.com. Leetcode.com has standard problems which are also helpful for the same.
+
+Giving online contests on this website is also very important. It teaches you to write the entire code, debug and consider the corner-cases too within the timeframe. Practice a lot. Solving all the questions quickly becomes important in placement coding tests because the competition is high.
+
+Make sure you give mock interviews before sitting for actual interviews in placements.
+
+What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+Most top companies look for students from the circuit department or the ones who are exceptionally good in coding. Therefore, to be a relevant candidate, I practiced a lot of programming from leetcode and codeforces. I also improved my CGPA, while learning some concepts such as DBMS and OS.
+
+According to you, who should ideally apply for this job?
+
+All the technology enthusiasts and students who love coding should apply for this job.
+
+Any specific advice you want to give to the junta sitting for placements this year.
+
+Study smart, practice a lot, prepare well. Getting selected in a particular company is not in your hands. A lot of external factors play a role in that. All you can do is work hard and improve yourself. Don’t get demotivated as it will affect your preparation. Some days you will feel low, and it’s completely okay. Take a small break and continue your preparation again. You will get good results. Believe in yourself. Make a study group if possible.
+
+Give mock interviews. Try to explain your code as much as possible. Spoon-feed everything to the interviewer; don’t just assume that they will know about it since it’s a basic thing. Communication skills are also important.
+
+What are some of the major points you think would be valid to mention while targeting this profile? (Any specific suggestions you would like to make?)
+
+Make your CV relevant to the profile you’re applying for. Don’t dilute your CV by adding extra non-related stuff. Also, write only those things which you are confident about.

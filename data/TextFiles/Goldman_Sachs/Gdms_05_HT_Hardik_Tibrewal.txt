@@ -1,0 +1,31 @@
+Brief Introduction
+
+Hey everyone, I am Hardik Tibrewal, a Final Year Undergraduate student from the Department of Electronics and Electrical Communication, IIT Kharagpur. I completed an internship at Goldman Sachs in Summer 2021. I was selected as part of their on-campus recruitment program in IIT-KGP.
+
+Selection procedure
+
+The selection procedure was Goldman Sachs consisted of two stages. The first was an online test conducted on Hackerrank. It consisted of 5 sections: Computer Science Theory, Probability and Statistics, 2 easy coding problems, 1 medium coding problem, and English Writing skills. Your CGPA is the 6th metric on which they judge you. The selection criterion was performing to their standards in at least 3 of the 6 areas, as far as I remember. If shortlisted, there were 3 rounds of interviews. All of them were technical rounds, with some rounds focusing on probability and statistics, whereas the others focusing on DSA(Data Structures and Algorithms) problems. There was no HR round.
+
+How to prepare for them?
+
+For the online test, keep practicing CP till the end (see the Metakgp page for resources). In the month when the tests are scheduled to happen, start brushing up on Comp. Sci. basics and Prob-Stats, courses which you will have most likely completed by then, either with your institute curriculum or online. You can practice writing short answers to questions like “What are your motivations in life?” and other common questions like this if you aren’t confident in your writing skills. For interviews, keep working on your DSA knowledge, and go through the basics of Object-oriented programming if you aren’t familiar with it. Also check out sites like BrainStellar for practicing probability puzzles, which will be asked in the first round.
+
+Your Project Details
+
+I was assigned a Software Development project, which was designing functionality for one of their applications. I worked with Java, but the projects are assigned to you and you aren’t offered a choice, so don’t worry about the specific skills you will need to know before your internship. If you get a software role, it will be beneficial if you have worked on at least some small project of your own and are familiar with Git, at least. Even if you aren’t, you will have time to figure it out.
+
+How was your experience working from home? What difficulties did you face?
+
+The company tried to make WFH as pleasant and interactive as possible. While you obviously miss out on a lot of experiences and, most importantly, networking opportunities online, the overall experience was great for me. As long as you have a decent laptop, a good internet connection, and take the initiative to reach out to people when needed, you won’t face any issues.
+
+What effect could Covid have in the upcoming internship process?
+
+Unless the dreaded third wave arrives before the selection process, the situation faced by this batch will be the same as we faced last year. Please try to arrange for a reliable internet connection and power supply if you can. Try to find a quiet spot without any disturbances or people near you, since that may cause issues during online tests. Form a small group of friends with whom you can talk and vent out any frustrations you will inevitably have during the process.
+
+According to you who should ideally apply for this intern?
+
+People who are flexible regarding the work they will be given because depending on your tests and interviews, you will be assigned a role that may be finance-oriented or software-oriented. You may be asked for your preference in the interviews, but the final decision will be up to the firm, and you won’t be able to change it. If this is not an issue for you, you can happily apply for this role.
+
+And what advice will you give to them?
+
+People tend to ignore their communication skills when applying for interns. Do not do that. Your communication skills will play a significant part in your process (at least in my opinion). Keep improving your DSA and Prob-Stats knowledge. Also, be in touch with PlaceComm members on the day of your interviews, so they can help you if anything goes wrong. Don’t be afraid to reach out to seniors if you have questions. Best of luck.

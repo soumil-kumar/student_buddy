@@ -1,0 +1,53 @@
+1) Brief introduction and description of offered role
+
+Hi Fellas! I am Avi Saraf, a 3rd year undergraduate student of Electrical Engineering. I am currently doing my Summer Internship at Texas Instruments, as an Analog Engineering Intern. I am passionate about hands-on Electronics. I am also excited about the transformation and
+changing face of mobility in India.
+
+2) How did you get into Texas Instruments ? What was the selection procedure?
+
+The selection procedure is fairly simple, unlike other companies, which generally involve multiple rounds.
+
+For TI, after the CV submission, there was a written test based on the roles one has applied for. The test was conducted on 17 July 2023. It consisted of 3 sections — Aptitude, Analog, and Digital (since I had applied for Analog and Digital profiles). After shortlisting, a technical interview was conducted on Day 2.
+
+TI had offered 4 profiles — Analog, Digital, Signal Processing, and Embedded. One can apply for at most 2 of them.
+
+3) How to prepare for them?
+
+It is essential to focus on getting your fundamentals right. The companies do not expect the students to know about advanced jargon but certainly gauge your interest in the domain and clarity in fundamental concepts.
+TI Analog interviews often revolve around RC circuits — covering concepts such as transient response, steady-state response, frequency response, feedback, op-amps (sometimes), amplifiers, etc. You may be asked to sketch a circuit and estimate voltages/ currents at any given node/ branch. As the interview progresses, the complexity of the circuit may increase -depending on your responses to the questions. You may refer to Himanshu Agarwal’s playlist to practice RC-circuit interview questions. For Dual degree students, the interviews generally are much more rigorous and exhaustive.
+
+4) When did you start preparing for this role and according to you, what is the ideal time for aspirants to begin their preparation?
+
+While I had started approaching seniors in the Spring semester to get an idea about the roles and selection procedures, I started my preparation only in May 2023.
+
+For Analog — the concepts covered in the regular coursework are sufficient. About 1 month is sufficient for refreshing basic concepts and problem-solving, provided one has spent sufficient time in the Analog Electronics course. But, do not worry if you feel that you are not confident about the course contents. Take out some time to watch Prof. Razavi’s lectures on YouTube or read the book if you prefer. About 2 months of focused preparation should be sufficient to cover basic theory and problem-solving if starting from scratch.
+
+For digital — the course contents are not sufficient, and it is expected that students have familiarity with Static Timing Analysis (STA), Hardware description language (eg- Verilog), CMOS logic, and basics of Computer Architecture (a 3rd Year course). You may refer to Prof. Onur Mutlu’s lectures/ slides for Computer Architecture, and Prof. ISG’s NPTEL for Verilog.
+
+5) What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+I faced some difficulties in keeping a consistent schedule during the vacations since I had other involvements, too. I wanted to cover basics of Power Electronics, for which I did not get sufficient time. However, I prepared short notes for new concepts and revised them before tests. I solved some PYQs from tests conducted in previous years to understand the pattern of questions.
+
+6) Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chances of securing this internship?
+
+TI is open for circuital departments EE and ECE for all roles. It is open for CSE, MnC, and ISE for select roles. TI does not have a very high CGPS cutoff and does not attach too much importance to your CGPA. A decent CGPA of 8+ should be fine, although it is not rigid. PORs are not considered, but if you have done any projects, it may help during the interview.
+
+7) According to you, who should ideally apply for this job?
+
+If you are among the ones who are still soul-searching to find out which profiles you are made for — worry not, for there are many more like you! An internship is a good opportunity to get first- hand exposure to working in the industry in a role you are passionate about. Remember to be open-minded and explore new domains. TI is a very dynamic organisation having the largest markets in Analog products — which power everyday devices you see around. If you’re excited by what the semiconductor industry offers and are passionate about electronics, you should consider applying for TI.
+
+8) Kindly attach your CV/Resume. What are some of the major points you think would be valid to mention in CV while targeting this profile?
+
+TI does not focus too much on the CV. However, mentioning any projects you have done in Electronics or related areas would be good. Ensure you are familiar with the project details and have basic working knowledge if it comes up for discussion in the interview.
+
+If you have done any good projects and are passionate, feel free to mention it in the interview — that would surely make a mark! The interviewers are senior engineers at TI, from domains such as Data Converters (ADC, DAC, etc.), Power Products (Converters, Gate drivers, etc), RF, Audio, etc in Analog. For Digital — TI has various teams working on Memory, transceivers, microprocessors, etc. It is always good to strike a conversation in the interview so that the panel can get to know you better.
+
+9) Lastly, what advice would you like to give to the students aiming to grab CDC internships this year?
+
+1. Try getting familiarised with the Industry: Attending PPT will give you a glimpse of the products at the company. When you start appreciating the scale at which the semiconductor industry operates and how it enables the world all around us — you will certainly develop a keen interest. For example — I spoke at length about the semiconductor crisis of 2022–23 (which greatly affected the automotive and consumer electronics industries) about my views during my interview.
+
+2. Make sure to gave good grasp over fundamentals: If you have a good grasp over fundamentals, you are equipped to handle any challenge that maybe given to you. For all roles, basic working knowledge will be required in Signals &amp; Systems, Microelectronics, Digital Electronics, and Control Systems (basic understanding of feedback).
+
+3. Believe in yourself: The internship selection process may feel intimidating at first, but it is important to keep going and have faith in yourself. There’s lots to learn and each one of you will have charted a unique path. Finally, feel free to get in touch in case of any queries (Contact no. — 9051386495).
+Good Luck!
+Avi Saraf

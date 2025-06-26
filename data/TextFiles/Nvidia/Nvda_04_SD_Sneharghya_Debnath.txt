@@ -1,0 +1,38 @@
+1) Brief introduction and description of the offered role.
+
+My name is Sneharghya Debnath. I am a third-year undergraduate student of the Department of Electronics and Electrical Communication Engineering enrolled in its BTech course. I’m from Kolkata, West Bengal. I received an internship offer from Nvidia in 2023 in the Hardware Profile. As an ASIC intern, one has to work on the design and verification of digital ICs.
+
+2) How did you get into Nvidia? What was the selection procedure?
+
+There were two rounds — an MCQ test and a technical interview of 45 minutes.
+
+3) How to prepare for them?
+
+The course on Digital Electronics in the 4th semester and the NPTEL course on Digital Electronics by Prof. Gautam Saha are sufficient for the concepts required. It is also good to have some knowledge of analog electronics — the underlying principles of digital circuits, for which Razavi is a great book. For the programming section — the 1st year course on Programming and Data Structures is sufficient (the Data Structures part isn’t even required). For the aptitude section, it is best to practice from the previous year’s papers. Verilog and Computer Architecture weren’t covered in my coursework as I just completed my 4th semester. I studied the basics of Verilog from Prof. Indraneel Sengupta’s NPTEL Course. Similarly, I went through a bit of Computer Architecture (the first 10–12 lectures) from the NPTEL course on the same. It is good to go through the concept of Static Timing Analysis, for which any YouTube Video is sufficient. For the puzzles asked in the interview, I went through some of the GFG puzzles.
+
+4) When did you start preparing for this role and according to you what is the ideal time for aspirants to begin their preparation?
+
+I started preparation in the summer break after my 4th semester. According to me, this is the ideal time for aspirants to start their preparation.
+
+5) What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+The best way to understand/verify a complicated circuit is through simulations. Verilog simulations are helpful for understanding the digital circuits, while SPICE simulations can help in proper understanding of transistor-level functions. For any difficulty I faced during the preparation, first I used to consult books/notes/online material followed by simulation if not resolved by the above.
+
+6) Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chances of securing this internship?
+
+Students from Departments like CSE, ECE, and EE can only apply for the internship at Nvidia in the Hardware Role. The company had a CGPA cutoff of greater than 8. PORs are not necessary.
+
+7) According to you, who should ideally apply for this job?
+
+Students having a keen interest in Digital Electronics and Computer Architecture should apply for this internship.
+
+8) Kindly attach your CV/Resume. What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+Major Points to include in CV are:
+
+Projects or past internships in the relevant or related domain.
+Skills
+Academic Achievements, publications/patents (if any).
+9) Lastly, what advice would you like to give to the students aiming to grab CDC internships this year?
+
+It is very useful to solve the previous year’s questions to ace the MCQ test. For the interview round, the key is to be confident and share your thoughts, even if you’re unsure. The interviewers are more interested in your problem-solving skills and thinking approach than the answer.

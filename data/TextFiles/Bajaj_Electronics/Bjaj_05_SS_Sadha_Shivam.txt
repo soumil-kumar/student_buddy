@@ -1,0 +1,43 @@
+Brief Introduction:
+
+Hello! I am Sadha Sivam M, a 3rd-year undergraduate student from the Department of Mechanical Engineering at IIT Kharagpur. I am from Madurai, Tamilnadu. I am currently doing my summer internship at Bajaj Auto. Looking forward to sharing my experience!
+
+How did you get into Bajaj Auto? What was the selection procedure?
+
+I applied to Bajaj Auto through the CDC Internship portal.
+
+The selection process:
+
+The selection process involves 2 rounds of tests and 2 rounds of interviews.
+
+How to prepare for them?
+
+Round 1 — Aptitude and Technical Assessment:
+
+This test comprises 2 sections — Aptitude (Analytical Reasoning, Quantitative, English) and Technical.
+
+The Aptitude section was quite simple, practicing regular aptitude questions from various sites online will be more than sufficient to score well in this section. The technical section, as anyone would expect, was the complicated one. The questions were asked from IC Engines, materials, failure theories, thermodynamic cycles, fluid mechanics, etc. Revising class notes of all the core courses and practicing GATE questions would be helpful to answer this section.
+
+If you are shortlisted in the technical assessment you will receive a link for a Psychometric assessment which is the second round of the tests. It doesn’t require any special preparation. It is enough to be consistent with your answers throughout the questionnaire.
+
+Round 2 — Interview(Technical and HR):
+
+The first round was the technical interview. After finishing my introduction I was asked to pick my favorite project from my resume and explain it. The interviewers interrupted and asked questions during my explanation. They also asked a few conceptual questions based on the other projects on my resume. The interview lasted for around 20 minutes and I was shortlisted for the HR round.
+
+In the HR round, the interviewer asked a few general questions and it was more about whether I was interested to work in the company. I would like to give only a couple of advices for the HR round — Express your interest to work in the company and at the end when the interviewer asks if you have any questions to ask, do ask a question or two about the company or any job-related queries.
+
+What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+As I wasn’t a Dual Degree student, I faced difficulties while preparing for the technical assessment. A few topics like IC engines, failure theories, etc, are taught only in the 3rd year, hence it was quite challenging for me to prepare these topics for the test. I took the help of various GATE preparation resources to get an understanding of these topics which helped me during the test.
+
+According to you, who should ideally apply for this job?
+
+Anyone who is into core mechanical/electrical engineering should apply for an internship at Bajaj Auto. If you think you are good with the fundamentals of your branch and enjoy working in the core field you should go for it. It is an advantage if you have projects/interns in the core field.
+
+What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+Mentioning projects related to core, research interns in the core field, any other intern(at a startup), or research society involvements(TeamKart, AGV, etc.) in the CV could help you immensely during the interview. Having any of these in your resume will help you to steer the interview to the areas in which you are comfortable.
+
+Any specific advice you want to give to the junta sitting for internships this year.
+
+The overall CDC internship process is unpredictable, it can become extremely cumbersome and hectic. From my personal experience, if you are someone who wants to pursue core, patience is something you will require the most. You will see your non-core friends getting shortlisted and receiving offers everyday and even, some of your friends in core who have a little experience might get a good offer from a non-core company, these little things could make you anxious and might dent your confidence, but it is very important for you to back your decision and stay true to your intent. At any point in time don’t get into the fear that you aren’t good enough, just be confident and keep going! All the Best!

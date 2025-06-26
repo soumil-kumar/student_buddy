@@ -1,0 +1,56 @@
+Brief Introduction
+
+Hello everyone! My name is Sreyash Layek. I am a fourth-year undergraduate student of the Department of Electrical Engineering enrolled in its Dual Degree program with a specialization in Machine Learning and Signal Processing. I will be joining Bajaj Auto as a summer intern in its R&D EEE Department for the summer of ‘23.
+
+How did you get into Bajaj? What was the selection procedure?
+
+Bajaj Auto came on Day 2 of the Internship drive and was opened for AE, ME, EE, EC and IM branches for CV submissions. After CV shortlisting, the selected candidates were invited for an MCQ test.
+
+The MCQ Test consisted of 90 questions which had to be completed in a window of 90 minutes. The test comprised of 4 sections namely-
+
+English comprehension (15 questions)
+Statistics (15 questions)
+Analytical questions and puzzles (15 questions)
+Core / Technical questions (45 questions)
+The shortlisted candidates were then invited for the interview rounds. There were 2 rounds- One Technical Round and one HR round.
+
+Technical Round: Very Basic questions from Electrical circuits, Transient states were asked. Then, I had a project in my resume that used CNN to detect Covid-19 through cough samples. They asked me to explain the model architecture and subsequent questions followed where we discussed how we can deploy the project in real-time. This round typically lasted for around 20 minutes.
+
+HR Round: Thetion Technical Round was followed by an HR Round, where I was asked about my choice of MTech specialization. It was followed by a brief discussion on my projects and we again discussed how some of them can be improved and deployed to solve some of the existing challenges. Also, we had a small discussion regarding my PORs on campus. This lasted for another 20 minutes.
+
+After the HR round, within 15 minutes I was informed about my selection in Bajaj Auto.
+
+How to prepare for them?
+
+For the MCQ Test, English/comprehension questions are fairly intuitive and you don’t need preparation for that. For Analytical and Statistical, knowledge of basic statistics, probability, Permutation and Combination is a must and you can practice additional questions from CAT's previous papers, solve puzzles from brainstellar.com and solve ample probability, analytical questions from the web.
+
+For the technical questions, following the course curriculum of EE is enough. Special care must be given to studying some core EE courses like Power Electronics, Controls and Electrical Machines. Also, be thorough with the knowledge of Basic Electronics.
+
+Questions asked are easy and don’t involve lengthy calculations, having basic knowledge works for most cases.
+
+For the interview rounds, be very thorough with your CV and you must be able to explain all your projects well. Confidence is key and they check your confidence and problem handling skills along with the generic technical skills.
+
+What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+The MCQ test will require you to solve 90 questions in 90 minutes, so the test is heavily dependent on how quickly one can solve questions. If you are not thorough with the concepts, you won’t be able to finish a considerable number of questions on time.
+
+Spend most time of your summer practicing analytical statistical questions as no matter which profile you sit for, these will come in handy. Additionally, revise all previous EE courses to perform well in the test.
+
+According to you, who should ideally apply for this job?
+
+Students interested in core Electrical Engineering and having an interest in Automotive industry/ Electric Vehicles should apply for this internship.
+
+Any specific advice you want to give to the junta sitting for internships this year?
+
+Take extra care while making your resume. Make different resumes for different profiles and get them verified by as many seniors as possible.
+During the internship drive, don’t forget to maintain a healthy lifestyle and a good sleep cycle, falling sick during this time is the last thing you would like.
+Be very thorough with the topics mentioned in your resume.You need to have a clear picture of your resume in your mind. You must be able to defend everything written on your resume.
+During the interviews, don’t panic. Be confident and have a healthy discussion with the interviewers. It would be even better if you could lead the conversation and drive the process in your favor.
+Lastly, CDC Internship Drive often takes a toll on your health. It’s advised that you stay in touch with your friends during the time and support each other through the process. CDC Internship process is just one of many opportunities available, so in parallel opt for other options that you find on the web.
+What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+Having a project in the respective field often helps, but it’s not a requirement. (I, personally, didn’t have any core projects on my resume).
+
+Have a decent CG(preferably >8.00, it will be even better if >8.50).This should get you through most of the CG shortlisting.
+
+Mention any coursework that you find relevant to the internship, this could be a great conversation starter if you don’t have projects to mention in your CV.

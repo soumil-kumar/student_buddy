@@ -1,0 +1,55 @@
+1) Brief Introduction and description of your offered role.
+
+Hi! I am Rajdeep Das. I am a recent graduate and was a dual degree student in the CSE department. I am currently working as a Product Engineer at Sprinklr. Sprinklr is Saas company, and it has a CXM Platform that brands use to manage their customers’ experience. My team manages the backend.
+
+2) How did you get into Sprinklr? What was the selection procedure?
+
+Sprinklr had an online assessment round; 3 coding questions were asked, and those who could solve 2 questions were shortlisted. 36 People were shortlisted for the interviews.
+
+Sprinklr conducted five interview rounds, including three Technical rounds, one Bar-raiser round, and one HR interview.
+
+In the first round, the interviewer asked me approximately 5–6 medium difficulty questions, mostly standard ones, taken from Leetcode. He then asked me a couple of OOPS-related questions after that.
+
+In the second round, 2 coding questions were asked, which were also medium-difficulty questions taken from codeforces. I solved them before time. So, the interviewer asked me a bonus probability question, which I could not solve correctly. However, since it was an additional question, it did not impact the interview outcome.
+
+In the third round, the interviewer asked about my Deep Learning-based MTP project and some basic CNN questions. Then he asked me a coding problem similar to the “Median of two sorted arrays” followed by a more generalized version of it.
+
+In all three rounds, the interviewers asked me about my internship project. Each of the technical rounds lasted for approximately 45 to 50 minutes.
+
+The fourth round was a bar-raiser round, and it was a mixed round, taken by a VP of product engineering. He asked me a few HR questions. Then he asked me a fairly easy question from SQL; although I couldn’t write the complete syntax, I told him the logic. It lasted around 15 minutes.
+
+Lastly, there was a 30-minute-long HR round. I was asked questions such as “Why Sprinklr?”, “What do you know about Sprinklr?”, “How do you handle stress?”, and “Could you share a situation where you had a different perspective from your mentor or manager?”.
+
+My interviews began in the morning around 7 and continued until 3 P.M.
+
+3) How to prepare for them? What difficulties did you face during this time?
+
+You need to be good at Programming. Although, you don’t need to do hardcore CP. I mostly practiced from Leetcode and binarysearch.com.
+
+Also, you need to prepare OOPS, OS, DBMS, etc. They didn’t ask me any questions from OS, but my friend was asked the same. Lastly, prepare a few System Design questions to be on the safer side.
+
+4) If you have already joined the company, could you share your perspective on the work-life balance? Additionally, how would you describe the culture there?
+
+Search in Glassdoor/AmbitionBox to get reviews :P. Work-life balance depends on your team and the product your team is working on. Fortunately, in our team, weekends typically remain work-free :P. Right now, Sprinklr doesn’t have many amenities, but a new office will open up soon, so hopefully, it will have something fun. Food is available from breakfast to dinner.
+
+5) How did you manage your time alongside academics and extracurriculars (if any) to prepare for CDC?
+
+You need to give more time to CDC prep than Acads if your main aim is to get a good Job. I suggest choosing subjects wherein you have to put less effort. And take help from friends with PPO, for projects, assignments, etc. Don’t pull yourself back from giving extra effort this semester because the semester after getting placed will be chill.
+
+6) According to you, who should ideally apply for this job?
+
+Sprinklr is known for growth. The role is suitable for those who would like to put more effort into the early stage of their career. The tech stack in Sprinklr is the latest. Java, Kubernetes, Mongo, ElasticSearch, and Kafka are mostly used for the backend. Frontend PEs use React. There are ML and Mobile Roles as well.
+
+7) What specific advice would you give to the junta to handle stressful situations and maintain their calm?
+
+Divide & Conquer! Keeping small goals for every day helps. Never compare yourself with others; instead, focus on improving your skills!
+
+Take deep breaths to stay calm & opt for a seat in the corner rather than the middle to minimize distractions while giving online assessment in Nalanda!
+
+Remember that it’s not possible to excel in every test. Instead of dwelling on the test that didn’t go well, prioritize your efforts on preparing for the upcoming one.
+
+8) What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+Sprinklr doesn’t do CV shortlisting, as far as I know. It’s based on the online assessment. I highly doubt the interviewer read the complete CV. Keeping short & descriptive headings helps the interviewer to get a gist of your CV. Bold the keywords you want to highlight, but don’t overdo it.
+
+All the best for the upcoming Placement Season!

@@ -1,0 +1,21 @@
+Brief Introduction:
+My name is G.Vishal. I am a 4th-year student of the Department of Computer Science and Engineering. I interned at Goldman Sachs in the Risk division this summer.
+
+Selection Procedure:
+First, there was a written test consisting of some basic programming questions and some objective type questions on Prob. Stats. and basic CS. It was followed by 4 rounds of interviews, which was based on Probability and Stats. and some puzzles. I didn’t have any programming interviews as such.
+
+How to prepare for them:
+I think one can do well in the interview with some revision of the basics of Probability Statistics and having some practice on the same topic.
+Doing some Coding practice would also help a lot, in general. Geeks for Geeks is a good resource for both in my opinion.
+
+Your Project Details:
+My project consisted of creating a new benchmarking model for the existing CVA(credit valuation) calculation system using Neural Networks. It consisted of a lot of math and also needed programming skills. I liked my project because, instead of working on some dummy project, I got to work on a project which I personally felt had a lot of scope for impact.
+
+Company Culture:
+The most amazing thing about the company is its culture. The people are really amazing, they are very approachable and friendly as well. I always felt very comfortable with them.GS has a very flat culture, which I felt was really impressive.
+
+According to you who should ideally apply for the intern:
+People who like math, quant and want to have an idea of the financial services sector should definitely apply for this internship, as it was surely a very good learning experience for me.
+
+And what advice will you give to them:
+I don’t think I am qualified enough to dole out advice in general :), but one thing I would like to say is that believing in oneself really helps a lot.

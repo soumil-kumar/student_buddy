@@ -1,0 +1,27 @@
+Hello, I am Anish Mondal (18EC35033), a 5th-year dual degree student from the Department of Electronics and Electrical Communication Engineering. I received an offer from Texas Instruments in the Signal Processing Profile during my 4th year.
+
+How did you get into Texas Instruments? What was the selection procedure?
+
+I bagged the internship via the Career Development Centre (CDC) campus internship drive. The selection procedure for the internship includes an objective type screening test based on the different broad topics (Analog, Digital, Signal Processing, and Programming), based on the results of which we get interviews for different profiles. There is also a puzzle section for the objective exam, which is compulsory. One can apply for more than one profile and thus may receive multiple interviews for different profiles. In the end, you must choose one particular profile for your internship.
+
+How to prepare for them?
+
+As far as preparation is concerned, most of the things asked in interviews are taken from the ECE courses, which must be revised before the internship drive starts. Some topics are generally not covered in lectures, like static and hold time and cache access time and hit ratio, which should be studied for the digital profile. A summary of all the necessary topics for each of the companies is given in the link below, which was compiled by Gautam Jha, a senior of mine.
+
+CDC Guide for E&ECE Core companies
+
+What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+I was doing an internship, the summer before my CDC internship drive, and hence I had lesser time to revise the subjects than some of my classmates. So, in this case, I had to dedicate some time in the week (during my internship) to revise my course subjects.
+
+According to you, who should ideally apply for this job?
+
+These roles are generally open for people of circuit branches already familiar with pre-requisite knowledge of each of these profiles.
+
+Any specific advice you want to give to the junta sitting for internships this year?
+
+I wanted to let the students who want to go for core ECE/EE internships know that there are a lot of openings in this sector, and they should not be worried about securing an internship. Suppose they are unable to secure internships at Google Hardware on Day 1 or Nvidia and Texas Instruments on Day 2 (the first week of results). In that case, they should not be disheartened as many companies come for campusing in the latter days of the internship drive, like Qualcomm, Micron, Intel, Samsung, and many others who also look for people having similar profiles.
+
+What are some of the major points you think would be valid to mention in your CV while targeting this profile?(any specific suggestions you would like to make?)
+
+You could mention the courses you have taken relevant to your profile. As far as mentioning projects and PORs, they are of little importance if they do not apply to your profile. Irrespective of what points you write in the CV, the interviewer will test you on the basic concepts of the subject.

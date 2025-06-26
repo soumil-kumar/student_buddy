@@ -1,0 +1,41 @@
+1) Brief Introduction
+
+I am Adarsh, a 4th year undergraduate from the department of E&ECE. I am from Jamshedpur, Jharkhand. I like to play computer games, watch web series and talk with my friends.
+
+2) How did you get into Sprinklr? What was the selection procedure?
+
+The selection procedure consisted of multiple rounds. The initial round was a coding round, which included three questions. The first question was based on arrays and prefix sums, while the other two were related to trees, involving mathematical concepts and dp on trees. The first question was relatively easy, while the second and third questions were of medium difficulty. I was able to complete all the problems within 45 minutes, which made me hopeful of being shortlisted.
+
+The initial shortlist included students who were able to solve all the problems. However, later on, the shortlist was extended to include the students who completed two problems completely and one problem partially. This expanded shortlist advanced to the next stage, which comprised three rounds: two technical interviews and one HR round.
+
+In the first technical round, the interviewer began by asking whether JavaScript is pass-by-value or pass-by-reference. I honestly admitted that I could guess but did not know for sure. The interviewer acknowledged my response and then presented me with a dynamic programming problem. Although I initially struggled to grasp the problem, I provided a brute-force approach. When the interviewer requested an optimized solution (which I hadn’t considered at that moment), I asked for clarification to better understand the question. Once I comprehended the problem, I presented the optimal solution. The interviewer then asked me to open a text editor of my choice and write the code. During this process, he cross-questioned me, exploring alternative scenarios by suggesting modifications to the code. I confidently answered all the queries, and the interviewer praised my performance. However, he inquired about my knowledge of data structures. When he asked if I was familiar with segment trees, I responded affirmatively. He then posed some simple range query problems, which I successfully solved. Additionally, he specifically asked me about lazy propagation, to which I explained the logic. He further asked if I could code it without using a template, and I assured him that I could, although it might take some time. He accepted my answer, and we proceeded with the discussion, during which he shared information about the technology stack used at Sprinklr, emphasizing their focus on new technologies rather than legacy code.
+
+In the second technical round, the interviewer began by emphasizing that the internship would be my first major project. He then proceeded to ask a problem related to topological sorting in graphs. I quickly understood the logic before he finished presenting the question and immediately recognized it as a topological sort problem. I explained the method to him, and he instructed me to write the code in my text editor. While coding, he provided guidance and pointed out any mistakes I made, allowing me to correct them. After completing the question, he presented problems related to expectation value, which surprised me since the role was for a software development engineer (SDE). Nevertheless, the problems were relatively easy, and I promptly solved them.
+
+Following the technical interviews, there was an HR round where the interviewer asked typical HR questions, such as inquiring about my qualities and how they had aided me in the past. Additionally, she posed a situational problem based on working in a toxic environment, to which I provided a satisfactory response. After this round, my friend took my phone from my hand and sent a message inquiring about the result to the placecomm. To our delight, they replied positively.
+
+3) How to prepare for them?
+
+As a dual degree student, I observed the internship phase of the B.Tech students. To gather insights, I approached a friend (Shobhit Gupta) who had received an internship offer from Sprinklr and asked about his preparation strategy. He simply said — “CP karlo ho jayega”. Taking his suggestion, I began practicing CP problems from the beginning of my third year, primarily on Codeforces. Additionally, I watched videos from AlgoZenith, a resource for learning algorithms.
+
+Initially, I faced difficulties in solving C-level problems. To address this, I decided to complete the A2OJ Div2 C ladder, which proved to be an effective way to enhance my problem-solving skills. I finished the ladder in November. Soon after, I started participating in Codeforces contests, and by December, I achieved the Expert rating (although I was fortunate since there were two Div3 rounds during that time since to become expert in second ID it took me much more time). After completing the Div2 C ladder, I moved on to the Div2 D ladder. This ladder introduced me to various new types of problems related to algorithms and data structures that I was unfamiliar with at the time. To learn these new concepts, I relied on resources such as the cpalgorithms website and blogs on Codeforces and practiced those on cses before proceeding to codeforces. I also studied the code of highly-rated coders to understand how to implement techniques efficiently.
+
+In January, IIT Kharagpur announced an offline semester. Initially, I did not focus much on CP due to the offline activities. However, when the COVID-19 cases surged, I returned home and resumed my practice. During the offline part of semester, I gave my time to participating in contests(I had 2IDs and I used to give contests from the ID that was lower in rating this maintained the stability) , but I couldn’t practice as intensively on campus. Once the exams were over, I returned home and began practicing more rigorously. I set a filter for problems in the range of 1800 to 2200 and worked on solving problems within that range. I continued using the strategy of two Codeforces accounts mentioned earlier, participating in contests from the account with the lower rating to maintain a stable overall rating.
+
+Around one month before the internship tests, I was able to solve four problems in Div2 contests. Additionally, I started practicing on InterviewBit, although I couldn’t complete the platform (I had covered about half of the problems by the time the tests began). On Codeforces, my ratings were 1887 and 1869 on my first and second accounts, respectively, at the time of the tests. Overall, practicing on Codeforces significantly helped me since the platform exposes you to a wide range of problems, including those that may appear unexpectedly in tests or interviews.
+
+4) What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+I did not encounter any specific difficulties. However, I believe that if the third year had been conducted offline, it would have presented numerous challenges due to time constraints and other commitments in college.
+
+5) According to you, who should ideally apply for this job?
+
+I guess anyone who has an interest in software development and likes problem-solving.
+
+6) Any specific advice you want to give to the junta sitting for internships this year?
+
+Same advice as my friend gave to me — “CP karlo ho jayega”.
+
+7) What are some of the major points you think would be valid to mention in your CV while targeting this profile?(any specific suggestions you would like to make?)
+
+Projects are not very important. In my personal experience, the interviewer did not inquire about my projects. However, if you choose to include good projects in your CV, be prepared to be grilled on them.

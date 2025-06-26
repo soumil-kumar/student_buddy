@@ -1,0 +1,42 @@
+Brief introduction and description of offered role
+Hello everyone! My name is Ashutosh Dash. I am a 4th year undergraduate student of the department of Mechanical Engineering with a specialization in Financial Engineering. I am from Bhubaneswar, Odisha. I will be joining Bajaj Auto as a summer intern in its R&D Department for the summer of ‘24.
+
+2. How did you get into Bajaj Auto ? What was the selection procedure?
+
+My journey to securing an internship at Bajaj Auto began with thorough preparation and an understanding of the selection process. Initially, there was a CV shortlisting round, and mostly you will get shortlisted if you have a decent enough CGPA (above 7.0 was the benchmark that is mostly followed). Following that, I faced a rigorous technical assessment similar to the GATE pattern, which tested a wide array of subjects from the mechanical engineering curriculum. Successful candidates then underwent a psychometric test designed to evaluate personality traits and resilience. The final stages were the technical and HR interviews, which assessed both my technical knowledge and interpersonal skills.
+
+3. How to prepare for them?
+
+Preparation for Bajaj Auto’s selection process should be methodical and precise. For the technical test, it’s crucial to have a solid grasp of core mechanical subjects like Solid Mechanics, Thermodynamics, Heat Transfer etc. and should also have a decent understanding of some first year mathematics stuff like numerical estimations, solving differential equations etc. Revision from class notes and additional problems from textbooks can be very helpful as and when you encounter these courses in your semesters. For the psychometric and interview rounds, it’s beneficial to get your core and basic concepts of mechanical engineering clear and have a thorough understanding of what you have learnt through your semesters. Familiarity with your own projects and coursework is key, as these are common topics during interviews. Confidence and fluency both during interview and psychometric tests are some of the soft skills that you should develop in the last days of your preparation.
+
+4. When did you start preparing for this role, and what is the ideal time for aspirants to begin their preparation?
+
+I started preparing for this role towards the end of my third year, practically during the summer vacation before the internship selection sessions. Ideally, aspirants should begin their preparation at least 3–4 months before the internship season starts. Prior to this they should be involved enough in the courses throughout the semesters in the courses they take both as Core as well as Depth Electives. This can smoothen their preparations, instigate more confidence in them and help them avoid last minute rush and rough preparations. In case a candidate has been sincere enough throughout their semesters, 3–4 months is an ample amount of time to strengthen their understanding of both core mechanical concepts and develop soft skills essential for acing multiple rounds of interviews.
+
+5. What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+The MCQ test that you will initially face will have 90 questions to be completed within 90 minutes, placing a significant emphasis on your speed and accuracy. Without a solid understanding of the concepts, you may find it challenging to answer a substantial number of questions within the allotted time. Therefore, my suggestion would be to keep practicing as many questions as possible once you conclude your preparation, so that you can be at your best possible speed and accuracy on the day of the test
+
+One major challenge was balancing the preparation for multiple profiles, as each of them have distinct requirements. To manage this, I structured my study schedule to allocate specific times for core mechanical subjects as well as other profiles that I was preparing for.
+
+One piece of advice would be in case you are going for preparations for multiple profiles and one of them is core, then you may choose the others to be non-technical profiles as choosing a mixture of both core as well as technical profiles like SDE and Data Science will more often lead you towards a greater cloud of confusion and will hinder the completeness of your preparation towards either of the chosen profiles. Whenever and wherever stuck, I would suggest engaging in discussions with peers, seniors and professors in order to obtain deeper insights and to get your doubts clarified effectively.
+
+6. Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chances of securing this internship?
+
+The internship at Bajaj Auto primarily targets mechanical engineering students, although candidates from related fields are also considered if they have relevant skills. A CGPA of above 8.5 is generally preferred (although the cut off to sit for tests is 7.0) and CGPA does hold a great deal of importance atleast during the interviews.
+
+One more important aspect is the quality of projects that you would have done in your respective departments. They actually get a lot of content to hold conversation with you and engage with your interests in case you have any such interesting projects in your resume. So my suggestion would be to at least have two or more projects written on your resume in order to craft the interview in your desired direction and to base it on the topics in which you feel most confident about.
+
+Holding positions of responsibility or engaging in extracurricular activities can also enhance a candidate’s profile by demonstrating leadership and teamwork skills but in case anyone doesn’t have them, they need to worry as these are just brownie points and the recruiters do not stress very much on these segments during the interview.
+
+7. According to you, who should ideally apply for this job?
+
+This role is best suited for individuals who are passionate about the automotive industry, particularly those with a strong foundation in mechanical engineering principles. It is also well-suited for someone who is interested in mechanical engineering and wants to explore more about the industrial and real-life applications of the academics that they have learnt till then. This role is also well suited for people who want to explore cross-domain applications of mechanical engineering like how mechanical engineering can intersect with emerging technologies like EVs etc.
+
+8. Kindly attach your CV/Resume. What are some of the major points you think would be valid to mention in CV while targeting this profile?
+
+Key points to include in the CV for this role would be relevant coursework, projects, and any internships that demonstrate applied mechanical engineering skills. Additionally, leadership roles in technical clubs or teams can also be significant, as they show an ability to manage projects and work collaboratively.
+
+9. Lastly, what advice would you like to give to the students aiming to grab CDC internships this year?
+
+My advice would be to focus on understanding your core subjects thoroughly and to get involved in hands-on projects or research that can showcase your skills. Try to maintain your CGPA as high as possible by focussing on the academics taught during the semesters, as it stands out as a crucial parameter of judgment atleast for core profiles. In case you can, try to maintain a well-rounded profile with extracurricular activities that highlight your leadership and teamwork capabilities. Lastly, be proactive in seeking feedback on your CV and prepare diligently for interviews by reviewing common questions and practicing with peers or mentors.

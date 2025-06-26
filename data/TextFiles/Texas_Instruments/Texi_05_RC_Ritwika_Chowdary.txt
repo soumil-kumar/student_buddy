@@ -1,0 +1,30 @@
+Brief Introduction:
+My name is Ritwika Chowdhury. I did my Software Engineering Internship at Texas Instruments during the summers of 2018.
+
+Selection Procedure:
+It starts with an Online test consisting of MCQ questions. For the Software profile, the test had questions from Algorithms, Data Structures, C, Embedded system and a separate section for Aptitude.
+
+However for the other three profiles — Analog, Digital, Digital Signal Processing they had MCQ questions from the respective domains.
+
+After clearing the Online round, there are usually 2–3 rounds of personal interviews. I had 2 rounds of interviews. The Questions asked for the interview round were majorly from Data Structures and Algorithms. Other than that there were questions on Embedded Processors and Computer Memory(basic questions).
+
+He asked about timers, interrupts and some of the fundamental questions from Embedded System.
+
+During the first round of interview, each of the students was given one hour to solve one coding question mentioning each step in detail. ( It was not like a regular question you would find on any coding platform.) That was done majorly to check the approach that the student has taken and also his/her grasp of coding.
+
+In the second round of the interview, I was also asked to write a small code in embedded C.
+
+How to prepare for them:
+Good knowledge of Algorithms and especially Data Structures is required. I would suggest studying from geeksforgeeks. Simultaneously one should practise from Interviewbit or similar coding platforms. A revision of the fundamentals of embedded processor is advised. However, the most important thing is to know each and every detail one has mentioned in his/her CV.
+
+Your Project Details:
+Bandwidth optimized Lens Distortion Correction Module.
+
+Company Culture:
+The people at TI are really friendly and helpful. Emphasis is laid on teamwork. The employees mostly get to work on the end to end development of a product there. No restrictions on timings. There is a hub for extra-curricular activities called Texin. It has courts for badminton, volleyball, tennis, cricket etc. It also has gym, dance, music and yoga rooms and a lot more. Overall experience was really good.
+
+According to you who should ideally apply for the intern:
+People who really like coding should apply for it.
+
+And what advice will you give to them:
+Do not target one specific company, instead target a profile which you like and prepare for it. You may have a dream company but a lot of factors play a role during the selection procedure. Prepare well but remember it is not the end of the world.

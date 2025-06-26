@@ -1,0 +1,53 @@
+1) Brief Introduction
+
+Hello, my name is Vidushi Agarwal. I am a pre-final year undergraduate student at IIT Kharagpur pursuing a Bachelor’s degree in Electronics and Electrical Communication Engineering. I am interning at Goldman Sachs as a Summer Analyst in the Asset and Wealth Management division.
+
+2) How did you get into Goldman Sachs? What was the selection procedure?
+
+The selection process consisted of one online round and two (for some it was three) interview rounds.
+
+The online round consisted of 4 sections each with a specified time limit.
+
+Section 1 tested quantitative skills, with a focus on probability and statistical questions, along with some fundamental trigonometry and logical reasoning questions.
+Section 2 was a subjective section that tested HR skills, with two basic questions to be answered within the given time limit. These questions are usually the same every year. As the time here is constrained i would suggest to you to prepare them before hand.
+Section 3 was CS fundamentals. It comprised of core CS topics like DBMS, OOPS, computer networks and others.
+Section 4 was the coding round. It consisted of two coding questions- one on graphs and the other on dynamic programming. I managed to complete one of them and some testcases passed for the other one.
+The first round of interview started with some CV grilling. As i was being interviewed for software profile the interviewer was interested in my projects and asked to explain one too. Afterwards he moved on to some basic linked list implementation questions where he even asked me to code it. The interview was quite interactive and engaging, and after it concluded, I was called back for the next round.
+
+The second round started with ad-hoc questions, which I was expected to code on the spot. The interviewer then proceeded to add constraints to the problem, challenging my approach to the problem-solving process. The interviewer also posed a few puzzles, which I solved through brainstorming and careful analysis.
+
+3) How to prepare for them?
+
+To excel in coding interviews, the first step is to master basic data structures and algorithms. Once you have a firm grasp of the fundamentals, you can strengthen your problem-solving skills and develop a fast thinking to crack the coding questions in the online test. I recommend practicing questions from popular platforms like GeeksforGeeks, LeetCode, and CSES. You can even go for questions module-wise on Algozenith too.
+
+After gaining proficiency in standard DSA questions, you can test your skills by participating in coding competitions on platforms like CodeChef and Codeforces.
+
+Also I would strongly recommend participating in various coding competitions, as this can have a positive impact on your CV. Additionally, it is crucial to practice dynamic programming, graphs, and trees extensively. For DP problems, I suggest tackling the hard and medium level challenges on LeetCode, while for graph problems, I found the CSES problem set to be quite helpful.
+
+As you approach the last two months of your preparation, I strongly recommend using InterviewBit, as their problem set covers all the concepts you need to know and are likely to encounter in coding interviews( i did get one). During this time, you should also focus on solving puzzles and probability questions. For puzzles, I suggest checking out resources like “Heard on the Street” and GeeksforGeeks. For probability, you can try the book “50 Challenging Problems in Probability.”
+
+Finally, for CS core concepts like DBMS, OOPS, and networks, I suggest setting aside the last 2–3 weeks of your preparation to review and gain a rough understanding of these topics. You can refer to short notes on websites like AlgoZenith or GeeksforGeeks to help you quickly review and reinforce these concepts.
+
+An important pointer: Don’t get overwhelmed by all the different learning resources out there. Try to stick to one or two that really work for you, so you don’t end up spending too much time wading through a ton of different stuff.
+
+4) What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem
+
+One of the biggest challenges I faced during my CDC preparation was the daunting amount of material to cover in a limited amount of time. To combat this, I found it helpful to team up with a small group of 2 or 3 peers. By setting targets and discussing problems together, we were able to make steady progress while also maintaining our mental well-being. I mean, let’s face it, CDC prep can be pretty exhausting, so it’s nice to have some support along the way. This approach allowed us to tackle difficult topics more efficiently and effectively.
+
+5) According to you, who should ideally apply for this job?
+
+Anyone who is interested in problem-solving and software development can apply for the software profile.
+
+6) Any specific advice you want to give to the junta sitting for internships this year.
+
+Try to think out loud and keep talking to the interviewer. Trust me, it helps! If you’re stuck or going in the wrong direction, the interviewer might give you some hints or correct you. Also, interviewers are not just testing your coding skills, but also your communication skills, so don’t be a mute button.
+Dont panic. Be confident and believe in yourself.
+The interview judges your approach more than your code. Try to be clear while explaining yourself. Always start by brute force approach and gradually optimize it.
+Do practice some puzzle based problems and probability problems beforehand. It will help you in both online round and interview round. 50 challenging problems in probability and heard on the street(recommended books for Quantiative Aptitute) and you can practice puzzles from GeeksForGeeks
+Prepare a short and crisp introduction about yourself and do give mock interviews.
+Although CGPA is not a criterion, maintaining a CGPA of 8 or above is definitely a plus point.
+7)What are some of the major points you think would be valid to mention in your CV while targeting this profile?(any specific suggestions you would like to make?)
+
+Do mention your internships or projects thoroughly in the CV. As in the initial round of interview you can get a major point for discussion.
+Do mention your rankings in various coding competitions like kickstart, codejam,ICPC, Codeforces, Codechef).
+Do make sure than you showcase your strengths through your CV properly. But do not mention anything you cannot back up afterwards. It can create a negative impression on the interviewer.

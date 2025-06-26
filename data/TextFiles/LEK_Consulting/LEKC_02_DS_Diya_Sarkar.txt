@@ -1,0 +1,38 @@
+1) Brief Introduction
+
+Hello! My name is Diya Sarkar. I am a 3rd-year undergraduate student from the Department of Chemical Engineering, enrolled in its BTech course. I’m a boarder of Mother Teresa Hall of Residence. I am a debater and former governor at the Debating Society, and a former member of Kharagpur Data Analytics Group. I currently reside in Mumbai. I will be joining LEK Consulting as a Summer Associate this summer.
+
+2) How did you get into LEK? What was the selection procedure?
+
+The selection procedure started off with CV shortlisting, followed by a buddy round, a few rounds of case interviews and finally a personal interview.
+
+For the CV shortlisting, LEK (like other consulting profiles) generally looks for “spikes” in your CV — this looks like excellent PoRs, CGPA, extra-curriculars, internships or projects. The more spikes your CV has, the better the chances for getting shortlisted. It is not necessary to have prior consulting experience (I did not have any), however internships at well-known companies (brand names) are valued.
+
+After getting shortlisted, you are assigned a “buddy” from LEK, with whom you collaboratively solve cases and learn how to prepare for the interviews.
+
+Post the buddy round, there are a few rounds of case interviews, where you’ll generally be asked cases of three types — guesstimates, profitability or market entry. In my instance, my PI and case interview were combined — so I answered questions based on my previous work experience, why I wanted to join consulting (and LEK specifically) and other standard HR questions followed by a case problem. This is to say that these rounds can be flexible and are different for different people, so make sure you keep an open mind and are able to adapt accordingly.
+
+3) How to prepare for them?
+
+There are two kinds of interviews you need to prepare for — case and personal interviews.
+
+Preparing for cases is similar to preparing for any technical role — you go through casebooks and solve cases and you watch videos of mock case interviews. The unique thing about solving cases is that it’s important to solve cases with a partner — in this way, one of you can take the role of the interviewer and the other of the interviewee and you can get a better learning experience. You can refer to ISB, IITM or IIMA for their casebooks. Each casebook has a slightly different framework, so make sure you stick to what works best for you and become really well versed in that framework. Apart from that, you can refer to the Youtube channel Case Interviews Cracked to see how case interviews generally go. Another important aspect of case interviews is that the interviewer is testing your ability to think logically — so it’s okay if you don’t get to the final answer right away! You should be very communicative with your interviewer at every step through your case-solving process so that they know how you’re thinking.
+
+For personal interviews, you should be able to explain your past work and your interest in joining the firm/field very well. Consultants are expected to be good at communication, so make sure you’re able to express yourself clearly and concisely when answering these questions. You can refer to the book “How to Answer the 64 Toughest Interview Questions” (don’t be intimidated by the name) for some standard HR questions.
+
+4) What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+I initially faced difficulties in properly communicating with my interviewer while solving cases. I think this was because I had a very results oriented approach — that I should somehow arrive at the right answer. This meant I rushed and was not always clear about my process and was even more so unable to communicate it. It’s important to be very thorough and go step by step while solving cases. Treat your interviewer like your collaborator — they want to help you reach the right answer. When starting out, it’s okay to take a lot of time to solve a case; if that means your fundamentals are clear. My main takeaways are: don’t hesitate in asking for clarifications and don’t rush to the final solution.
+
+5) According to you, who should ideally apply for this job?
+
+I don’t think there’s a specific “type” of person who is ideal for consultancy. Broadly, you should be open to learning new things in various fields and be willing to take a lot of accountability and initiative. Apart from that, being expressive and good at communication are important. However, I think the latter skills can be learnt and anyone willing to do so should go ahead and apply.
+
+6) Any specific advice you want to give to the junta sitting for internships this year.
+
+My main piece of advice would be to keep reaching out to seniors for professional as well as personal advice during the intern season. CDC is a difficult and confusing process and you don’t want to lose out on any opportunity due to lack of information. Your seniors have probably gone through exactly what you’re going through right now and have more perspective given they’re now on the other side. Remember that it’s always better to ask a silly doubt and clear it, than to keep having silly misconceptions. I personally aspired for and also did much better than I ever would have if I were on my own because of the guidance and encouragement given to me by some amazing seniors.
+
+7) What are some of the major points you think would be valid to mention in your CV while targeting this profile?(any specific suggestions you would like to make?)
+
+Clearly explain your previous work experience such that even someone who doesn’t necessarily have a lot of knowledge on the subject can understand what you did. The STAR framework is useful for figuring out a general structure for your CV. It’s worth it to put in extra time to format your CV well — 1 page long, minimum whitespace, no grammatical or spelling errors. This is especially true for non-tech roles such as consultancy, where the first step is generally a CV shortlist.
+

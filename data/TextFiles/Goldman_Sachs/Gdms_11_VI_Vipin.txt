@@ -1,0 +1,42 @@
+1. Brief introduction and description of offered role.
+
+Hello, I am Vipin Kumar, a 4th-year dual degree student in the Mechanical Engineering Department. In this blog, I’ll talk about how I got a summer internship offer at Goldman Sachs as a quantitative strategist.
+
+2. How did you get into Goldman sachs? What was the selection process?
+
+Imagine this: you apply on a whim, not checking the shortlist because you think it’s a long shot, and then a buddy tells you you’re in! That was my experience.
+
+The process started when I submitted my CV for the quant intern role, not very sure at that time as I was majorly focusing on ML roles. The first filter was an online test with a mix of 20 questions — math, probability, coding, ml, and aptitude. I managed around 15 of these. Out of my expectations, I was shortlisted for the interview.
+
+What followed were three intense rounds of interviews where I was grilled on everything from my internships and projects to data structure, probability and statistics, puzzles, and machine learning algorithms. Each interview round peeled back another layer, pushing me to showcase not just what I knew, but how I thought and approached problems.
+
+3. How do you prepare for them?
+
+Simple but effective rule: You need consistent practice and a bit of strategy.
+
+I was preparing for analytics profiles. So, I immersed myself in machine learning and data science projects for over a year, which was like building stamina. Then, three months before the CDC internship, I started sprinting; I focused on data structures and algorithms, probability concepts, and aptitude questions. Engaging with competitive programming on platforms like Codeforces, and Leetcode helped me a lot to prepare in a time-constrained setup.
+
+You need to balance focus on technical skills with a broader engagement in relevant projects. This not only builds your expertise but also gives you plenty to talk about in interviews.
+
+4. Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chance of getting this internship?
+
+Goldman Sachs is quite inclusive regarding academic backgrounds; they don’t restrict applications based on your department. However, CGPA does play a role, especially for quant positions — higher is usually better, but it’s not the sole decider.
+
+As for Positions of Responsibility (PORs) or Extra Academic Activities (EAAs), they’re not necessary but can certainly help in building your soft skills like teamwork and communication, which are crucial during interviews.
+
+5. According to you, who should apply for this job?
+
+If you’re the type who thrives on challenges, especially those involving numbers or complex problems, this opportunity is tailor-made for you. You don’t need a background in finance for this role in GS, but a decent foundation in mathematics, statistics, and problem-solving is crucial. The role is perfect for those who enjoy dissecting multilayered problems, whether in competitive programming, mathematical problems, or similar domains. If problem-solving excites you, don’t hesitate to apply
+
+6. What are some of the major points you think would be valid to mention in CV while targeting this profile?
+
+Your CV should highlight relevant projects and internships, particularly those involving data science, machine learning, or any quantitative analysis. Demonstrating your proficiency in DSA through competitive programming rankings or notable achievements will give you an edge. Remember, clarity and relevance are key — make sure every item on your CV aligns with the skills required for your targeted role.
+
+7. What advice would you like to give to students aiming to grab a CDC internship this year?
+
+First off, keep the preparation running and polishing your skills, but also make time to step away and spend time with friends — you don’t want to be overwhelmed by this hectic process.
+
+Second, when you’re in the interview, treat it like a problem-solving session with your friends or mentor. Be honest when you’re stumped — ask for hints or discuss your thought process. Interviewers aren’t just interested in the right answer, but how you approach problems.
+
+And remember, last-minute applications can sometimes lead to unexpected opportunities. So, even if it’s the eleventh hour and you have no expectations, throw your hat in the ring — you might just be exactly what they’re looking for!
+

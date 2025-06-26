@@ -1,0 +1,31 @@
+1) Brief Introduction
+
+Hello! My name is Ajay Yogendra. I am a 3rd year undergraduate in the department of Electronics and Electrical Communication Engineering. I will be doing my internship at Texas Instruments in the summer of 2023. I got this opportunity through the on-campus CDC internship drive.
+
+2) What was the selection procedure?
+
+The selection procedure consisted of a CV submission, an online test, and an interview.
+
+The test had five sections: a compulsory aptitude section and sections for each of the profiles, Analog, Digital, Embedded software, and Signal processing. Each of the sections had a mix of MCQs and numerical questions. Each section had a specified time limit, and one could not navigate between sections. Questions in the “Digital” section mainly focussed on static timing analysis, logic design, and the behavior of a given logic design under various input conditions, such as the number of clock pulses.
+
+In the interview round, I was mainly asked about the projects mentioned in my CV. I was asked to explain the sequence of steps that I followed in each of them. Later I was asked some simple questions based on a logic design using given logic blocks. Throughout the interview, always think aloud and let the interviewer know your thought process.
+
+3) How to prepare for them?
+
+I would highly recommend taking the Digital electronics course by Prof. Gautam Saha or going through his NPTEL lectures. It covers almost everything needed for the Digital profile. One can ace the selection tests by simply practicing the problems in the book by M. Morris Mano that is followed in the above course. I also recommend learning the basics of Verilog by following the lectures of Prof. Indranil Sengupta and the tutorial on asic-world.com. Using Verilog, one can implement and simulate all the digital logic elements designed in the digital electronics course. For the topics of static timing analysis, I recommend going through the second chapter on vlsi-expert.com.
+
+Although the topics of computer architecture are not much touched upon during the selection procedure, I recommend going through the lectures of Prof. Onur Motlu (for the sake of motivation) and the book that is followed in those lectures, Introduction to Computing Systems by Yale Patt and Sanjay Patel. Those interested can also go through free courses on computer architecture in Coursera and MITOCW.
+
+4) What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+In my CV, I mentioned my work in KRSSG and a self-project based on digital electronics. During my interview, I was asked to briefly explain the steps I followed in each of them. Hence it is important to mention only those projects in the CV that one clearly understands.
+
+5) According to you, who should ideally apply for this role?
+
+Anyone planning to pursue a career in core electronics can apply.
+
+6) Any specific advice you want to give to the junta sitting for internships this year.
+
+The CV submission for the internship drive starts a month before the start of the autumn semester, so plan your CV preparation accordingly. During the interview, as I said before, it is essential to keep thinking out loud, i.e., letting the interviewer know your chain of thought. Remember, the interviewer is on your side! They are only trying to help you. Also, get enough rest, and stay hydrated.
+
+All the best!

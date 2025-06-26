@@ -1,0 +1,55 @@
+Brief Introduction
+
+Hello, I am Harsh Sukheja, a 4th year dual degree student from the department of E&ECE. In this blog, I am going to share my journey of how I got an internship in Goldman Sachs and their selection procedure.
+
+How did you secure an internship at Goldman Sachs? How did you prepare for the same?
+
+My journey started during the summer of 2021, right after the end of the 4th semester. It was a difficult time due to the pandemic, and we had very little to do. As per the advice of my seniors, I started doing CP (Competitive Programming). I was also doing two online internships simultaneously, which were unpaid, so I didn’t feel much pressure. However, I would not recommend doing two paid internships in parallel.
+
+My main focus was on CP, although I wasn’t good at it. As soon as the 5th semester started, I stopped doing CP. I resumed it during the December break but left it again when the 6th semester started. I had secured a Mitacs internship for the summers of 2022, which was one of my biggest achievements and challenges. At that time, I didn’t want to pursue research and was worried about my preparation for the CDC internship. However, I took the offer for Mitacs for two reasons: the project was on statistics, which would boost my CV, and who doesn’t want a foreign trip?
+
+Luckily, my Mitacs project was not overloaded, and with the CDC internship in mind, I allocated an hour daily for my CDC preparation in May and June. I started ramping up those minutes in July. I cut my Mitacs internship one week short because the CDC internship test started earlier than expected, but I still missed the tests of a few companies, including Microsoft software, while I was on the flight.
+
+My preparation was for Quant and Data profiles, and I was targeting Goldman Sachs the whole time because my CG was 8.98 at that time, so HFTs were out of scope.
+
+What was the selection procedure like?
+
+On Day 1, I got shortlisted for GS only, so I was laser-focused for the interview. They took two rounds of interviews. In the first round, they asked me to give my introduction, and in the intro only, I made it clear that I wanted to go on the quant side (not telling them explicitly but giving hints like I like betting, guessing, probability, etc.). Then, they asked me questions based on my Mitacs project, for which I was well-prepared as I had just recently finished it.
+
+Then some basic probability questions and 1 CP question in each round. Few of which I remember,
+
+(i) Fair coin, prob of heads, prob of 3 heads, unfair coin: make a fair game.
+
+(ii) ant on cube can go to vertices randomly, expected time to reach diagonally opposite corner
+
+(iii) ant inside/on cube
+
+(iv) Time complexity of sieve, how its log of log
+
+(v) modified question on binary search
+
+(vi) prob of 3 points being in a semicircle
+
+Overall, my interview felt satisfactory to me and turned out satisfactory for them as well.
+
+Who should ideally apply for this job?
+
+If you have an interest in Probability/ Combinatorics/ Statistics, you should apply for the Quant role in GS.
+
+Any specific advice for aspirants applying for internships this year?
+
+Here is some advice that is limited to the Quant role only:
+
+(i) STAT 110 is a super helpful course. I watched till lec 20 and did their exercises (important) as well.
+
+(ii) Heard on the street, Brainstellar, 50 challenging problems of Probability (attempt in this order preferably). Repeat the sequence again.
+
+(iii) Easy/ moderate questions on the interview bit is compulsory. Can/ Can’t attempt hard based on time available/ skill level.
+
+(iv) In the coursework section of CV, highlight probability and data science courses.
+
+(v) Having a project in statistics/ modeling/ probability is a huge boost.
+
+Most importantly, be calm during the whole process. I know it’s easy to say and hard to do from my experience. But I had some awesome friends around to help me do that, and everything turned out to be well after a lot of overthinking (which you should avoid).
+
+All the best Junta for the upcoming CDC internship drive. Machake!

@@ -1,0 +1,35 @@
+1) A brief introduction and description of the offered role.
+
+A) Hello Everyone, I hope you guys are doing well. I am Mohd Amaan, a soon-to-be fourth-year undergraduate student from the Department of Electrical Engineering. I hail from Roorkee, Uttarakhand, and am a boarder of Patel Hall of Residence. Through the CDC process, I was able to get an internship in the software development role at Amazon.
+
+2) How did you get into Amazon? What was the selection procedure?
+
+A) Amazon came to campus on Day 3. We had one initial screening round, which consisted of two questions. There was a question bank, and the questions were more on the easy side, though there was some inconsistency with the environment. One was on basic strings, and the second question was based on iterative DP, which was easy but gave me some errors in two cases that were platform-specific. Most of the people completed the test within the first 15 minutes themselves. After getting the shortlist, we had only 1 interview which was a long one (1 hour+ in my case), which consisted of three questions, which were again on the easy side. The topics were binary search, binary trees, and linked lists. The interviewer just asked me to write the pseudocode, though I wrote the full code for all three questions.
+
+3) How to prepare for them?
+
+A) If I were to specifically refer to my experience with giving interviews at Amazon and Piramal, Leetcode/Algozenith would suffice for both the interview and the OA. But looking at the overall CDC experience, Competitive Programming prepared me to think about solutions with better speed and improved my code writing speed, which in general helped me in OAs and the interview itself. Leetcode/Algozenith is the cake, and CP is the topping XD
+
+4) When did you start preparing for this role and according to you what is the ideal time for aspirants to begin their preparation?
+
+A) I started preparing as soon as I went home for the summer vacation. I’ll say that there’s no ideal time. Start as early as you can, and don’t panic. If you are someone starting summer vacations, I suggest you practice in chunks and divide your time between theory and problem-solving. Mine was something like 20:80, with 80 being the problem-solving.
+
+5) What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+A) In between the preparations, I felt like I had reached a steady state, which was not the case, which made me a bit laggy in between. My friends’ group proved to be the most effective solution, providing me with assistance at every stage. We had formed a group to discuss daily practice, any challenges someone was facing, contests, etc. We spent hours on call discussing the edge cases and where the code might fail, which gave me confidence in the OAs.
+
+6) Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chances of securing this internship?
+
+A) From a departmental perspective, the answer is no. CG greater than 8 would be preferred. Amazon has some LPs (Leadership Principles) on which they focus a lot. I didn’t have a resume grilling round, but surely a resume carries importance.
+
+7) According to you, who should ideally apply for this job?
+
+A) Anyone looking to work on scaling large systems that have a direct impact on the tech sector should apply for the position.
+
+8) Kindly attach your CV/Resume. What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+A) They generally do not give much importance to resumes, but again, they have some Leadership principles on which they focus a lot. You never know what portion of your resume might attract the interviewer. Prepare a good resume and go through it thoroughly.
+
+9) Lastly, what advice would you like to give to the students aiming to grab CDC internships this year?
+
+A) Just keep yourself calm. Carry on the grind and eventually, you will make it. You won’t feel you have done enough at any point because there are endless things to learn. Just keep on grinding, do CP, practice more problems, build a good resume, and you will be there.

@@ -1,0 +1,41 @@
+Brief Introduction
+
+Hello everyone! My name is Agnibha Sinha. I am a third year B.Tech student of the Department of Electronics & Electrical Communication Engineering. I will be interning this summer as a product engineer at Sprinklr.
+
+How did you get into Sprinklr? What was the selection procedure?
+
+There was an online test followed by 3 rounds of interview.
+
+Online Test: The test was held on HackerEarth and had 3 coding questions which were to be solved in 90 minutes. The questions were based on sliding windows, finding cycles in graphs and a variation of DFS to partition a tree. Overall it was a good mix of easy, medium and difficult problems.
+
+Interview Round 1: This round lasted around an hour. It started with an introduction followed by a couple of tricky questions on predicting the output. Then we moved on to standard interview questions involving binary trees and prefix sums. We were required to code on google docs and explain the solution including corner cases and optimize the space & time complexities.
+
+Interview Round 2: The second round lasted for another hour and followed similar logistics to the first round. The questions this time were more ad hoc and observation based. A few questions were also asked on the projects on my CV.
+
+Interview Round 3: The third round was a Culture & Talent round which lasted around 40 minutes and it included standard HR questions and brief discussion on my PORs and extracurriculars. The interviewer is really friendly and it is a fun round to talk in.
+
+How to prepare for them?
+
+The primary skill needed for such roles is DSA as it covers both the online test and major part of the interviews. Make sure you understand all the important algorithms in depth. For practice, there are multiple free resources available. Leetcode & Interviewbit are good for getting a grasp of the standard questions. Participating in contests on Codeforces and Codechef regularly helps in improving your speed and ability to solve new problems on the spot. You may also go for paid courses like Algozenith.
+
+In the last few days, go through a few CS fundamentals like OOPs, DBMS (You may require more knowledge on CS fundamentals if you are a dual degree student). Brush up prob stats and look at a few puzzles from Brainstellar.
+
+For the interviews, be prepared with your CV. Look up a bit about how the company functions and its objectives. Also prepare a few standard HR questions.
+
+During the interview, speak confidently and do not hesitate to ask the interviewer for hints. Think out loud and explain the solution as you are coding it. A few mock interviews will surely help you with this.
+
+What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem
+
+The major difficulty is that there are a lot of things to cover in very less time. For overcoming this, set achievable and realistic targets and prioritize important things. Another difficulty is forgetting specific topics which is where notes come in handy. Make notes yourself on topics you are not confident about and refer to them frequently. Losing focus and motivation are other issues faced which is where having a good peer group helps.
+
+According to you, who should ideally apply for this job?
+
+Anyone interested in the software profile can apply for this job. In case you are not specifically inclined towards any role and do not repel coding, I would suggest you to prepare DSA which is the requirement for majority of the opportunities in CDC including this role.
+
+Any specific advice you want to give to the junta sitting for internships this year
+
+The entire CDC process requires you to be motivated at all times. You will find there are a lot of factors like CG, department and sometimes just luck which may go against you. Try not to worry about these things as you have no control over them. Just focus on what you have at hand and give your best. Keep in touch with your friends and family. Feel free to reach out to seniors for any advice. Do not take stress and accept things as they turn out. Above all enjoy the process!
+
+What are some of the major points you think would be valid to mention in your CV while targeting this profile? (any specific suggestions you would like to make?)
+
+Be honest about what you write in your CV and be ready to explain everything in it. Highlight your projects and internships if you have any. A good project makes your resume stand out and can lead your interview. If you do not have projects currently, try some self projects but only after you are confident with DSA. You can mention your ratings on competitive programming websites and ranks in different contests. PORs do not have much value in the software role but do mention them if you have them as it may be one of the talking points in the HR round. Get your CV reviewed by a few seniors and follow proper formatting. Have a draft of the content you would put on your CV before the ERP portal opens up. Making a CV on ERP directly is not the smoothest process.

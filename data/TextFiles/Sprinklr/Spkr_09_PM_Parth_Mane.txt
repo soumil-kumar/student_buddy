@@ -1,0 +1,39 @@
+1) Brief Introduction and description of your offered role.
+
+Hi, I’m Parth Mane, a Product Engineer at Sprinklr.
+
+Sprinklr is (one of) the largest unified CXM (customer experience management) companies in the world, and the only one to address all four parts of the process — insights, service, marketing, and social. As a product engineer, my role at Sprinklr is related to working on the front end for all of Sprinklr’s web products.
+
+2) How did you get into Sprinklr? What was the selection procedure?
+
+Sprinklr’s hiring process was the same as most companies — we had an online testing phase where we were asked to solve some mid-level programming questions, and then a series of interviews during the placement stretch. We had about 3–4 technical interviews with questions on topics — designing systems, time complexities, solving basic puzzles like array cycling and palindromes, and finding the kth smallest number in a BST. As my language of choice, I was also asked quite a bit about the functioning of Node — the tick system, how it maintains speed despite being single-threaded. I was also asked to debug some code that they provided and try to infer what it did and how to fix it.
+
+3) How to prepare for them? What difficulties did you face during this time?
+
+Sprinklr took an approach to the placement process that I rather appreciate — rather than focusing on the incredibly specific DSA questions that a lot of applicants prepare for, they asked for applicable skills and their demonstration. The practical questions I was asked to solve were along system design and code analysis, two quintessential skills in the role of a software developer. To prepare for these, I’d recommend trying actual projects of your own (basic chat applications, small offline systems, advanced websites, or chatbots) and checking out open source, instead of grinding on platforms like leetcode.
+
+And don’t take it to heart if you get stuck during interviews — I couldn’t solve the question where I was asked to understand what a snippet of code did, but I still got in. Just focus on doing what you can do best.
+
+4) If you have already joined the company, could you share your perspective on the work-life balance? Additionally, how would you describe the culture there?
+
+Sprinklr has a rather unusual policy when it comes to hiring — they have no lateral hiring, which means the vast majority of their new employees are freshers from college. Because of this, they offer a lot of opportunities at work — the CEO’s policy is to make sure everyone at Sprinklr always learns as much as they want to. It provides new joinees with an impressive amount of training and resources, and has also let us know that if we want to pursue courses on our own, we can contact our managers and they’ll handle it. Additionally, we also have an hour set out at work every day where we’re supposed to pursue whatever learning we want to.
+
+Here, the culture is very open and flexible. Employees don’t have fixed hours — some people come at noon and leave at night, while others come early in the morning and leave in the afternoon. As long as your manager is fine with it, the company is, too. We also have a complimentary cafeteria that serves breakfast, lunch, afternoon snacks, and dinner, alongside a stocked fridge of cold drinks with a coffee machine and snacks, so even at work there’s all the facilities you’d need. The expectation on the flipside, is that since Sprinklr cares for you, you should care for Sprinklr. Work expectations are extended by quite a bit during crunches and deadlines, and HR specifically mentioned that work will be hectic during those times.
+
+5) How did you manage your time alongside academics and extracurriculars (if any) to prepare for CDC?
+
+The placement process, as it is for all companies, is not easy — no one gets in without putting in the effort. That being said, it’s important to unwind and keep yourself fresh, so even during the CDC period, make sure you set aside some time for extracurriculars that you enjoy. I’d advise avoiding the larger impositions on your time — most societies and sports teams will understandably let you off during the placement season — and instead focusing on shorter but more relaxing activities (a lot of people encourage a bit of gaming or reading, or even just going for a run). Academics, sadly, are still going to be a part of your time management, so I’d recommend sticking to a stiff schedule and making sure you get all your mandated activities completed before settling down. I ended up skipping the main part of basketball practice — only coming for the runs — and hall WtGW practice, and took leaves from my online responsibilities.
+
+6) According to you, who should ideally apply for this job?
+
+Sprinklr expects its employees to put in effort at work, and offers benefits to employees to keep them motivated — the insurance compensations and career growth benefits are impressive — so if you’re not a motivated worker, Sprinklr probably isn’t for you. Otherwise, if you’re comfortable working hard in a comfortable environment, you’d probably love it here.
+
+7) What specific advice would you give to the junta to handle stressful situations and maintain their calm?
+
+As general advice for the placement season, remember that placements are serious but not the end of the world. Prepare as much as you can for it, but if you’re starting to feel your mental health decline, stop immediately. Nothing in the world should be more important to you than your own mental well-being (possible exceptions made for if you’re married with kids), and remember that it’s fine even if you haven’t practiced to perfection. If you feel stressed, talk with your friends (ideally ones who don’t have placements themselves) and find something that you enjoy doing. Don’t look at placements as a competition — comparing yourself needlessly to others will just make it harder for you to do your best. Stay calm, try to look confident, and admit it if you’re stuck or need help. Even in the interview, admitting that you don’t know something is often more of a plus point than guessing and getting it wrong.
+
+Oh, and if you’re from a non-post-relevant branch like me (I’m from Manufacturing!) expect to answer ‘why are you applying for XXX role if you’re a different kind of engineer’ on every single interview, so make sure to have a good answer ready.
+
+Good luck for the placements, and stay well!
+
+Note: The opinions stated above are mine and mine alone, and do not represent an official statement from Sprinklr.

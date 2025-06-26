@@ -1,0 +1,40 @@
+1) Brief Introduction
+
+Hello everyone, I am Aalok Agrawal, a 4th year Electrical engineering UG student at IIT Kharagpur enrolled in the dual degree course. I am a boarder of Azad Hall of Residence and I am from Jaipur, Rajasthan. I have my upcoming summer internship at Sprinklr as a product development intern.
+
+2) How did you get into Sprinklr? What was the selection procedure?
+
+The selection process for Sprinklr involves a coding test with three questions, two of medium difficulty and one hard, followed by three rounds of interviews, including two technical and one HR. The coding questions covered topics such as Dynamic Programming, trees, and graphs, and those who successfully solved all three questions were invited to the interview stage.
+
+The first technical interview focused solely on Data Structures and Algorithms (DSA), where I was presented with questions on bit manipulation, 0–1 BFS, Binary search, and Dynamic Programming. After explaining my solutions, I was asked to code them on a Google doc to ensure my understanding of the concepts.
+
+The second round of technical interview centered around my CV, as I had previous experience in ML and Data Science, with Mitacs and other relevant internships and projects. I was asked to code an image classifier in a language of my choice, without using any external help. I mostly wrote a pseudo-code, and the interviewer focused on the order of operations and the correctness of function names and arguments. Additionally, they asked me various questions about why I was using certain techniques, such as AdaGrad, what other gradient descent algorithms were available, why I was using softmax activation in the last layer, and why activation functions were necessary. They also asked me a few questions about matrix algebra and probability. Many people who had a software CV were asked DSA in round 2 also.
+
+After this interview, we had a discussion about the projects and work-life at Sprinklr, which left me feeling confident about proceeding to the next round.
+
+The third round of interviews aimed to assess my cultural fit with the company, and I had prepared by researching Sprinklr’s core values, mission, and beliefs during the 10–15 minute break between the previous round and this one. During this interview, I was asked about my strengths and weaknesses and presented with situational tasks to evaluate how I would handle real corporate situations. They also asked me about my experiences with NSS work and Mitacs.
+
+I answered each question carefully, taking time to consider my responses, as I had been advised by seniors that Sprinklr was known for its selective HR process. After this final round, I felt confident about my chances of being offered a position, and shortly thereafter, I received a call from the CDC representative confirming my selection.
+
+3) How to prepare for them?
+
+If you are interested in coding, I highly recommend dedicating significant time to practicing on Codeforces and LeetCode. Solving coding challenges within the given time frame is crucial for improving your speed and accuracy. Many of the questions on the coding tests I encountered were similar to those found on LeetCode. I personally solved around 400 questions from the well-known LeetCode sheet and also used InterviewBit in the final months of my preparation to reinforce my understanding of key concepts. To get the most out of Codeforces, I recommend
+
+taking past contests as virtual contests. After a contest, it’s important to dedicate time to “upsolving”, and I suggest trying to solve at least CF D-level problems. For topics that need more strengthening, I suggest using tags to find related questions. And lastly, I strongly recommend taking dynamic programming seriously, as it’s an essential skill for any coding test.
+I will recommend Aditya Verma DP playlist on Youtube as well as Algozenith DP theory.
+
+For those seeking to specialize in Machine Learning, I highly recommend reading the book “Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow”. This resource provides an excellent overview of almost all ML and DL concepts, and I do not recall encountering a question on an interview that was not covered in the book. I do, however, advise that readers should have a foundational understanding of ML and DL concepts before reading this book. For example, taking Andrew Ng’s ML course and the Deep Learning Specialization on Coursera (consisting of 5 courses) is highly recommended. I believe these resources cover most of the ML and DL questions one is likely to encounter in interviews.
+
+4) What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+One of the biggest challenges I faced while preparing for a software role was maintaining a consistent coding practice during the summers. However, I was fortunate to have a supportive friend who helped me stay motivated by solving coding problems together. This mutual support system helped us both to improve our coding skills and perform well in coding contests. We would often discuss our approaches to coding problems for hours, which helped me to articulate my ideas more effectively during interviews.
+
+Additionally, I was doing a MITACS internship at the same time, which left me with limited time to code compared to my peers. To overcome this, I recommend starting preparation early, ideally in December, to gain a competitive edge by the start of summer. In my preparation, I also studied fundamental concepts such as OOPs, SQL, and OS. These concepts helped me to have a better understanding of software development principles and apply them effectively during interviews.
+
+5) According to you, who should ideally apply for this job?
+
+If you are confident with Competitive Programming and have a good understanding of Data Structures and Algorithms you must apply for this role. I think that is all Sprinklr wants and whatever additional skills you have like Web Dev or ML is just a bonus.
+
+6) Any specific advice you want to give to the junta sitting for internships this year.
+
+I suggest that applicants should not focus on a specific company but instead apply to several companies with similar backgrounds. Don’t get discouraged if you don’t receive an interview invitation from your dream company. Keep applying to other companies as you may end up in an even better one.

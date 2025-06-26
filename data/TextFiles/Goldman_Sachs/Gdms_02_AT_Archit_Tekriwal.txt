@@ -1,0 +1,30 @@
+Brief Introduction:
+The Goldman Sachs Group, Inc. is a leading global investment banking, securities and investment management firm that provides a wide range of financial services to a substantial and diversified client base that includes corporations, financial institutions, governments and individuals. With a view “Our people are our greatest asset”, the firm provides career opportunities in various backgrounds including finance, engineering, science, technology and humanities.
+
+Selection Procedure:
+It starts with an Online test which is divided into 3 categories which are Computer Science(Algorithms ), Data Science( Machine Learning ) and Quantitative Analysis( Probability).
+
+There were 2 coding questions and 5 MCQs in the computer science section. The questions were moderately difficult.
+
+The Machine Learning Section had 10 MCQs.
+
+The Quantitative Analysis section had 8 integer answer type questions which were based on Probability and Stochastic.
+
+After clearing the Online round, there are usually 5–6 rounds of personal interviews. The number of rounds varies depending on the number of divisions interested in the candidate. The questions in the interview are more difficult as compared to the online test. The divisions include Securities, Risk, Technology, IMD.
+
+I had 2 rounds of interviews that focused on Quantitative Analysis and Algorithms based on which I was selected for the IMD division.
+
+How to prepare for them:
+Having some basic knowledge of Algorithms is necessary. Competitive coding will be really helpful. Other sources include Algorithms, Data Structure and Puzzles from Geeksforgeeks.
+
+Your Project Details:
+Build Systematic Strategy for investment and some work on the development of already existing tools.
+
+Company Culture:
+Major focus is laid on teamwork and the people are very easily approachable and are very helpful. You can literally talk to the topmost person in the hierarchy without any hesitation. The dress code is casual and working hours are also very flexible. I really enjoy working with the people in my team.
+
+According to you who should ideally apply for the intern:
+There are no restrictions as to who can apply as the firm provides career options in various backgrounds but this place is best suited for a person looking for a career in finance as this is one of the most reputed firms and gives a chance to interact with some of the smartest people in the business.
+
+And what advice will you give to them:
+Stay focused as this internship can help you decide better on your career choices. Stay confident and give your best shot!

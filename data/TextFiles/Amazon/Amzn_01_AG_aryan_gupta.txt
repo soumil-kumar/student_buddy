@@ -1,0 +1,27 @@
+1) Brief Introduction
+
+Hello everyone! I am Aryan Gupta, a third-year undergraduate in the Department of Chemical Engineering enrolled in its BTech course. I am glad to be able to help out fellow KGPians with what I have learned in the process .whilst securing an SDE intern at Amazon via the CDC procedure.
+
+2) How did you get into Amazon? What was the selection procedure?
+
+I would like to briefly outline my journey throughout the second year and how it has contributed. My interest in computer science topics led me to take various application-level courses in CSE and related departments. This gave me course projects with hands-on experience in core software projects. I had some exposure to web dev and data science via the general championship competitions. All these experiences helped me develop a solid background.
+
+As far as the selection process goes, it included a coding round and an interview for me. The coding round had three questions ranging from medium to hard. The interviews involved a discussion about my projects, followed by coding questions to be approached in a step by manner by improving the solution gradually.
+
+3) How to prepare for them?
+
+I will not undermine the DSA preparation that remains omnipresent in the process. I had some early exposure to C++. Nevertheless, I prepared the usual set of topics, used GFG and YT as my helping hand, and gave contests to prepare myself for the time-constrained setup. Also, it is very important to practice from Leetcode and InterviewBit for the standard questions.
+
+Thanks to our seniors who have compiled a detailed resource manual for preparation (Link)
+
+4) What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+The main problem that needs to be cleared for people preparing for CDC is regarding a roadmap/guide to conquer X. Rather; one needs to understand the importance of sticking to a plan but be adaptive in the process according to the situation. You can chalk out your plan and take guidance from seniors or take a course if it helps, but you need to be consistent.
+
+5) According to you, who should ideally apply for this job?
+
+This role is meant for problem solvers, and that is what gets tested in the entire process. It can be that one is a good problem solver but doesn’t want to adopt the coding route, which is perfectly fine.
+
+6) Any specific advice you want to give to the junta sitting for internships this year?
+
+As a last piece of advice, remember that you will always find a way to excel if you strive to. So never get disheartened if your efforts do not yield results in CDC; the process isn’t robust enough to judge your true potential. But use it as a reminder for the countdown to start thinking about what direction you want to proceed in your life and out of college.

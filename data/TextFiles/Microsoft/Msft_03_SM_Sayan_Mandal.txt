@@ -1,0 +1,34 @@
+Brief Introduction:
+I think I don’t need to give an introduction to Microsoft. So I will introduce myself. I am Sayan Mandal, from the Computer Science and Engineering department, about to go into my fifth and final year at IIT Kharagpur. I interned at Microsoft IDC after the end of my fourth year as a Data Scientist Intern and got a Pre-Placement Offer from Microsoft.
+
+Selection Procedure:
+Microsoft’s selection procedure is pretty simple. They have a CGPA cutoff of 7 for a candidate to sit for the test conducted by Microsoft. Basically, there were 3 stages:
+
+● They conducted an online coding test initially. The test had 3 coding questions and we had to solve it within 1 hour.
+
+● After the online coding round, they conducted a Group Fly round where they gave a problem statement to all the candidates and we had to discuss with the mentors and come up with a good solution as well as implementing the solution on pen and paper. Be sure to improve your implementation skills. No matter how easy the algorithm is, you need to implement it fast on pen and paper. There was a time limit of 1 hour. Be sure to talk to your mentors properly and implement your solution efficiently on the paper.
+
+● Those who cleared the group fly round advanced to the Interview. Personally, I had three rounds of interviews. In the first round, They asked me about algorithms and data structure. I had to write code on the paper for all the questions. In the second round, I was asked questions from Natural Language Processing and AI. Luckily, I was somewhat aware of these fields and I was able to answer the questions. In the third round, they asked me about the projects I did on my previous internships. Surprisingly, I had to write code on the paper in my third round too. So it is highly recommended to practice writing bug-free code on the paper.
+
+How to prepare for them:
+Practice, practice and practice. Those who are familiar with competitive programming will get benefits above others. But it is very easy to crack good companies with two or three months of rigorous practice. Some good resources will be: geekforgeeks, Interviewbit, Leetcode. If these sources are okayish for you go for codeforces, spoj, HackerEarth etc. For dual degree people, be sure to cover OS, DBMS and networks a little bit for safety. For particularly Microsoft, be sure to improve your implementation skill.
+
+Your Project Details:
+I worked for the Office Project (“Project” is one of the many products of Office365) team. I worked on an open-ended problem based on Natural Language Processing. I had some experience in NLP, So I didn’t face many difficulties in approaching the problem from my side. They usually go through your resume while assigning you to various teams and go through your past projects, any special skills or courses taken, but in many cases, it can be randomly allotted as well.
+
+Company Culture:
+Microsoft takes quite a lot of pride in its culture after Satya Nadella became CEO. Some of the key points are:
+
+● Flexible Timing. You can come and leave the office anytime you want. Everyone is happy as long as you are doing your job well. No one rolls an eye at your office timing or your uniforms.
+
+● One Microsoft. This is a term used frequently within Microsoft. This signifies although there are lots and lots of teams within Microsoft, everyone is under Microsoft. So you can ask your doubts to anyone within your team as well as out of your team. For my case, I took a lot of help from a senior software engineer in Redmond and he was very friendly and helped me a lot throughout my internship.
+
+● Growth Mindset. This signifies Microsoft wants to hire people who want to learn it all rather than who knows it all.
+
+● When it comes to a fun office environment, Microsoft has numerous pool tables, foosball tables etc. There is an Xbox room (obviously). You can play table tennis, cricket, volleyball etc. (just google “Microsoft IDC Hyderabad campus”). There will be a team outing, lunch and you will be getting goodies from Microsoft.
+
+According to you who should ideally apply for the intern:
+Anyone who loves computer science, coding and who wants to work in a big tech company and wants to learn about the Technologies of Tech giants should definitely apply for this internship. On a side note, those who are interested in pursuing research should not apply. One positive point of this internship is you will get the Microsoft brand in your resume.
+
+And what advice will you give to them:
+Just a piece of general advice, don’t just run after the money and try to run away from the hype called “day 1 intern”. Try to choose companies wisely according to your interest.

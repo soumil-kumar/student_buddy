@@ -1,0 +1,67 @@
+Brief Introduction :
+
+I am Soumitra Das, currently a final(4th) year student from the Department of Computer Science and Engineering. I completed my internship(SDE role) at Amazon Development Centre, Bangalore, this summer.
+
+I applied for Software Development and Analyst role both. The Selection procedure includes shortlisting( for some companies), then a screening test followed by an interview.
+
+Selection Procedure :
+
+All the companies ask coding questions in the screening test. In addition, for analyst profile questions from Mathematics(probability and algebra), Machine Learning, Logical Ability, Data Interpretation, and Comprehensive English were asked. Particularly to say about Amazon, it was open to circuital branch, and the screening test consisted of 4 sections -
+
+a. Code Debug (20 minutes) — Finding bugs in 7 pieces of code.
+
+b. Coding test (70 minutes) — Solving 2 problems.
+
+c. Work Styles Assessment (10–15 minutes) — In this section, you will be asked to choose to what extent a provided statement represents your work style.
+
+d. Logical Ability(35 minutes) — You will be asked a series of problem-solving MCQs.
+
+Amazon shortlisted 34 for an interview.
+
+I was shortlisted for Honeywell(Software research) and Oracle(SDE). At Honeywell, the interviewer told me to introduce myself at first. Then he asked about my project and a few questions — 1 probability( rolling the bullet), 2 puzzles( 3 switches and 3 bulbs, Mislabelled 3 baskets), and 2 coding problems( 1 from DP). The interview went well but I did not get any call for the HR round. In Oracle, I was asked questions from LinkedList, but the interview was not satisfactory.
+
+On Day3 though I was shortlisted for Amazon, WellsFargo, MasterCard, and Huawei, I sat for the first 3. The day started with the interview in Wells Fargo. The interviewer asked about my project and then asked if I am comfortable with Computer Networks and Operating systems. I replied the subjects would be taught in the 6th semester. Then he moved to the coding questions. A couple of hours later, my turn came for the interview in Amazon. I was asked to introduce myself. He asked a bit about my project and then moved to the code part. I was asked a question based on graph and search. I first came up with a naive solution and told it. He then asked me to optimize it in terms of time and memory. I took the help of Map container and told the approach to the interviewer. He seemed to be not satisfied with the solution at first from a complexity point. I then told him the complexity analysis. After that, he told me to write the code in the editor(syntactically correct). Finally, I was told if I had any questions about Amazon on which I asked about the work culture and the kind of work that is done there. As soon as I completed my Amazon interview I sat for MasterCard. The initial part of the conversation was almost the same as other companies. Then I was asked some questions (1 from DP) and I had to write the code of the DP. The interview for MasterCard went well.
+
+Just after the interview with MasterCard, I got confirmation of my selection by Amazon.No further round was there. Amazon is a big company and due to the quality of work there I immediately accepted the offer.
+
+Algo — This first thing that is needed is — be thorough with the concepts of Algorithm (especially Linked List, Graph and Search, Tree, Dynamic Programming, and DP).
+
+How to prepare for them?
+
+I had algorithms in my 3rd semester as a core subject. In the winter after the 3rd semester, I practiced some DP questions from geeks for geeks. When the lockdown started in March 2020 I started with InterviewBit topic-wise and took the help of the solution there when I got stuck. In May I postponed InterviewBit and revised the concepts of the algorithm from Cormen. Then as the day of screening tests got closer I again started doing random questions from important topics in InterviewBit. Before interview days I read some company-specific blogs of interviews from geeks for geeks and looked through company-specific questions accordingly.
+
+To practice some mixed bag of questions, leetcode is also a good platform I think.
+
+Puzzles — For puzzles, questions can be practiced from geeks for geeks, interview bit, and leetcode as well.
+
+For the Analyst role especially — You should be handy with ML concepts along with the mathematical proofs and Matrix algebra, Probability and Statistics, and Algebra(Quadratic Equation-JEE standard) as well. You can follow these for probability — https://brainstellar.com/, 50 Challenging problems.
+
+Project Details :
+
+I was working in the payment team of Amazon. My project includes designing and developing an API and integrating it with another API. I had to test the API functionality and the integration as well. Though I can’t share the exact details about the project I worked in JAVA along with some frameworks.
+
+The languages and the frameworks which are to be used are project and company dependant but you should be familiar with OOP concepts and any previous experience in developing software will help you.
+
+How was your experience working from home? What difficulties did you face?
+
+Work from home was definitely challenging. I missed the opportunity to interact with my teammates and my fellow interns in person.
+
+But the company tried to make the internship hassle-free and interactive as much as possible. They organized a smooth virtual onboarding session and I was provided with IT equipment. I was assigned a manager and a mentor with whom I had regular meetings on weekly basis. I also got the chance to be present in the team meetings. The team was really helpful. I could approach any team member anytime to solve doubts. Meeting with the teammates virtually kept me in vibe with the organization.
+
+I did not see any change in the number of offers with respect to the previous years in the profiles I applied for. So I am assuming it will be the same this year also. No need to worry.
+
+According to you who should ideally apply for this intern?
+
+People who are interested in algorithms and Data Structure and want to pursue a career in software development can apply for Amazon.
+
+And what advice will you give to them?
+
+Revise the things before exams. If you have time after each screening test, discuss or solve the uncompleted or left questions that were asked and looked through the concepts you missed.
+
+DON’T FAKE YOUR CV UP TO A LITTLE EXTENT!!! Be thorough with your Project. Prepare this question -What were the challenges you faced in your project and how did you overcome that?
+
+Before the interview do a bit of research on the principle of the company. Be HONEST with every answer in the interview.
+
+Be calm. There is no reason to be anxious due to your poor performance in any screening test or in case you haven’t got any offer till Day2.
+
+Good Luck!

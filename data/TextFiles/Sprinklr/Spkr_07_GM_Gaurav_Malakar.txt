@@ -1,0 +1,58 @@
+1) Brief Introduction
+
+Hello everyone! My name is Gaurav Malakar, and I am currently a 3rd-year undergraduate student pursuing a BTech course in Computer Science and Engineering. I am excited to share that I recently secured an internship opportunity as a Product Engineering Intern at Sprinklr, a well-known IT company. In this blog, I will walk you through my journey and provide valuable insights into the steps I took to land this internship role.
+
+2) How did you get into Sprinklr? What was the selection procedure?
+
+CV Submission: To apply for the position, I had to submit my CV through the ERP system. Fortunately, Sprinklr did not have an explicit CGPA cutoff, allowing a wide range of students to apply and be selected for the coding round.
+
+Coding Test: The coding test at Sprinklr was relatively straightforward compared to other Day-1 companies. It consisted of three questions focused on Data Structures and Algorithms. Although I don’t recall the exact questions, one of them was a simple array problem, while the other two were graph-based problems. Candidates who were able to solve at least two questions successfully moved on to the next round of selection.
+
+Interview Round-1: During this interview round, I had a pleasant experience with a friendly interviewer. After introducing myself, we moved on to the technical questions. The first question was challenging dynamic programming (DP) problem, which I tackled successfully due to my familiarity with such problems. Next, I was presented with a recursion-based question that involved implementing a JSON-like class in C++. The interviewer provided specific requirements and functions, and I was able to code them accordingly. Additionally, I faced an object-oriented programming (OOP) question where I had to design a company hierarchy using classes. The interviewer gave detailed requirements for the system and posed various questions while I worked on the solution. Throughout the interview, I maintained a continuous interaction with the interviewer and incorporated feedback into my code. All the coding in this round was done on google docs.
+
+Interview Round-2: This round was purely based on CP. I was asked 2 questions, both of which were moderately hard. The first question was based on multisource BFS, and the second question was based on the Level Order Traversal of the Binary tree but can be optimized for special cases. In this round, the interviewer allowed me to use any IDE of my choice. The round Lasted for 45 minutes.
+
+HR Round: The HR round was a real head-scratcher for me. The HR representative fired away with a series of questions that left me feeling like I was in the middle of a comedy skit. Here’s a breakdown of the memorable moments:
+
+“Tell me about a hard situation in your life that you overcame.” It felt like I was in a movie, searching for that one challenging moment that tested my resilience and determination.
+
+“Tell me what Sprinklr does.” Oh, the infamous “explain the company” question. Suddenly, my mind went blank, and I felt like I was trying to explain rocket science to a toddler. Somehow, I managed to fumble my way through it with a generous sprinkling of flattery for the tech team.
+
+And then came the dreaded question: “Which is your favorite company?” I found myself in a tricky spot because I couldn’t simply say “Sprinklr.” This question seemed more daunting than all the complex DSA questions I faced earlier. It required me to tap into my inner politician and carefully navigate my way through the answer.
+
+Despite the twists and turns, I somehow managed to survive the HR round with a mix of creativity, quick thinking, and perhaps a touch of luck. Life has a way of throwing curveballs at us, but it’s how we handle them that counts.
+
+3) How to prepare for them?
+
+The things that you should prepare are DSA, Projects, and also OOP. Let’s check out these topics in a little more detail:-
+
+DSA (Data Structures and Algorithms): This is the most important topic you need to prepare for. I was introduced to DSA during my Algorithms-1 course, and I also supplemented my learning with additional topics from YouTube. Many of my friends have taken the AlgoZenith course and found it very useful. However, if you already have prior knowledge of DSA, you can consider skipping AlgoZenith and learning from YouTube instead. During my preparation, I also solved problems from a website called InterviewBit, which I recommend starting around 1.5 months before coding rounds. Additionally, I regularly participated in coding contests on Codeforces.
+
+Projects: It is highly recommended to include at least one project on your CV. In my case, I included a term project and an assignment. If you are short on time, you can also include simpler projects. However, it is important to note that lying in the project description can be risky, as interviewers may ask questions about those topics. Luckily, I wasn’t questioned about my project during my interview, but some of my friends faced extensive questioning regarding their projects. Therefore, it’s crucial to choose your projects wisely.
+
+If you have limited knowledge beyond C++, you can still work on simple projects using Python or JavaScript. These languages are beginner-friendly, and it’s possible to complete a project in either of them within two weeks or less.
+
+OOP (Object-Oriented Programming): I was asked one question about OOP during my interview. To prepare for this topic, I studied articles from Geeks For Geeks (GFG) and watched YouTube videos. OOP is generally considered an easier topic, and it’s common for Day-1 or Day-2 companies to ask questions about it.
+
+Miscellaneous: In addition to the aforementioned topics, I also dedicated some time to learning puzzles, although they didn’t come in handy as much. However, some HFT (High-Frequency Trading) companies did ask puzzle questions in their interviews. To further prepare for interview rounds, I conducted mock interviews with my friends. We would select questions for each other and utilize Google Docs for coding.
+
+4) What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+I didn’t focus my preparation on any specific company. The topics I learned were commonly asked in many companies. Throughout my preparation, I encountered some challenges, such as not having a clear direction and occasionally lacking motivation during the three-month period. Fortunately, people who choose AlgoZenith, probably won’t face these issues. However, for others, I highly recommend creating a roadmap for each topic you plan to learn during your preparation. Having a roadmap was instrumental in overcoming the challenge of not having a clear path to follow.
+
+5) According to you, who should ideally apply for this job?
+
+Anyone with a passion for programming can apply for this opportunity. The company is experiencing rapid growth, making it an excellent starting point for individuals aspiring to pursue a career as a software developer.
+
+6) Any specific advice you want to give to the junta sitting for internships this year.
+
+A valuable piece of practical advice I would like to share is “Never leave your fate in someone else’s hands.” If you believe that you can bag an internship solely through the help of a friend, remember that the chances of success are quite slim. Instead, invest your energy in thorough preparation. It’s not necessary to work intensely for long hours. Instead, focus on maintaining consistency. Dedicate a moderate amount of time each day (around 5–8 hours) to studying rather than cramming for 12 hours on certain days.
+
+7) Kindly attach your resume. What are some of the major points you think would be valid to mention in your CV while targeting this profile? (any specific suggestions you would like to make?)
+
+Some major points to mention in your CV would be:-
+
+(i) Projects ( at least one )
+(ii) Achievements in coding competitions (like Google Kickstart, Meta Hacker Cup)
+(iii) Proficiency in Programming languages and software tools
+(iv) Course details

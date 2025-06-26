@@ -1,0 +1,53 @@
+1) Brief introduction and description of offered role
+
+Hello! I am Rohit R Gaikwad, a 3rd-year Undergraduate student from the Department of Metallurgical and Materials Engineering at IIT Kharagpur. I am from Kalyan, Maharashtra. I am currently doing my Summer Internship at Bajaj Auto.
+
+2) How did you get into Bajaj Auto? What was the selection procedure?
+
+I applied for Bajaj Auto through CDC Internship portal.
+
+The selection procedure consisted of 2 rounds of tests. After shortlisting, two rounds of Interviews are conducted.
+
+Two rounds of tests consist of Aptitude + Core / Domain test (Round 1), with applicants who pass the cutoff of Round 1 are sent for Psychometric test (Round 2).
+
+Two rounds of Interview rounds consist of the Technical and HR rounds. If you are shortlisted in the Technical round, you will receive a call for the HR round.
+
+3) How to prepare for them?
+
+For round 1, Aptitude part is quite easy, basic knowledge of aptitude will do good enough. The Core part is complicated, and questions are based on GATE-level difficulty. Questions were mainly asked from topics like Mechanical Working of Materials, Corrosion, Creep, Fatigue, Fracture, and Material Science, i.e., mostly related to the mechanical and chemical parts of materials. Practicing GATE questions from these areas would be helpful to answer.
+
+If you are shortlisted in Round 1, a link for Psychometric assessment (Round 2) will be activated. There is no need for preparation, just be as honest about yourself and answer the questions.
+
+For the Technical Interview round, prepare a decent introduction. Prepare your CV thoroughly because most part of the technical interview is based upon CV grilling. Have knowledge about each term mentioned in the CV as they ask questions about the extra-curricular part too. Have good knowledge about your projects and subjects. The interview lasted around 15 minutes.
+
+For the HR round, just give a reading about HR questions on Google. You can visit IndiaBix website for HR questions. I was asked mostly about my family background and interest in working in the company.
+
+Just be confident and calm in both the interview rounds. If you are stuck on any question and do not know the answer, do not start randomly guessing the answers and give any unwanted answers. Instead, accept that you do not know about it, but will surely research about it.
+
+4) When did you start preparing for this role and according to you what is the ideal time for aspirants to begin their preparation?
+
+I was preparing for SDE role, but for this role, being thorough with the core coursework will be good enough to prepare. Also, practicing GATE questions on topics mentioned above of previous years during summer vacation will help.
+
+5) What difficulties faced while preparing for this profile? How to overcome?
+
+Since I was not a Dual Degree student, I struggled while preparing for topics like Corrosion, Mechanical Behaviour of Materials, etc., which are taught in 3rd Year. I took the help of various GATE resources and PYQs to ace these topics.
+
+6) Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chances of securing this internship?
+
+Having a project in domain will be much better and will give you an edge. A CGPA above 8+ is fine; 8.5+ is good enough. Even if your CGPA is low, having a project in domain can compensate for it. PORs do not matter much in core-based companies, but having a POR in the Department society can give you a point in expressing your interest in core during the interview.
+
+7) According to you, who should ideally apply for this job?
+
+Anyone present in core mechanical/electrical/metallurgical engineering should apply for this internship. Even if you have the slightest interest in core and are good with the fundamentals of the branch, you should apply for this.
+
+8) What are some of the major points you think would be valid to mention in CV while targeting this position?
+
+Any Projects / Internships related to core should be added to the CV.
+
+9) Lastly, what advice would you like to give to students aiming to grab CDC internships this year?
+
+1) Make sure you know everything mentioned in your CV. Take enough time to make CV and get it verified by at least one senior you know.
+
+2) Be confident, optimistic, and calm during the interview process. Do not panic if you do not know the answer to a question. Reply with a ‘do not know the answer and will research about it’.
+
+3) Do not be discouraged if you have not bagged an intern on day 1/2/3. Just be confident and keep going. Have a good sleep, be healthy, and keep faith in yourself. All the best!

@@ -1,0 +1,91 @@
+Brief Introduction
+
+Hi Everyone ! I am Rishav Kumar, a third-year B.Tech student from the department of Electronics and Electrical Communication Engineering. I will be interning at Goldman Sachs as part of its Engineering Division in the summers of 2022.
+
+How did you get into GS? What was the selection procedure?
+
+The selection procedure consisted of an online round which was conducted on Hackerrank platform a few weeks before the interview. It consisted of 5 sections :
+
+Section 1 (Easy Programming Round)
+
+There were two questions, both implementation based. Questions were easy but the time limit was 30 minutes. Unfortunately, I took too much time in the first question due to minor bugs and was able to solve only one of them.
+
+Section 2 (Quantitative Aptitude)
+
+The questions in this section were tough (JEE level). The topics covered were Probability, Expectation Values, Trigonometry and logical reasoning. Since I didn’t prepare for the quant profile specifically, I was able to answer only one or two questions from this section.
+
+Section 3 (CS Fundamentals)
+
+This section consisted of theoretical questions from core CS subjects like Operating Systems, Computer Networks, Predicting output of a given code. I was able to solve around 30–40 % of the questions.
+
+Section 4 (Hard Programming Round)
+
+There was only one question with a time limit of 45 minutes. The question was arguably one of the hardest questions asked in CDC that year. It was based on profile DP (DP + Bitmasking). It took me around 30 minutes to code the solution and 5 minutes to debug. As I had solved a similar question before, I knew straight away how the general structure of the solution would look like. I was able to pass all the test cases.
+
+Section 5 (Behavioral/HR essay-type question)
+
+The questions were :
+
+What will you do if your teammate leaves you in the middle of the project due to some personal issues ?
+
+Mention a situation where your passion and enthusiasm helped you in achieving the goal.
+
+Time limit was 15 minutes. The exact same questions were asked in previous year’s round. I was prepared with a suitable answer for each of these questions.
+
+There was another criterion for selection which was CGPA. Performing well in any one of the subsections (Coding / Quant) was enough to be called for an interview. Around 80 people were shortlisted for the interviews.
+
+Round 1
+
+The round started off with a basic implementation question.The interviewer just wanted to see if I could convert my thoughts into code. He then asked me a puzzle. I was told that I could solve the problem either logically or by writing code. After a few minutes of brainstorming I wrote a recursive code and arrived at the final answer.
+
+Round 2
+
+I wasn’t required to code in this round. The interviewer just asked me theoretical questions on various well-known algorithms like Dijkstra, Manhattan, CPU Scheduling, etc. I was also asked a bit about my projects.
+
+Round 3
+
+The round consisted of a medium-hard level question. It was based on DP on a binary tree. It took me a while to code up the solution. Initially the interviewer wasn’t able to understand my solution as I had optimized the space complexity to O(1) but after a few minutes of discussion he was satisfied. He then asked me about my project with a few follow-up questions.
+
+There was no HR round. I received the confirmation about two hours later that I have been selected.
+
+How to prepare for them?
+
+I initially came to know about Competitive Programming from some of my friends during the start of my 2nd semester. I started with beginner level problems on Codechef and Hackerrank. Soon I realized the importance of Data Structures and Algorithms in CP and decided to learn it thoroughly.
+
+Initially I followed the videos of mycodeschool youtube channel and then moved to cp-algorithms website. Meanwhile I kept solving questions and participated in as many contests as I could.
+
+After reaching the fourth semester I realized that my ratings were stable and I couldn’t improve them even after upsolving the questions. It was at this time that I decided to join the AZ-201 course of AlgoZenith. The course covered everything from scratch. The questions on the platform were quite relevant from the CDC point of view. Meanwhile, I also took the Algorithms-I and Algorithms-I Lab courses as additionals. All these resources were enough to provide me with a firm grasp on DSA skills.
+
+In the summer break before CDC I moved on to platforms like InterviewBit and LeetCode to prepare for interview rounds. I solved interviewBit completely and did around 150 most liked questions on LeetCode. I also worked on two small projects (one on NLP and the other on Blockchain) and implemented them from scratch.
+
+What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+One of the biggest setbacks that I faced during my preparation was not being able to push my ratings above a certain limit (5-star on CodeChef and Expert on Codeforces). However I soon realized that the questions on these platforms were more towards the ad-hoc side rather than DSA. Consequently, I shifted to other platforms like LeetCode and focused more on improving my DSA skills rather than worrying about my ratings.
+
+According to you, who should ideally apply for this job?
+
+People who have a keen interest in the Software Development domain with a slight interest in Finance should ideally apply for this internship program.
+
+Any specific advice you want to give to the junta sitting for internships this year.
+
+Practice Competitive Programming. There’s no shortcut to that at all. CP won’t just help you in grabbing an internship/placement offer, but also helps to improve problem-solving skills, builds aptitude and spontaneous thinking.
+
+Ask questions to the interviewer. At times they make the question unclear purposefully hoping that you may ask for clarifications.
+
+Think out loud during the interview, so that the interviewer knows your thought process and may guide you towards the solution.
+
+Don’t panic. Keep a smile on your face and a calm head.
+
+Don’t worry too much about ratings, focus on learning.
+
+Don’t get demotivated after seeing your friends get an offer in a Day1 company. Some of the companies that come later are equally good as Day1 companies.
+
+What are some of the major points you think would be valid to mention in your CV while targeting this profile?(any specific suggestions you would like to make?)
+
+Having a project on your CV really gives you an edge over others. Not only does it help you to understand software development but also becomes a major point of discussion during your interviews. Having good ranks in coding competitions like Google Kickstart, Google CodeJam, ICPC also adds value to your resume.
+
+Lastly, be thorough with your resume. Don’t write anything on your CV which you won’t be able to explain.
+
+Remember, it’s okay not to get a good offer initially as you will get lots of opportunities in the future. Just try giving your best. Feel free to ping me on Facebook/LinkedIn for any questions :)
+
+All the best.

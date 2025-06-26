@@ -1,0 +1,65 @@
+1. Brief introduction and description of the offered role
+
+Hey Folks!
+
+My name is Samay Sawal, I am a third-year Undergraduate student of the Department of Mathematics enrolled in its BS course of Mathematics and Computing. I am a border of Rajendra Prasad Hall of Residence. I am from Pune, Maharashtra.
+
+Some other things about me, I am the General Secretary at the International Relations Cell, and I targeted mainly software and data science roles in CDC.
+
+I joined Google this summer as a Software Engineering Intern in their Cloud Team.
+
+2. How did you get into Google? What was the selection procedure?
+
+Starting with the coding round Google had given everyone a window of around 4 to 5 hours (I cannot recall exactly) wherein you can give the test (on HackerEarth) of 1 hour during this window. The coding round had two questions - one was medium level while the other one was on the tougher side (probably tougher among all questions). I was able to solve 1 question completely and for the tougher question around ten out of the fourteen test cases. There were many sets of questions, and it was pure luck as to which set you got.
+
+So, this time Google had changed their selection procedure, though the number of rounds remained the same (i.e. 2) but they had a screening round before day 1 on Friday itself where they took a technical round. Out of all the shortlisted candidates, some were now shortlisted for the technical round on Day 1.
+
+● In the screening round, I was asked around questions, one was a simple question based on an array, one was on the implementation of heap sort and one was based on graph traversing which I’d say was a medium to hard-level question. I was able to solve all the questions and by EOD I got to know that I had been shortlisted for the Technical Round on Day 1.
+
+● On Day 1, Interviews started at 10 a.m. and I got my Interview call around 11:30 a.m. as I had other Interviews lined up as well. For this technical round, I was asked three questions all based on Graphs alongside the Time Complexity and the Memory Complexity. While the first question was pretty easy, subsequent follow-ups were a little on the tougher side. I was able to code all three problems but faced issues with the time complexity and memory complexity of the first two questions (The interviewer was kind enough to teach me a bit about TC and MC :) )
+
+I was pretty satisfied with both my technical rounds, but yet had butterflies in my stomach if I would get the role or not, and by the end of the day I got to know that I had been offered by Google for the SWE role.
+3. How to prepare for them?
+
+Essentially the entire selection process only involved DSA and nothing else honestly!
+
+I had followed Algozenith from the very start (around August of 2023) but did not do much during the semesters, I did DP in December and then covered Graphs in May. I covered the rest topics like Segment Tree, Binary Search, Bit Manipulation, etc, during the semester only. Other topics like Trie, Linked List, and all I covered in June. I saw that DP and Graph were important topics, especially for Google I read articles that Graph is the most common topic for questions, and thus I did Graph extensively, from At Coder, CSES, and ALgozenith Questions.
+
+I gave regular contests on CF, CC, Leetcode, and AtCoder. Alongside this, I believe the regular contests organized by GOC are very important, and not only the live contest but past year's contest as well. I also did Interview Bit but wasn't able to finish (but as recommended by my seniors Interview Bit should be done at least twice completely). Apart from this for Coding, I did not follow anything else as Algozenith was exhaustive enough.
+
+Apart from DSA I also revised Probability and Statistics from my class notes and solved questions from the book “50 Challenging Problems in Probability”. I did Object object-oriented programming from Algozenith.
+
+For puzzles, I only followed Brain Stellar, which helped me a lot in my Interview with Nomura for their Quants and Strats Position. I believe that the summer vacation is very important and you should plan your day accordingly so that everything is covered.
+
+4. When did you start preparing for this role and according to you what is the ideal time for aspirants to begin their preparation?
+
+If you are planning to get a Software or Quant role, DSA is very important. I started doing DSA early but had a lot of gaps in between, so I wasn’t able to have a proper grasp, maybe this might be different for you, but in my experience, I believe you should continue doing DSA without breaks (at least a little) so that you stay in touch. I will suggest starting as early as possible but even if you did not, at least cover basic topics like Sorting Algorithms, Binary Search, Graph, DP, etc.
+
+5. What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+The biggest challenge for me was DSA only :(
+
+Although I was doing a lot, I was not satisfied with my results in contests. I kept going and one-to-one meetings with the instructor at Algozenith boosted my morale a lot.
+
+6. Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one's chances of securing this internship?
+
+The SWE Role of Google was open for only circuital branches, so yes Department plays a major role, coming to CGPA I believe CGPA is important, as it does play an important role in getting shortlisted for different roles in different companies, it is a major factor alongside the branch.
+
+Coming to PORs, in my opinion, I don’t believe it is important in SDE roles. I did not include my IR Cell POR in my SDE CV on the CDC portal. Though they can be a good filler if you have space in your CV, and the same goes with EAA.
+
+7. According to you, who should ideally apply for this job?
+
+Anyone eligible :), if you are really into software development, you should apply for an internship role in such companies, because there is a lot to learn here and leverage the experiences of full-time employees here.
+
+8. What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+I believe many Day 1 companies for SDE roles (exceptions like Goldman Sachs) do not really grill you on your resume or even have a glance at your resume. But for that matter, I believe some of the major points that companies look into your CV is maybe course work (at least for me during the Goldman Sachs Interview), apart from this some internships and projects that you have done should be included and skills you have gained up till now. My seniors always used to say to me, “CV me white space nahi Diana cha hiya zyada”. So try to fill your CV with all the self-projects or internships you have done, your achievements, etc.
+
+9. Lastly, what advice would you like to give to the students aiming to grab CDC internships this year?
+
+The entire process might be a little overwhelming, even I was very anxious even after getting 6 shortlists on Day 1, but just hang in there, your efforts will pay off.
+
+Now especially for students aiming for SDE roles, be thorough with all the concepts of DSA, and try to solve interview bit as many times as you can alongside all the contests that GOC has conducted to date (there are very good PYQs which will help you a lot). Probability and Statistics are very important as they directly ask you questions from this subject (I was asked in Nomura and Morgan Stanley). Solve puzzles from Brain Stellar (I was asked a medium-level puzzle from Brain Stellar in my Nomura interview).
+
+All the best!
+Keep faith in yourself, We all know you will do well 😃

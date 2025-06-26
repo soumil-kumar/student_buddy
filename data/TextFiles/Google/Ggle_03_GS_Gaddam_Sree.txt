@@ -1,0 +1,46 @@
+1. Brief introduction and description of the offered role
+Hey all, I am Gaddam Sree Harshitha, 3rd year undergraduate in the department of Computer Science and Engineering at IIT Kharagpur, enrolled in its Btech course. I have been offered a Software Development Engineer role at google. I’ll talk about how I prepared for this role and some mistakes I made along the way.
+
+2. How did you get into Google? What was the selection procedure?
+
+This procedure had a coding round, which contained two questions. This round was particularly challenging, as we were given 90 minutes to complete both questions. I managed to fully write the code for the first question and pass all its test cases. However, due to time constraints, I couldn’t finish the second question. Following the coding stage, candidates were shortlisted for two 45-minute technical interviews. Throughout the interviews, I had to explain my thought process and approach to solving the problems given by the interviewers. Although the interviews were intense, they were also engaging and provided a platform to showcase my technical abilities.
+
+In my first interview, I used heaps to solve the question. I was asked to write the whole code, including the main function. However, due to time constraints, I could not address some of the edge cases. The interview was engaging throughout. I would discuss my ideas with the interviewer whenever I was stuck, and he would provide me with test examples where my ideas didn’t work, which I would then use to adjust my approach and go on.
+
+The shortlist for the second interview was revealed late on the day of the first one. The second interview included a question about arrays that required the use of divide and conquer. I expected a follow-up question, so I completed writing the entire code in 30 minutes, but there was no follow up. After I finished coding, the interviewer gave me positive feedback, saying that the interview went well. I expressed my interest in working for Google by asking him some questions about the company for the remaining fifteen minutes.
+
+3. How to prepare for them?
+
+I began participating in coding contests regularly on platforms Codeforces and CodeChef starting in my fourth semester, even though I started in the middle of my third semester. During my third semester, I had an algorithms course, so I focused on solving related problems on LeetCode. This made it difficult for me to participate in contests regularly.
+
+In my fourth semester, I dedicated time to solving problems from a structured sheet created by Striver, covering basic topics like arrays, heaps, and queues in data structures and algorithms. I found it beneficial to give contests with friends because we could discuss the questions we struggled with and motivate each other to participate regularly.
+
+During the three-month summer break, I started by making a plan for the topics I needed to cover. I estimated the amount of time I should spend on each topic. If I couldn’t finish a topic at that time, I skipped it and scheduled it for the final days of the break. Every day, I set a goal to solve a minimum of six questions, regardless of the topic I was focusing on that day. I also limited myself to spending no more than 45 minutes figuring out the approach for each problem. This strategy helped me manage my time effectively during online assessments and interviews. Although the break was officially three months, it felt much shorter. From morning till evening, I focused on solving questions related to the topic I was working on that day, using the Striver A2Z sheet as a guide. In the evenings, I took part in any coding competitions that were scheduled. If there were no contests, I would spend time solving problems that I had failed to answer in earlier contests, or, I would focus on revisiting oops topics and taking proper notes on them. I used to prepare interview questions and answer them myself about the projects included in my resume. Google does not ask oops or project related questions, but I prepared in general for all interviews. This routine ensured that I was continuously improving my problem-solving skills.
+
+In May, I dedicated my time to revising basic concepts like arrays, linked lists, binary search, greedy algorithms, etc. Since I was weak in recursion, I devoted extra time to it, as it is essential for topics like dynamic programming (DP), trees, and graphs. However, because I focused so much on recursion, I ran out of time to cover other planned topics, queues, heaps, etc. In June I mainly focused on the topics DP, trees,Graphs and In July, I finished the remaining topics I had planned, which included queues, heaps, sliding windows, two pointers, etc.
+
+4. When did you start preparing for this role and according to you what is the ideal time for aspirants to begin their preparation?
+
+I started doing cp in the middle of the third semester and started randomly solving DSA questions from leetcode and gfg, Participating in contests on a regular basis helps you become acquainted with the test environment, manage your time throughout the coding rounds and interviews, and improve your problem-solving abilities. My proper DSA preparation occurred during the three-month summer break. I would recommend starting cp and solving some fundamental DSA topic questions in the first year. Initially, it is common to struggle with solving many questions, and that’s perfectly fine. Even if your rating drops in the contests, keep participating. If you stop, you’ll miss out on the practice of solving questions within a set time limit. You need to review every topic during the summer break, even if you have covered those DSA topics beforehand. This helps you remember and understand the concepts better. Regular practice and review are important to improve your coding skills.
+
+5. What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+I used to spend more than half a day solving problems, or at least figuring out how to approach them, for some topics. However, I realised that wasn’t the best approach, so I set a timer for every problem, say 45 minutes, and if I don’t get the approach, I’ll look up the solution and analyse why I didn’t get it. Sometimes, even when I have a clear idea of a solution, I find it challenging to write and debug code to ensure it handles all possible cases. To overcome this, I adopted a time-saving approach. Rather than jumping straight into coding with just the initial idea, I first write the pseudocode roughly on paper. This process allows me to consider all the edge cases and verify if my solution works. Once I’m confident that my pseudocode is thorough, I then proceed to write the actual code. This method helps me construct a complete and reliable code before I even start typing it out on the computer.
+
+During the summer break, it was hard for me to stay motivated. Whenever I didn’t feel like solving or coding a problem, I talked to my friends. Sharing my struggles with them gave me encouragement and new ideas, which helped me feel motivated again and stay on track.
+
+6. Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chances of securing this internship?
+
+Yes, the department you belong to does matter. The opportunity was only available for students in circuital branches. For software development engineer (SDE) roles, Positions of Responsibility (PORs) or Extracurricular and Academic Achievements (EAAs) don’t significantly impact your chances, though they do enhance your overall CV. However, having a higher CGPA is crucial and will significantly improve your chances of being shortlisted for these roles.
+
+7. According to you, who should ideally apply for this job?
+
+Anyone who likes problem solving, enjoys coding, or is just curious about working in the tech industry should consider applying.
+
+8. What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+In a Google interview, they won’t ask about what’s on your CV; it’s just used to get you shortlisted. However, it’s helpful to include two to three projects in your CV. If you have good ratings on coding platforms like Codeforces and CodeChef, list those too. Be sure you can confidently explain everything on your CV, as not being able to discuss your own projects well can make a bad impression.
+
+9. Lastly, what advice would you like to give to the students aiming to grab CDC internships this year?
+
+Before your actual interview, try to have at least one mock interview with a senior. This will help you get used to the interview environment. Additionally, have as many seniors as possible review your CV. Consistency and motivation are key to developing your coding skills. If you can’t solve a problem, don’t look at the solution right away. Spend some time thinking about your own approach first. However, don’t spend too much time on it; set a specific amount of time and stick to it. After reviewing the solution, analyse why you couldn’t come up with it on your own. Finally, maintain interaction throughout the entire interview. Share whatever comes to mind, and the interviewers will assist you in the proper direction.

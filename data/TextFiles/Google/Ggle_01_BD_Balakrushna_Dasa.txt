@@ -1,0 +1,73 @@
+1)Brief Introduction
+
+Hey, I am Balakrushna Dash, a pre-final undergraduate student of IIT KGP, pursuing my B-tech course in the department of ECE.
+
+Hi, I am Sumit Kumar Yadav, a final year undergraduate student from the Department of Computer Science and Engineering enrolled in its integrated dual degree course.
+I got Internship offers from Google and Microsoft through the on-campus CDC drive last year(2021).
+
+We are interning this summer at Google as Software Engineers.
+
+2) How did you get into Google? What was the selection procedure?
+
+The selection process involved one coding round followed by 2 technical interview rounds.
+The coding test was conducted on the HackerEarth platform in which 2 questions were given to solve in 60 mins.
+
+In a particular case, the 1st problem was based on DP+DSU and the other problem was on DP.
+
+Interview Round 1: (50 min) The interview started with an introduction. After this, the interviewer asked the interviewee for 1 grid problem in which he had to find the longest path considering some additional constraints. He started with a brute force solution and worked on improving it while discussing it with the interviewer and came up with a solution using greedy and DP with optimization. He explained his logic and then, jumped to implementation.
+
+After this, the interviewer told him to trace this longest path. At last, the interviewer asked how his algorithm changes if some values are repeated in the grid. He explained his logic, and the interviewer was happy with it.
+
+Round 2: (45 min) The interview started with an introduction. After this, the interviewer asked him about 1 coding problem related to calculating the Jaccard similarity. He explained his logic and implemented it using map STL and then he was asked to improve complexity using some mathematics, to which he came up with the solution and coded it also. At last,He was asked one follow-up question, which he solved using a binary search.
+
+Both the interviewers were quite friendly and helpful.
+
+3) How to prepare for them?
+A thorough understanding of algorithms and data structures is required for software engineering-based profiles. Once the basics of DSA are clear, there are many sources to practice problem-solving. If you are a beginner, then refer to Leetcode and InterviewBit. Once you feel confident in standard DSA, you can participate in competitive programming contests on codeforces to boost your problem-solving ability.
+Apart from standard DSA prep, if you have extra time, try to learn OOPs and core CS Subjects, mainly Operating systems and Computer Networks.
+
+For Google, much importance is given to the candidate’s resume, especially past Kickstart/Codejam performances. So, make sure to participate in these contests.
+Also, they asked a lot of DP problems for that practice problem from the Leetcode hard DP section.
+
+From someone who had successfully qualified it, this was his journey of preparation:
+
+He started his competitive programming at the end of his 4th semester by giving contests on codeforces. He regularly gave contests and practice problems on different topics for around 6 months on codeforces. This builds the base, then he started to practice problems topic-wise to take this to another level.
+
+For the graph, he solved the problems given in the CSES problem set.
+
+For the DP, he solved problems given in the Leetcode (medium+hard).
+Just one month before the coding round started, he started Interviewbit and solved most of the questions.
+
+4) What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+In the beginning, I only used to solve problems from codeforces, but around 2 months before the start of the internship coding test, I didn’t feel very confident in the dynamic programming-related problems. So, to overcome this, I moved to leetcode and after solving around 50–60 DP hard problems, I gained confidence which ultimately helped me in the test and interviews.
+
+5) According to you, who should ideally apply for this job?
+People interested in Algorithms and Data Structure and who want to pursue a career in software development can apply. There is a lot of scope for learning new technologies and skills during the internship.
+
+6) What are some of the major points you think would be valid to mention in your CV while targeting this profile? (any specific suggestions you would like to make?)
+
+Focus on competitive programming( or solving questions from leetcode) instead of doing random projects just to write in your CV.
+
+One project is sufficient, and if you are a CS student, you will be doing one project in a software engineering course in your 4th semester.
+
+So, try to participate in as many programming contests(Kickstart, Codejam, ICPC, Codeforces, Codechef) as you can and write those ranks/ratings that will be really useful during shortlisting.
+
+It’s totally fine, if you are in your second year and you don’t have enough points to write, in that case, you can write your school achievements.
+
+Project-under-Prof is not compulsory, you can add self-projects to your CV as well. Just remember one thing, whatever skills you are going to add to your CV, you are expected to be knowledgeable about them. Any tech-related work in any society or any kind of achievement in some hackathon/contest will have a positive impact.
+
+Self-project ideas: just google search for some python project and pick whatever you feel can complete.
+
+7) Any specific advice you want to give to the junta sitting for internships this year.
+
+For preparation:-
+Practice CP.
+Try to learn the basics of OOPs.
+Dev-related projects may help.
+POR(s) are not at all necessary.
+
+For Interview:-
+The best advice would be to stay confident and believe in yourself.
+The interviewer mainly wants to judge how well you think and approach a problem.
+It is very important that while thinking about the problem’s solution, you think out loud.
+Keep talking with the interviewer about your approach so that even if you go wrong, he can give you a hint to get you back on track.

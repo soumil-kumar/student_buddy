@@ -1,0 +1,61 @@
+1. Brief introduction and description of the offered role
+Hello everyone, I am Shelly Aggarwal, a pre-final year undergraduate at IIT Kharagpur enrolled in its B.Tech course of Instrumentation Engineering. I am a boarder of Mother Teresa Hall of Residence. I joined Google as a Software Engineering Intern this summer.
+
+2. How did you get into Google? What was the selection procedure?
+
+I got into Google through the Career Development Centre, IIT Kharagpur. The process consisted of an online assessment (on 15th July) and two rounds of interviews (on Day 1) -
+
+a. Online Assessment-
+The online assessment consisted of two coding questions to be solved within a 60-minute time limit. There were multiple questions (around 5), all of medium-hard difficulty, which were randomly distributed among the students.
+
+These were the questions I got in my assessment:
+- Median path: We were given a tree of n nodes, each with a value. We had to find the sum of the medians of all simple paths of odd length. I don’t remember the details.
+- Hybrid maximum: Some hybrid sequence was given. An expression was also provided, calculating the difference between the sum of maximum values and the sum of the minimum values in the sequence. We had to find the maximum value of the expression for all possible sequences.
+
+I can’t recall the other questions exactly, but this might be of some help:
+- Maximize collection of toys
+- Something related to Prime Paths in a grid using BFS
+
+Aim to give your best in the oa. Even if you cannot solve both questions, it is absolutely fine. There are still chances of getting a shortlist since OA is one of many criteria for getting one, specifically for Google.
+
+b. Technical Rounds:
+There were two technical rounds. The first round was held a day before Day 1, called the preliminary round, and the other was on Day 1 if you get through Round 1. I was asked to code in a Google Doc, not a code editor, in both rounds. So, the focus is entirely on your conceptual understanding and logic and whether you can implement it. In both rounds, I was not asked any HR questions, not even my introduction.
+
+Round 1:
+The interviewer asked me three questions. The last two were a bit difficult versions of the previous question. The first question was easy and was based on a tree where alternate nodes had to be painted black and white. The next question was of medium difficulty, where I was asked to paint alternate levels in black and white. I found the last question challenging and could not optimize the time complexity. I don’t exactly remember the previous question, but it was based on a similar concept, where painting the tree in an optimized way made it challenging. In all three questions, time complexity analysis was asked. It lasted for around 60 minutes.
+
+Round 2:
+I found this round simpler than the previous one. Again, I was not asked for any introduction or HR questions, and we jumped straight to problem solving. I was asked two questions and had to optimize the solution I provided in both. Both were based on strings and the basic concept was storing the frequency of the characters in a map. This round lasted for 30–40 minutes.
+
+3. How to prepare for them?
+
+When we talk specifically about Google, you just need to be strong in DSA. They don’t generally ask anything apart from DSA. I would still advise you to be thorough with your CV as the interviewer might ask questions about any point they find interesting.
+
+The most important part is DSA; practice as many questions as you can. Once you are comfortable solving questions of a particular difficulty level, increase the difficulty level. There are a plethora of online resources and platforms where you can practice. It was pretty overwhelming when I started preparation during the summer breaks, and I felt lost. Hence, I prepared from Algozenith and also solved questions on Leetcode. Binary search, two pointers, graphs, trees, and dynamic programming are the most important topics.
+
+As for how many questions to solve, solve as many as you can. I cannot provide an exact number. Keep solving until you are comfortable with that topic or difficulty level. Many also ask how much time to dedicate to a single question. For medium-difficulty questions, give 20 minutes to formulate an approach, and if you cannot think of one, look for a few hints or a slight idea and try again. Initially, it might take 40 minutes, but eventually, try to solve them within 30 minutes. Also, it is okay to look at the solution; what is wrong is forgetting it later. Make a note of what the approach was and what the basic concept that you missed was. Also, try to give contests on Codeforces and CodeChef regularly for upskilling yourself.
+
+4. When did you start preparing for this role and according to you what is the ideal time for aspirants to begin their preparation?
+
+I started DSA preparation in January 2023, but due to the semester examinations and assignments, I could not prepare for it properly. I started a structured preparation during the summer breaks. But that is not recommended at all since it became very stressful. Start preparing for it as early as possible. Managing acads and coding simultaneously might become challenging, but practice DSA whenever possible. Whatever I did during my semester helped me immensely in escalating my preparation during summer breaks.
+
+5. What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+As I mentioned earlier, it becomes very confusing amidst so many resources, and figuring out how to proceed becomes difficult. So, I took a course to structure my preparation. Also, I contacted seniors to clarify any doubts regarding the preparation for that profile. Moreover, keeping your motivation up always during your preparation is difficult. There were times when I had self-doubt and was unsure of the outcome. But it is important to remember that you are giving your best, and whatever has to happen will happen. Just give it your best shot!
+
+6. Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chances of securing this internship?
+
+Google was open for all circuital departments. As for PORs, they don’t matter at all for an SDE role at Google. However, a high CGPA significantly increases your chances of getting a shortlist. Once you are shortlisted, you are judged solely based on your coding skills. This is not only true for Google, but generally, having a good CGPA always helps.
+
+7. According to you, who should ideally apply for this job?
+
+Anyone interested in development and enjoys coding can apply for this job.
+
+8. What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+Mention previous experiences, such as internships and projects you have worked on. Good contest ratings and academic achievements can distinguish your profile. Just be thorough with whatever you mention in your CV. If you are not confident about it and it gets reflected in your interview, it significantly reduces your chances of getting an offer.
+
+9. Lastly, what advice would you like to give to the students aiming to grab CDC internships this year?
+
+Just give it your best shot :).
+To be honest, I believe both hard work and luck play a significant factor in your getting a shortlist for a company. You cannot control the other one, so just focus on working hard; the rest will follow. The more we focus on the end result, the more stressed we are. So, just stay motivated and ask your seniors and peers for help if you are stuck. It’s all about giving your consistent effort.

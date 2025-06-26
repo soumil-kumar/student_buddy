@@ -1,0 +1,41 @@
+1) Brief introduction and description of the offered role
+
+Hello everyone, I am Arjit Lohia, a 4th-year undergraduate student of the Department of Electronics and Electrical Communication Engineering enrolled in its dual degree course. This summer I will be interning at Sprinklr as a Product Engineer.
+
+2) How did you get into Sprinklr? What was the selection procedure?
+
+A) The selection process consisted of one online coding round and 3 rounds of interviews. In the coding round, we were given 90 minutes to solve 3 questions. The questions were based on binary search, dynamic programming optimization, and basic implementation. The questions were a mix of easy, medium, and difficult problems.
+
+In the first technical round, the interviewer started by asking a classical DP question ( Count the no.of the subset with a given sum in an array ). I was asked to write the code on Google Docs and not on any code editor. As I had done a project on ML and the interviewer was also from an ML background, so he asked me some basic questions related to ML and related to my project and also asked me to code it. This interview lasted for about 40 min.
+
+In the second technical interview, the interviewer asked me to give a 5-minute introduction about myself. After that, I was asked to code a telephone directory that had the functionality of adding, deleting, and searching for a number in that. I wrote a brute force code for the following, then he asked me to optimize this using trie. For that, I just explained the approach to him. He then asked me a probability question. This interview lasted for 30 min.
+
+The third round was an HR round to assess my culture fit for the company which lasted for 20 min. It included some standard HR questions and situations. The interviewer was quite friendly and fun to talk to.
+
+3) How to prepare for them?
+
+A) You should prepare DSA thoroughly as it is required in both coding rounds and interviews. Give as many contests on Codeforces and codechef as possible as it will help in solving questions faster in coding rounds. Maintaining consistency is crucial. For interviews, prepare notes for your CV explaining each project and internship. Try to explain the logic to the interviewer while coding the solution.
+
+4) What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+A) DP was a difficult topic in the starting. Vivek Gupta’s DP workshop on YouTube is a good playlist to learn this topic.
+
+5) Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chances of securing this internship?
+
+There was no such cutoff of CGPA or department for this role. It was open to all the departments. I don’t think PORs contributed that much to get this internship.
+
+6) According to you, who should ideally apply for this job?
+
+A) Anyone who is interested in development and wants to explore software profiles should apply for the Sprinklr intern.
+
+7) Kindly attach your CV/Resume. What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+A) Be honest about what you write in your CV and you should be able to explain everything in it. Having a prior intern in your CV will give you an advantage.
+
+8) Lastly, what advice would you like to give to the students aiming to grab CDC internships this year?
+
+A) ● Don’t take too much pressure during the CDC process and be yourself.
+
+● Get your CV reviewed by seniors and friends. Give mock interviews to boost your confidence.
+
+● DON’T GIVE UP cause you might not get shortlisted in many companies. Just trust in your effort and hard work cause many good companies will come at a later stage.

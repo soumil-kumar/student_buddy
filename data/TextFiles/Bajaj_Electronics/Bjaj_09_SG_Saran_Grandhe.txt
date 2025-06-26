@@ -1,0 +1,47 @@
+Introduction:
+
+Hello everyone! I am Venkata Sai Saran Grandhe, a fourth-year undergraduate student ofthe Department of Mechanical Engineering. I am from Nehru Hall of Residence. For the last CDC session, I was focused on the core profile only, and I got my CDC internship in Bajaj for the research and development domain but then didn’t take the internship because I got the research intern in France and I am currently doing that.
+
+How did you get into Bajaj? What was the selection procedure?
+
+Regarding the selection process, first, there was a technical task which was total mechanical engineering questions which also included some syllabus from 3rd year by then I didn’t complete my 3rd year but I just referred to some topics online by referring to some online synopsis but I wasn’t that perfect on 3rd year so I totally focused on the mechanical topics of first year a little bit and 2nd year. So after the test, the people who are qualified in this test, so I don’t know the criteria on which they shortlist us maybe a cut-off, after this there was a psychometric test, by this what I mean is they ask some real-life questions, eg;- what happens when you are leading a team and team members are not working how would you manage total things, how genuine are you, how you manage time, so these were the question asked and was roughly a 30–40 min test.
+
+I think there is no standard answer to this question; it’s all about how genuine you are. So what I observed is, if you are trying to convince the examiner that you are a good guy then you will definitely miss some points in the first and last question, so my suggestion in this point is be yourself, don’t try to impress the examiner.
+
+After this, there was a direct interview. The first round was the technical round, I was asked questions based on my project and academics and after this, I was shortlisted in the HR round, they asked my interest and why I wanted to pursue an internship in Bajaj and they discussed some points about how my work life would be and how my work would be as an intern.
+
+So this is the brief process for the Bajaj intern.
+
+How to prepare for them?
+
+Okay so, considering the online test was the initial core mechanical question so I had all my notes neatly written and organised so I just referred to my notes and it was kindly easy because I was the one writing them. In case anyone has not written notes, suppose we have much online material for GATE There is kind of short synopsis and important concepts, there is anyone doesn’t have notes prepared they can use this, in my case I had notes written and for one or two topics I referred the online material. Many people plan to go through all the NPTEL lectures in each subject but this is a total waste of time because questions would be on the periphery level, and no one will ask you to derive. For this round, you don’t need to stress more on the details. You just need to have a basic idea of what the chapter is, what are the different formulas and how you apply formulas.
+
+And for the interview round, one needs to be sure about the projects they have put in the CV from the point, even if the person has contributed, don’t mention that you have done a total project in CV, mention the point you have done because the interviewer will surely see the bullet point and ask you questions. For example, my one project was a robotic arm, so I used a fibre mechanism so I mentioned that this is the work I was involved in. The interviewer asked for minute details of the project so I was able to explain. So when you are about to give the interview, be sure about every point of the project mentioned. And regarding the interview technical aspects the interviewer will ask you what are your courses in the curriculum the course you tell defines the question he gonna ask, he knows all the courses you have undergone in your last semester, which you should be mentioning in your CV, mention the 3 courses you are totally strong in order of strength because the first course you gonna mention will be the first question asked.
+
+For these 3 or 2 courses I suggest everyone who is planning for core CDC go through every detail of these courses, even the derivation because even though it was not asked to me, it was asked to my friend to derive an equation. I would suggest that you have at least a structural idea of how things work in the courses you’re gonna mention.
+
+What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+Yeah so I want to specifically mention one point there is any person focusing on core CDC intern considering the number of opportunities and competition it is very difficult to ensure that person gets intern on the first day, maybe his friend from the same department who is focusing on software or data they will be getting intern on Day 1 or there would be more of the people getting intern in initial days. Bajaj was on the 2nd day so I had many friends from mechanical who were placed on Day 1. It was not for a longer duration but I felt I should have applied for these and I would be constantly comparing myself with my friend, so the thing is don’t compare yourself with friends applying in other profiles so just be on your point and don’t feel sad or don’t feel disheartened when you didn’t get selected
+
+On Day 1 I got shortlisted into ITC but I was unable to make to the GD round so at that moment I was totally frustrated because I did not get the first company which selected me for the further round so just stay motivated and don’t compare yourself with other, everyone life is unique and also preparation and also there is a small fraction of luck for CDC interview I don’t say that it’s totally luck but I would say 1% luck matter. Just be sure with your preparation and be confident. If you are confident you will definitely get one day or the other.
+
+According to you, who should ideally apply for this job?
+
+Considering this automobile company, this company expects someone from mechanical who is totally motivated towards the core and who has a decent CGPA so at the time of applying I had a CGPA greater than 9 and I have heard that a CGPA greater than 8 or 8.5 is suitable for core interview because the company is looking for someone inclined towards mechanical and your CGPA reflects your academic, this is one the key aspects the company looks for so I think a decent CGPA is must, and considering the second aspect, they also need project inclined towards mechanical. These two are the main aspects regarding just profile.
+
+Any specific advice you want to give to the junta sitting for internships this year?
+
+I just want to add one point for the people who are focusing on core mechanical jobs, let the interviewer know how interested you are in working on the core side because you need to stand out from other people who are applying for this job by showing how motivated you are for working with machinery and how motivated you are in doing research it may be worth mentioning some point like in my case we didn’t have IC engines when I was applying for the job, but in interview, I mentioned that I was highly fascinated that how engines worked and I studied some topics and I am free for questions in this way I expressed my interest that I want to stay in the core. I think this was the key factor that the interviewer selected because he saw the spark in me.
+
+The second thing is even if there is someone who is interested but doesn’t have enough project just contact your engineer because there would be a mechanical engineering design project which they can use in their CV and they can complete in a span of 10–15 days
+
+The third piece of advice I wanna add is if someone is interested to apply in these jobs they should learn software related to mechanical engineering or some designing software like Solid work or some data analysis software because these are the tools you apply to analyse any mechanical engineering projects. If you already have skill in this it would be an additional thing the interviewer is going to look at and the probability of hiring you increases.
+
+What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+As I mentioned in the skills part add the software I just mentioned if you know about them and used them previously POR doesn’t have that value in the case of core jobs but having the POR gives them the confidence that you are good in managing stuff on your own, you are good in leadership, try to include a POR but this is not mandatory like consultancy profile, but it is an add on to your CV.
+
+Regarding the courses you mention other than academic courses, suppose there are some CAD course and engineering simulation courses which you might have covered on other platforms, that would be attractive for the companies or there would be some computation course which you would have learnt from a YouTube playlist, you can mention that these are course or I have the basic idea. These all things will be sufficient.
+
+Note: Prepare your CV thoroughly before going to an interview.

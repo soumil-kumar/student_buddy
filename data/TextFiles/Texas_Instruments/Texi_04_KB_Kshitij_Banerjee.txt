@@ -1,0 +1,42 @@
+1. Brief introduction and description of the offered role
+Hi, I am Kshitij Banerjee, a 3rd year undergraduate student of IIT KGP in the department of Electrical Engineering. I got an offer from Texas Instruments for an internship in the summer of 2024 from the on-campus CDC internship drive.
+
+2. How did you get into Texas Instruments? What was the selection procedure?
+
+The selection process consisted of three stages: CV submission, an online test, and an online interview. The online test comprised four sections: Embedded software, Analog, Digital, Signal Processing, and an aptitude section. Candidates could select two profiles; I opted for Embedded and Digital. The Embedded section included fundamental C questions, while the Digital section covered topics like flip-flops and adders.
+
+During the one hour interview with a company manager, I faced detailed inquiries about my projects, including one involving Arduino. It is important therefore to have a sound knowledge about your projects which you have mentioned as the interviewer might delve deeper into them. Additionally, there were basic queries about C programming.
+
+3. How to prepare for them?
+
+As electrical students cover embedded systems in the 6th semester, there weren’t specific questions on this topic. However, possessing fundamental knowledge of microcontrollers, assembly language, etc., can be advantageous. For digital and analog profiles, the courses from the 3rd and 4th semesters suffice.
+
+4. When did you start preparing for this role and according to you what is the ideal time for aspirants to begin their preparation?
+
+I didn’t specifically gear my preparation towards this role. I had two CVs ready, one tailored for software and the other for core profiles. Proficiency in your second-year courses will suffice for this role, and you can refresh your knowledge during the summer break.
+
+5. What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+Difficulty in finding suitable practice questions can be a challenge. One can refer to Gautam Saha’s slides for digital topics and Himanshu Agarwal’s YouTube channel for analog questions. While familiarity with Verilog can be beneficial, it’s not mandatory.
+
+6. Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chances of securing this internship?
+
+Preference is given to candidates from circuital branches as their coursework directly correlates with the job profiles. While there isn’t a strict CGPA requirement, a CGPA above 7.5 is considered satisfactory. Participation in PORs/EAAs may not heavily influence selection, but experience in relevant extracurricular activities such as robotics clubs could potentially enhance candidacy.
+
+7. According to you, who should ideally apply for this job?
+
+The ideal candidate for this job would be someone with a genuine interest in the core aspects of the profile. Specifically, individuals with a strong foundation and extensive knowledge in areas such as semiconductors, microprocessors, and computer architecture are well-suited to apply.
+
+8. What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+One major point to highlight in your CV is any relevant projects you&#39;ve undertaken within domains related to the CDC internship. These projects serve as tangible evidence of your practical skills and understanding in these areas, making them highly beneficial additions to your resume.
+
+When elaborating on such projects, consider including details such as the problem statement, your approach or methodology, key challenges faced, and most importantly, the outcomes or results achieved.
+
+9. Lastly, what advice would you like to give to the students aiming to grab CDC internships this year?
+
+It’s easy to assume that the selection process is solely merit-based, where the most skilled candidates rise to the top. While skills are crucial, there’s a layer of unpredictability that often surprises many applicants. You might witness someone less experienced landing an internship on day one while the brightest minds wait in anticipation for weeks or even longer.
+
+This might feel discouraging, but here’s the thing: the CDC selection process isn’t always a perfect reflection of your abilities. Factors like timing, the specific needs of the teams, and yes, luck, can heavily influence who gets shortlisted and when.
+
+So, my advice to you all is this: don’t lose hope. It’s a marathon, not a sprint. Keep putting your best foot forward, stay persistent, and trust in your abilities. Sometimes, the process might seem partial or arbitrary, but remember, it’s just that — a process. Your time will come, and when it does, all the waiting and uncertainty will feel worth it.

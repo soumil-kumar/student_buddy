@@ -1,0 +1,51 @@
+1) Brief introduction and description of the offered role
+
+A) Hi, I am Harika, a fourth-year undergraduate student pursuing Electronics and Electrical Communication Engineering (B.Tech) at IIT Kharagpur. I got selected for an internship opportunity at Google Hardware for this summer 2024.
+
+2) How did you get into Google? What was the selection procedure?
+
+A) The company’s selection procedure included one test round and two interview rounds.
+
+Test Round: The test covered topics like Digital Electronic Circuits, Computer Architecture, SoC Design, and VLSI, with questions ranging from basic to advanced. Strong fundamentals can help solve a decent number of questions. Shortlisting for the interview was based on the test, CV, and CGPA.
+
+Interview Round 1: This round focused on Verilog coding. I was asked to implement synchronous and asynchronous flip-flops, latches, and FSM (including the state diagram), and to perform K-map minimization. I also had to swap variables with and without extra variables in Verilog. Since Verilog was mentioned in my CV, many questions revolved around it. Verilog proficiency is crucial for securing a good offer. This round lasted about 50 minutes.
+
+Interview Round 2: The interviewer was friendly and made the conversation comfortable. They focused on my approach and perspective rather than just the answers. The questions were linked to my previous answers or keywords I mentioned. Topics included CMOS basics, PMOS vs. NMOS sizing, power analysis, setup and hold time analysis, and a brief explanation of RAM, ROM, PROM, EPROM, and EEPROM. They also asked about a lab project from my CV, including details about the IC, memory, clock speed, and implementation. Finally, I coded in C++ to check if a string is a palindrome. This round lasted about 40 minutes.
+
+3) How to prepare for them?
+
+A) Firstly I started my preparation by laying a proper plan on what to be done by referring to all the blogs and contacting seniors. Having Digital as my main aimed profile, I started with my course Digital Electronic Circuits and covered a few other topics like Setup and hold time analysis (very important), Verilog (From YouTube lectures of Prof. Indranil Sengupta), computer architecture (NPTEL) and few other basics on VLSI, SoC design steps, etc. I revised the basics of RC circuits. My main strength was my short notes where I dump all the information I get from various resources in an organized way which always helped me to connect the dots and have a good frame formed. I started solving PYQs and other aptitude questions a few days before the tests.
+
+CDC Dedicated preparation on summer vacation is more than enough to crack a good offer in the core.
+
+I have compiled all the resources and required skills before starting my preparation. Here are some sources I referred to :
+
+CDC Digital — Google Docs
+
+4) When did you start preparing for this role and according to you what is the ideal time for aspirants to begin their preparation?
+
+A) I had started my CDC preparation from the start of the summer vacation. CDC Dedicated preparation on summer vacation is more than enough to crack a good offer in the core. As interested in the core, having a strong fundamental idea over all courses will be taken care of in the semester itself.
+
+5) What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+A) Underconfidence was the factor that made my journey difficult in the beginning. But I started believing in myself and the genuine efforts I put in which helped me achieve this.
+
+6) Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chances of securing this internship?
+
+A) Many companies have CGPA criteria. For core, it’s always better to maintain a high CGPA to make a good impression. Having an 8.5+ CGPA opens all the doors.
+
+For those who enrolled in the B.Tech course, interviewers are well aware that this internship would be our first major one. So it’s fine if you do not have any core-related major work. Try making some self-projects by inculcating your innovation and good modifications to existing ones. But having an internship/FT/Project related to core always makes us stand out from the crowd in competition.
+
+For those who enrolled in Dual Degrees, they do expect some prior work or experience, So it’s better to have one to have a great conversation about it in the interview.
+
+I didn’t have any Prior internships/FT.
+
+7) Lastly, what advice would you like to give to the students aiming to grab CDC internships this year?
+
+A) The most important advice I received from my seniors is to focus on the basics. Any complex concepts can be built on a strong foundation. Weak fundamentals won’t help, no matter how much you focus on critical and complex topics. A productive summer of preparation is sufficient to be well-prepared.
+
+Regarding performance, the approach matters more than the answer. I found that explaining topics aloud helped me think clearly. When asked a question, don’t rush to respond with the first answer that comes to mind. Analyze the question, break it down to its fundamentals, start framing your response, and connect the dots. Discuss your thought process with the interviewer, as they can guide you if you deviate from the correct path. Thinking aloud ensures you and your interviewer are on the same page.
+
+Lastly, stay calm if you face rejections or delays in getting an offer. You will succeed eventually.
+
+All the very best !!!

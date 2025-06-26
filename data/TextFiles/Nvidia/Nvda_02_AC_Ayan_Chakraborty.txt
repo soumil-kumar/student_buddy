@@ -1,0 +1,35 @@
+Brief Introduction:
+
+Hello, my name is Ayan Chakraborty. I am a final year BTech Student from the Department of Electronics and Electrical Communications Engineering, IIT Kharagpur. I am doing my internship at Nvidia this summer 2021. I got the internship offer from Nvidia through the on-campus CDC Internship drive.
+
+Selection Procedure:
+
+The selection procedure for Nvidia consisted of two stages — online test followed by interviews. Nvidia had a CG Criteria of 9 for sitting in the tests (which was later reduced to 8.5, I think).
+
+The online shortlisting test was divided into 3 sections. The 1st section had MCQ questions related to Digital Electronics (Combinatorial and Sequential circuits), CMOS and design and timing analysis of FSMs. The 2nd section was logical reasoning. The 3rd section had lots of Fill in the Blanks related to Computer Architecture and 1 easy coding question.
+
+After shortlisting, there was a single round of interview, in which I was asked about my projects I had mentioned in my CV. After that, I was asked technical questions related to Interrupts, Digital Design, Pipelining and Data Hazards. I was also asked an aptitude question. It is important to be clear on fundamentals.
+
+How to prepare for them?
+
+Knowledge on Digital Electronics and Computer Architecture is important. There are many resources available on Youtube. I recommend the lecture series on Prof. Onur Mutlu’s Youtube channel. You don’t need to understand all of them, but at least you should be familiar with topics upto (and including) Pipelining, Caches and Memory hierarchy. MIT OCW is another good resource for these topics. You can also refer to NPTEL Lectures. For aptitude questions, you can practice from the Heard on the Street book. You should also know the basics of CP and how to use STL data structures for the coding question. You should also check out the JKR funda page on FB for many additional resources.
+
+Your project details:
+
+My work involved the use of Formal Verification to verify digital designs. Verification is the process of verifying that a design works as expected under all conditions. There are many different forms of verification, formal verification is one of them. It is not a prerequisite to know about verification, you will learn about it after you join.
+
+How was your experience working from home?
+
+It was a very good experience working from home. I did not face any technical difficulties. I had regular meetings with my manager, mentor and fellow team members, and I was helped by them a lot. There are no fixed working hours, and it was up to me when I wanted to work, as long as I completed my tasks. There were many interactive sessions organized as well. I was also sent some goodies :)
+
+Effect of Covid on upcoming internship process?
+
+Since this year also, the process is happening online, you may feel alone sitting for so many tests and interviews. Try to form a small group of friends with whom you can discuss. Also since it is online, you may have trouble expressing your thoughts to the interviewer, so make sure to keep thinking out loud during the process. Keep a working webcam and stable net connection.
+
+Who should apply for this internship?
+
+Students looking to build a career in core electronics and interested in learning more about how big designs work should definitely apply. There is a lot of scope to learn a lot of new skills. You could also get software related projects after joining depending on your CV and interests.
+
+What advice will you give them?
+
+As I mentioned earlier, it is important to let the interviewer know what you are thinking. The number of companies coming for core internships is comparatively limited compared to non-core companies, so don’t get demotivated if some of your friends get internships before you. Keep a calm mind during tests and be clear on the fundamentals. Keep in touch with placecomms during the day of interviews and communicate your priority order to them. You should also read up a bit on the latest news and products of the company you are interviewing for.

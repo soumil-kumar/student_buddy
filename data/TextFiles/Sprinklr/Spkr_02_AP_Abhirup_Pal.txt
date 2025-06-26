@@ -1,0 +1,55 @@
+Brief introduction and description of the offered role.
+Hello everyone, I am Abhirup Pal. I am a third-year undergraduate student in the Department of Industrial and Systems Engineering enrolled in its BTech course. I am a boarder of Rajendra Prasad Hall of Residence, I am from Kolkata. I will be joining Sprinklr as a Product Engineer Intern this summer.
+
+2. How did you get into Sprinklr? What was the selection procedure?
+
+The selection process consisted of an online coding test followed by 3 rounds of interviews: two technical and one HR round.
+
+The online test consisted of 3 problems of medium-hard difficulty which were to be solved in 90 minutes. The problems were based on binary search, prefix sums, and dynamic programming.
+
+Those who solved 3 problems completely or 2 completely and one partially were shortlisted for the interview rounds.
+
+My first round of interviews was held at 7:30 am (we had to report to Nalanda at 4 am!). All the interview rounds were held online through MS Teams. The interviewers (there were two of them) started by asking me whether I was comfortable with ReactJS or DSA. I showed some inclination toward DSA, so they started by asking me a very simple implementation problem, and I almost instantly gave the solution. They continued with an ad-hoc problem, I came up with the solution after doing some casework and they were quite satisfied with it. Next, they presented a simple dynamic programming problem which I had solved before in one of the coding tests. Regardless, I first gave a brute force solution and then gave the optimal dp solution. Then, they followed up with another ad-hoc problem which I could not understand at first, and by the time I understood the problem and spent some time on it, they decided to move on to the next section of the interview. They asked me some JavaScript questions (difference between null And undefined, == and ===) and questions on usestate, useeffect hooks in ReactJS. They also asked me about one of my projects. They also asked me if I was familiar with the concepts of DBMS, I admitted that I was not. In the end, they asked me if I had any questions, to which I asked about the kind of work I would do if I were selected.
+
+The second round of interviews was purely DSA-CP based. The interviewer started by asking a tree problem based on shortest paths. I had not seen that problem before, so I thought for 10–12 minutes and explained my thought process. In the end, I gave an incomplete solution that would pass some of the test cases, so he pointed it out. Finally, I gave the complete solution and he told me to code it in a Google doc. The coding portion was rather simple, I only had to write a bfs function and then call it twice in the main function. The interviewer was satisfied, so he moved on to another problem, to which I first gave a brute-force solution followed by a binary search solution. After this, the round was over.
+
+The HR round lasted only for about 15 minutes. The interviewer was quite friendly, he asked me about my background, my strengths and weaknesses, and some typical situational tasks. He also asked me about the kind of work Sprinklr does and I answered what I had learned from the interviewers in the previous rounds (XD!).
+
+I was quite satisfied with my performance in the interviews and was quite confident about my chances. About one and a half hours later, I received a call stating my selection (while I was having lunch with my friends!). :)
+
+3. How to prepare for them?
+
+The same way one would prepare for any other software role: DSA-CP. There are a bunch of resources available on the internet for DSA. For practicing DSA at a beginner level, Leetcode is great. Once you are comfortable with basic topics you should participate in Codeforces or Codechef contests or at least upsolve contest problems, this would help you solve new problems during a test or an interview.
+
+In the last month of preparation, you have to learn CS fundamentals: OOPs are sufficient for BTech, Dual Degree students need to know OS, and DBMS as well. You should be well prepared with your CV as well. Look up common questions and answers based on any skills or projects that you mentioned in your CV. You should also look up common HR questions with answers before the day of the interview, AI tools like ChatGPT can be really helpful in these.
+
+4. When did you start preparing for this role and according to you what is the ideal time for aspirants, to begin their preparation?
+
+I have been into Competitive Programming since my second semester. I did learn DSA, but I gave contests on Codeforces, and I could barely solve A and B of div2. I did CP more seriously from the second year onwards, learned more DSA, and practiced on Leetcode and Codeforces. By the end of the summer after the second year, I could solve 3–4 problems in div2 and 5–6 problems in div3.
+
+However, my ratings were only around 1500 on both of my CF accounts. There is no such ideal time to start preparing, start as early as you can.
+
+5. What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+The major difficulty I faced was that my rating on codeforces was pretty stagnant. While practicing I could solve 1700–1800 rated problems, but could not do so in contests. So, I started solving every contest I participated in, identified my weak topics, and started strengthening them by solving simpler problems on Leetcode and Codeforces. On code forces, a simple rule of thumb is, if your rating is ‘x’, you should practice problems in the rating range ‘x’ to ‘x+300’.
+
+Also, having a good peer group whom you can discuss problems with always helps.
+
+6. Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chances of securing this internship?
+
+There were no such criteria as CG, POR, or EAAs, however, Sprinklr only allowed BTech students to apply, and BS students were not allowed this year. Anyways, having a decent CG always helps for software-based roles as some companies put CG criteria (&gt;=8 or &gt;=7.5) to apply for them.
+
+7. According to you, who should ideally apply for this job?
+
+Anyone who is interested in software development and Competitive Programming should apply.
+
+Any other skills like ML or Web dev are always helpful.
+
+8. What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+You should know the skills and projects you would mention in your CV well. Apart from this, a CV is not that important, PORs and EAAs do not matter. However, it is always a good idea to get your CV reviewed by your seniors and batchies.
+
+9. Lastly, what advice would you like to give to the students aiming to grab CDC internships this year?
+
+My only advice would be to keep improving yourself every day, learn and practice as much as possible, do not worry about the result. Do not let the CDC judge your level of preparation, there are a lot of other factors involved like luck, department, etc. which you cannot control. Keep going, enjoy the process, and stay motivated!
+

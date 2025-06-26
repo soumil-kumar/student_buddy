@@ -1,0 +1,35 @@
+Brief Introduction
+
+Hello junta! My name is Nuruddin Jiruwala, and I just completed my fourth year in Electrical Engineering in its dual degree course. I am interning as a Product Engineer Intern at Sprinklr in the ML team this summer of 2022, which I received via CDC internships 2021–22. Appreciate the initiative by SWG to share the experiences of people spread across various fields, helping our beloved KGP community.
+
+How did you get into Sprinklr? What was the selection procedure?
+
+So the procedure was divided into two stages broadly
+
+After submitting our resume on the ERP portal, a screening test consisting of 3 CP questions was done. The questions were medium — hard in difficulty. If I remember correctly, I was able to solve two of them completely and the last one partially.
+The second stage was the interview rounds. I gave 3 interviews at Sprinklr, the first one was a CP round consisting of two questions( two-pointers and connected component identification in a graph with memory optimization). As the interview was ending the interviewers asked me why I was applying for a backend role with a resume full of ML projects. I requested them to test me for an ML role and if that wasn’t possible I will learn the required backend concepts and frameworks. Luckily that worked and my second interview was purely on ML concepts. We talked about gradient descent and he asked me to pseudo-code it from scratch without using any libraries, further, we talked about some modern optimization techniques like Momentum, RMSProp, and Adam. And he asked me about one term project from my resume as he had worked with the professor in the industry, I lucked out big time as that was the project I had worked most on :P. After that was a standard HR(or C&T as we refer to it at Sprinklr) interview which went on for 10–15 mins, after which I received the confirmation from placecomm.
+How to prepare for them?
+
+If you are a Dual Degree student then it’s good to have multiple projects/at least one internship or both on your resume. As the DSA part goes I tried doing it my way in my first and second years but ended up getting nowhere. So I opted for Algozenith as it was more structured than my way was ever going to be.
+
+For the ML concepts, do projects/internships. Trust me, you will learn more on the job than any Coursera course. Saying that I did do a few good courses. Other than that read about the algorithms, their logic, where they can be used, their pitfalls, and the mathematics behind them. There are numerous blogs on the internet regarding them. A bit of linear algebra is also necessary for the maths to make sense. As nobody is going to ask how you would import these models in python because even a kid can do that. They will ask about their inner workings which you will have no idea about if you haven’t already read about them in detail. Statquest(a youtube channel) worked great for me to help me understand some of the statistics and the intuition behind many algorithms. Try to learn and practice at least one simple code on all the famous frameworks i.e. Keras, Tensorflow, Pytorch, etc.
+
+Other than that, have good communication skills and confidence as you need those to voice out your opinions to your team as well as your manager. And well, if you don’t speak in interviews then what’s the point of giving them? :P
+
+What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+I used to get overwhelmed by the sheer amount of material and stuff to be learned that was available on the internet. That used to break my motivation for days. But I figured I will do it at my pace and we’ll see what happens. The thing that helped me most here is having a support group. I was lucky as I had my parents all the way as well as some great friends(who were also preparing for CDC so we were kinda going through it together). My advice here would be to practice and learn consistently, be it at a slow pace initially doesn’t matter and have a few people to whom you can rant at 3 am(Looking at you Mukul :3)
+
+According to you, who should ideally apply for this job?
+
+There are multiple roles in every software company, so your resume should show which specific role you want to go to clearly. Other than that, somebody that loves algorithms and data should definitely apply here, as the work here seems really interesting( I haven’t started yet properly, but just judging from what I have seen until now)
+
+6) Any specific advice you want to give to the junta sitting for internships this year.
+
+The most important advice here is that after clearing the screening test, your job is more than halfway done. They are here to hire you and you shouldn’t give them any reason not to. Be confident, think loudly, and voice out what you want from the role as well. Try to forget previously messed up interviews as well and focus on the current one, for e.g. I couldn’t solve the easy two-pointer question in my first interview in the first go because I was still mulling over the Microsoft interview I messed up 5 minutes before :P. Other than that, rejections are normal and the CDC process itself depends a lot on your luck. So don’t give up after initial failures and keep the grind going!
+
+What are some of the major points you think would be valid to mention in your CV while targeting this profile?(any specific suggestions you would like to make?)
+
+Try to have multiple projects/internships in your resume specific to the profile you want. Not every project needs to be related, I had a core project on my resume too. But it is good to have a few showcasing your past experience, which will prove your interest in the role, and give you some knowledge beforehand(this would help during your internship as well because you will be familiar with the frameworks/things you will be working on). Also, having projects related to the role will help you talk about stuff that you know in and out of, helping you steer the interview to your advantage.
+
+All the best to all the juniors sitting for internships this year and in the future!

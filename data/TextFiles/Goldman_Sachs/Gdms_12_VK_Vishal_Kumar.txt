@@ -1,0 +1,85 @@
+Brief Introduction
+Hey everyone! My name is Vishal Kumar, and I am currently a 4th-year undergraduate student pursuing a dual degree in Mining Engineering. I am from Muzaffarpur,Bihar. This summer, I will be interning at Goldman Sachs.
+
+2. How did you secure an internship at Goldman Sachs? What was the selection procedure like?
+
+Goldman Sachs offers software and quant intern roles on our campus, open to students from all departments with no CGPA cutoff. The selection procedure consisted of two stages:
+
+First, there was an online test conducted on the Hackerrank platform a week before the interview. It comprised four sections:
+
+Section 1) Two Coding Questions:
+
+Participants had to solve two coding questions in 30 minutes. The first question involved rearranging a string, ranging from easy to medium difficulty. The second question focused on matrices and graphs, presenting a medium to hard level challenge. Due to the time constraint, I was only able to completely solve the first question, while managing to pass some basic test cases for the second.
+
+Section 2) English Writing Skills:
+
+Candidates were required to write short answers to two questions within a total of 15 minutes. The questions were:
+
+What did you learn in your recent project?
+
+How would you handle a situation where a team member is unable to complete their task, impacting your own performance?
+
+Section 3) CS Fundamentals:
+
+This section included around 10 multiple-choice questions on topics like Object-Oriented Programming, Operating Systems, and Database Management Systems. Ample time was provided for this segment.
+
+Section 4) Quantitative Aptitude:
+
+This section consisted of approximately 20 questions to be answered within 45 minutes. Although a few questions posed some challenges, a solid grasp of probability and basic logical ability was sufficient to navigate through this section.
+
+Interview Day:
+
+Round 1:
+
+The round commenced with introductions, followed by the interviewer inquiring about a project from my CV. I provided a satisfactory response, after which I was presented with a puzzle involving 100 tigers and 1 sheep on an island. Although I had come across the puzzle before, I took my time, asked clarifying questions, and answered accordingly. Next, I was given a coding question through a Hackerrank ID and asked to share my screen. The question involved converting a fraction into a decimal, which was of medium difficulty on the LeetCode scale. I followed an almost correct approach throughout the code, even performing a dry run. This round lasted for 40 minutes.
+
+Round 2:
+
+Following the introduction, I was immediately presented with coding questions. The interviewer asked around 4 to 5 questions and assessed my approach to each. I began with a brute-force solution and optimized them further. Some questions I tackled independently, while for one question, the interviewer provided hints that helped me arrive at the solution. Although I did not need to write code for any of the questions, the interviewer seemed satisfied with my approach in all cases. The questions covered topics such as:
+
+Counting the highest number of ones in a row within a sorted row-wise binary matrix.
+Removing duplicates or transferring them to the right in a sorted array.
+Printing all the nodes of a unary tree that are not part of the left view.
+Another one question related to some basic dynamic programming.
+The final question involved finding the square root of a given number between 0 and 10⁹. I explained the logic of using binary search and proceeded to write the code. I wrote the code for 1 to 10⁹ and then used reverse logic for 0 to 1, which could be further optimized. Nevertheless, the interviewer appeared happy and satisfied. Towards the end, there were also questions regarding the company, my role, and growth opportunities. This round lasted for 45 minutes.
+
+For most students selected from our campus, there was no HR round this time. However, it is advisable to familiarize yourself with basic HR questions.
+
+3. How should one prepare for the Goldman Sachs selection process?
+
+To prepare for the online test, continue practicing Competitive Programming (CP) until the end. In the month leading up to the tests, shift your focus to platforms like LeetCode and InterviewBit to enhance your grasp of Data Structures and Algorithms (DSA) questions.
+
+If you lack confidence in your writing skills, practice writing concise answers to the questions mentioned earlier.
+
+For the interviews, concentrate on strengthening your DSA knowledge and reviewing the fundamentals of Object-Oriented Programming. Additionally, explore resources like BrainStellar and YouTube for commonly asked probability and puzzle questions, as these are often covered in the initial round. During interviews, expect in-depth discussions on your CV, so ensure you have a thorough understanding of its contents. Utilize this opportunity to showcase your achievements and experiences.
+
+4. What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+Stuck at similar rating levels:
+
+At some point, individuals engaged in Competitive Programming may find themselves plateauing at a certain rating level. It is crucial to persist through this phase by solving a variety of problems and maintaining patience. Everyone faces this challenge, and only those who persevere ultimately succeed.
+
+Overwhelming amount of preparation:
+
+Some students pursuing B.Tech may feel they have less time compared to those in dual degree programs, resulting in a perception of having to cover a lot of ground. To overcome this, form a peer group and engage in discussions revolving around potential coding questions. This not only exposes you to different perspectives but also enables you to articulate your own thoughts effectively.
+
+5. Who should ideally apply for this job?
+
+In my opinion, individuals with even a slight interest in finance or a desire to explore the field should definitely consider applying. Based on your performance in tests and interviews, you may be assigned roles related to finance or software development.
+
+6. Any specific advice for aspirants applying for internships this year?
+
+In the previous year (2022–23), the entire process was conducted online. However, this year there is a possibility of the process returning to an offline format, similar to pre-COVID times. It is crucial to carefully read the instructions provided before starting any tests, as some sections may allow switching between them, providing an advantage. Practice numerous mock interviews, and articulate your thoughts and ideas confidently to the interviewer. Remember, if you began your preparation late and are unable to secure a good company through the CDC, it does not imply that you are less competent than those who performed well. Treat it as a valuable learning experience that will contribute to your personal growth. Additionally, prioritize the development of an impressive CV, as it can significantly distinguish you from other candidates.
+
+7. What are some major points you believe should be mentioned in your CV when targeting this profile? (Any specific suggestions?)
+
+Moreover, while having substantial projects to showcase is advantageous, please remember that even small software projects can hold great value. They demonstrate your genuine interest and enthusiasm for software development. So, don’t hesitate to mention any software projects you have worked on, regardless of their scale. Every project, no matter the size, showcases your ability to apply your knowledge and bring ideas to life.
+Furthermore, if you have had the opportunity to work on projects that incorporate finance topics, I strongly encourage you to highlight them. Such projects exhibit not only your technical capabilities but also your interest in the intersection of software development and finance. They offer a unique perspective and can be particularly appealing to companies looking for candidates with a blend of programming skills and financial acumen.
+Do highlight ratings of different coding platforms, These ratings and achievements are a testament to your dedication and skills in the coding realm, and they undoubtedly enhance your profile.
+Engage in discussions on coding questions, expressing your thoughts and considering others’ perspectives.
+Practice mock interviews with friends and actively work on improving your performance.
+Ensure you can explain any project on your CV for approximately 5–10 minutes.
+Have someone review your CV critically to identify areas for improvement.
+Seek feedback from peers and seniors when you are building your CV.
+All the best for the upcoming internship season! Stay positive, stay motivated and be patient throughout the process.
+

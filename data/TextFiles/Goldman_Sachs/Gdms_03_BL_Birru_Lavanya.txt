@@ -1,0 +1,62 @@
+1)Brief introduction and description of the offered role.
+
+Hey all. I am Birru Lavanya, a pre-final undergraduate student in economics at IIT Kharagpur. I am from Warangal, Telangana. I will be interning at the Controllers division of Goldman Sachs this summer.
+
+2)How did you get into Goldman Sachs? What was the selection procedure
+
+Goldman Sachs offers two roles at our campus, quant and software, and is open to all departments with no CGPA cutoff. The selection procedure consisted of an online test at first. The online test had four sections:
+1) A few questions on probability, maths and puzzles.
+2) 2 subjective HR questions. It’s mostly the same every year.
+3) Two coding questions with medium-hard difficulty.
+4) Questions on CS fundamentals.
+A day before day one, candidates were shortlisted for offline interviews at Nalanda based on their test performance. I was shortlisted for quant interviews. There were three rounds of interviews. The first round started with a brief introduction, CV grilling and a few questions on probability, puzzles and some basic coding questions.
+
+After performing well in the first round, I was immediately sent to the second round, where I was asked probability questions, puzzles and coding questions. This round consisted of many follow-up questions for each question. Through careful analysis and brainstorming, I could answer each of them and impress the interviewer. The third was with the manager, who started grilling my CV and caught his eye on my econometrics project. He gave me a situation where I had to design the experiment and perform statistical tests. With a lot of communication, I convinced him of my experiment.
+
+Later, he moved to a coding question of medium-hard difficulty. All the rounds were interactive and engaging. I had three back-to-back interviews within a combined 2 hours. I was not asked to code anything explicitly, but I had to explain the logic and direction. There was no HR round as such for me. Immediately, I was told I was selected.
+
+3)How to prepare for them?
+
+For probability and puzzles, I followed the standard interview books. Heard on the street, 50 challenging problems in probablity, brainstellar (it’s a website :)), etc. (I am adding this line because my Grammarly suggested it. I heard on the street that there were 50 challenging problems in probability, brainstellar, etc. lol).
+
+For DSA, I enrolled in Algozenith in my fourth semester and practised some leetcode questions. I didn’t participate in any coding competitions as such, but I recommend doing so to get acquainted with the test environment.
+
+4)When did you start preparing for this role and according to you what is the ideal time for aspirants to begin their preparation?
+
+I didn’t specifically target this company. I was a mentee in Quantitative Research at JP Morgan. Towards the end of the mentorship, I was given an opportunity to interview for an internship (I wasn’t selected). Resources were provided, and they were the same for any standard quant role interviews. (Here, I can say that I got those from the interviewers themselves :D). I started preparing three months before the on-campus tests and interviews. I recommend preparing at least three months before the CDC internship process starts. But it’s never too late and never too early. I also recommend practising coding and participating in various coding competitions as early as in 2nd year.
+
+5)What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+The difficulties I encountered during my preparation were mainly the need for more time and overwhelming resources to complete. I also had to attend classes and do assignments as a part of JP Morgan’s mentorship. We also had to do a case study for about a week at the end, which was
+getting in the way of my preparation.
+
+6)Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chances of securing this internship?
+
+There are no specific requirements, such as department, CGPA, or other factors, for this position. Additionally, PORs and EAA would not enhance the chances of being selected since I had neither PORs nor EAA. They might help take the interview forward, but anyone would not be rejected based on PORs and EAA.
+
+7)According to you, who should ideally apply for this job?
+
+Anyone interested in finance, problem-solving or software development is ideal for this job. You will be selected for a software or quant role based on the test performance and interviews.
+
+8)What are some of the major points you think would be valid to mention in CV while targeting this profile?
+
+A CV doesn’t hold a high weightage in selection, but it is worth mentioning the projects, internships and mentorships. I wasn’t questioned on all the other coursework projects I had written because they were unrelated to my role.
+Summarize every heading in the CV within three bullet points and ensure they cover up to the end of the line, focusing more on the results like accuracy, score, etc.
+Do mention your rankings in hackathons and coding competitions like codeforces, codechef, etc.
+Prepare different CVs for each role you will be targeting for. (say, SDE, data, consult).
+Refer to as many CVs as possible while preparing your CV. SWG has a CV repository, which I frequently use for reference.
+Get your CV reviewed by as many seniors as possible and take their input occasionally.
+9)Lastly, what advice would you like to give to the students aiming to grab CDC internships this year?
+
+It is essential to read the test instructions before a test since each test will differ; hence, it may or may not allow switching between the sections.
+Try to stay consistent. Set day-wise and week-wise targets. Form a group of 2–3 with your friends to share resources and news and for doubt clearing.
+Try to remain calm and not get anxious during the tests and interviews.
+Communicate well with the interviewer. Tell them what you are thinking and your thought process and approach. Don’t hesitate to ask for hints when stuck on a question during an interview.
+Prepare your introduction well. You should be able to speak for at least five minutes about each project or internship you have done.
+Practice mock interviews with your friends, if possible with seniors.
+Try to get as high SGPA as possible every semester. A high CGPA opens many doors.
+Read interview blogs of the candidates for the companies you were shortlisted for. A day before my interview, when the shortlists were out, I was still determining what to revise and how to prepare. Then, I referred to some of the blogs from SWG that gave me a good insight into how the interviews would be conducted.
+Don’t mention anything in the CV that you cannot back up afterwards, as it creates a negative impression on the interviewer.
+Feel free to reach out to me anytime :)
+
+Carpe dium!

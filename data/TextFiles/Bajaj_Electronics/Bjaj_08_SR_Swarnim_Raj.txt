@@ -1,0 +1,53 @@
+Brief Introduction :
+
+Hi, my name is Swarnim Raj. I am a fourth-year undergraduate student of the department of Electrical Engineering enrolled in its Instrumentation Engineering course. I have done my summer internship in 2021 at Bajaj Auto in its R&D EE department.
+
+Selection Procedure
+
+The selection procedure consisted of an MCQ test with questions divided into 4 sections: Aptitude, Quant, Vocabulary & Technical. The test was followed by a shortlisting based on the test and your CV.
+
+Finally, there were 2 technical interview rounds and 1 HR round.
+
+Basic concepts of Machines & Power Electronics are necessary for the test. The MCQs are straightforward and do not require in-depth knowledge. The other three subsections were fairly easy and did not require any individual preparation.
+A good CV for Bajaj would be one having at least one project in the core field, and a CG above 8 is preferred though not mandatory.
+The first interview was reasonably basic and touched on Power Electronics, Machines & Digital Electronics topics. The second interview was the one in which they went into my CV, and the candidate was expected to be thorough with all the projects they had mentioned. I was asked in-depth about my projects and all their aspects like the technicalities, financials, and logistics.
+The HR round was very typical and was limited to the frequently asked questions, so a simple google search of common HR questions would suffice.
+How to prepare for them?
+
+Revision of your coursework, majorly Machines & Power Electronics, is sufficient to prepare for the test and the first technical round. The second technical round needs you to be thorough with your CV and your projects. You should know each aspect of your project even if some other teammate is working on it. The HR round, as mentioned earlier, does not require more than a few google searches to get familiar with the common HR questions and to know a bit about the company.
+
+Your Project Details
+
+Since I am interning with the Research & Development team, my work was very much on the electrical aspects of the vehicle itself. My work was on an ISG — Integrated Starter Generator (interested people can search it on the net). I would suffice it to say that the work was exciting and you could see the direct application of your work on the vehicle. The result was majorly on Simulink, so previous knowledge of the same was beneficial in my case.
+
+How was your experience working from home? What difficulties did you face?
+
+I indeed wanted to get a bit of corporate experience, which I could not, but the mentor ensured that I had enough work all the time. If the internship had been on site, I would indeed have gotten the chance to implement my design on a prototype but the online nature of the internship limited me to just computer simulations which was a bummer. It would surely have been more enriching if I had interacted with the officials there and with the other interns.
+
+What effect could Covid have in the upcoming internship process?
+
+Bajaj Auto did call a few interns on-site based on their project requirement so there is a high possibility of having the upcoming internships offline. But the CDC process is still online. There would surely be people resorting to malpractices in the test. In some questions, you might not be able to convey your ideas as effectively as you would have been face-to-face, so you should indeed work upon your communication skills. Other than that, try to be off social media for a few days to avoid distractions and unnecessary demotivation.
+
+According to you, who should ideally apply for this intern?
+
+People who are heavily inclined towards the Electrical core profile and Electrical systems design are well suited for the internship in Bajaj Auto. You are not expected to know everything at the beginning of your training but should have a will to learn quickly and apply it to the problem at hand.
+
+And what advice would you give them?
+
+Try to deliver a bit more than asked for and also try to take the initiative on your internship.
+
+And in general for everybody -
+
+Try to be thorough with your CV
+
+Stick to the profile you want to pursue ahead in your career. Don’t go for a profile just because its internship is easy to bag.
+
+CDC is not the end. There are loads of opportunities in each profile so do not hesitate to apply for off-campus foreign research internships.
+
+Last but not the least, try to stay in touch with a senior who has done his/her internship at a place you want to.
+
+Best of Luck,
+
+Swarnim Raj
+
+PS: Do not hesitate to contact me in case of any doubts

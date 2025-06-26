@@ -1,0 +1,51 @@
+1) Brief Introduction
+
+Hello everyone! My name is Madhav Raju Nair, I am a fourth-year undergraduate student pursuing my major in electronics and electrical communication engineering along with a minor in computer science and a micro in embedded systems. I am currently working at NVIDIA, Bangalore as a summer intern in the Sys-Perf Verification team. I’m from Thiruvananthapuram, Kerala.
+
+To give a brief background about myself, I have been passionate about robotics and embedded electronics since my first year as I worked on projects at Technology Robotix Society(TRS) and Areal Robotics Kharagpur(ARK). By the end of third year, after completing the department coursework till then, I was majorly interested in the fields of computer architecture and hardware security. I have previously worked under Prof. S.K.Nandy, Department of Computation and Data Sciences, IISc Bangalore on the project “FPGA simulation of a multi-core reconfigurable processor” and Prof. Debdeep Mukhopadhyay, Department of Computer Science and Engineering , IIT Kharagpur on the project “Deriving Security Constructs from Natural Language”.
+
+2) How did you get into Nvidia? What was the selection procedure?
+
+The selection process had 2 stages; a written exam followed by an online interview.
+
+Written exam : To appear for the NVIDIA written exam there was a CG cut off of 8. The online exam was of one hour duration and had nearly 20 questions if I remember correctly. Needless to say, camera/microphone were to be kept on during the test and tab change/ window minimization was prevented; but luckily, navigation between sections was allowed which lets you complete easier ones first. Apart from the general aptitude questions, the test covered programming fundamentals,basic probability and statistics, and digital electronics. Most of the digital electronics questions could be answered using topics covered in the 2nd year courses + some timing/verilog.
+
+Interview : After shortlisting, one round of online interviews was conducted. I was interviewed by a panel of 3 people and all of them were very friendly in nature. First I was asked to introduce myself and go through my CV briefly. I had a relevant project on my CV so we spent a couple of minutes discussing it. Then they moved on to questions from digital electronics most of which required a good understanding of the basics. Then a few simple programming questions were asked (in my case, about trees) in which they evidently gave importance to your approach.In some of the questions, I did not know the answer directly, but was able to discuss my thought process with them and arrive at the final soln. At last, a bunch of HR questions, why do you want to join the company, what kind of work are you expecting to do etc. were also asked.
+
+3) How to prepare for them?
+
+The most important step is revising all the topics covered in 2nd-year digital electronics course; questions can be asked from basic circuits, registers, flip flops, multiplexers, PLL etc. Further, it’ll be helpful to have an understanding of computer architecture, fundamentals of Verilog and timing analysis.As for the core topics study material, I am not able to provide a centralised repo or anything; I have used kgp course material, NPTEL lectures, Open Courseware, easy-and-popular Youtube playlists for different topics.
+
+Revising first year PDS coursework and then completing any of the DSA courses available online will be more than sufficient for the coding questions. [Rigourous practice of CP is not necessary for NVIDIA at least]. Lastly, aptitude questions, reasoning, puzzles etc can be practised from many resources available online.
+
+According to me, for the interview prep, focusing on the basics is important as one tends to spend the most amount of time on HR prep and CV prep during those days. You just have to remember an overview of the projects and courses mentioned on your CV since most of the questions are on your understanding of the fundamentals and a detailed scrutiny of CV is not going to happen. On the other hand, if there’s a relevant project mentioned on your CV that the panel may be interested in hearing about, be prepared to talk about it and steer the discussion in a way to emphasise your individual contribution and results.
+
+4) What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+As I was targeting core profile since the beginning, NVIDIA was on top of my list. But when the CDC internship drive was nearing, I was getting a bit overwhelmed as I tried to revise a lot of the advanced concepts and memorise all the work I’d put on my cv. At this point, talking to seniors who’d previously cracked NVIDIA helped a lot as they advised me to rather focus on the basics and keep calm. Maintaining a good physical and mental condition to give the tests and interviews during/after the hectic CDC week is another challenge; it is important to not lose hope, as there’s a good chance that you will end up with a good summer intern/research project.
+
+5) According to you, who should ideally apply for this job?
+
+There’s a misconception that NVIDIA is a company for core enthusiasts, and even while working here it is mentioned quite often that it isn’t a pure core company, and they have a lot of roles where ug ece knowledge is not applicable, in addition to low-level software dev roles. If you have the slightest interest in digital design and satisfy the criteria to apply, definitely do so. NVIDIA is a world renowned company, they do offer a competitive salary and the additional perks are pretty good — so do give it a shot
+
+6) Any specific advice you want to give to the junta sitting for internships this year?
+
+→ Do not ever not apply to a good company thinking you wouldn’t get in. Sometimes they would just be looking for a person whose aptitude they like regardless of their no. of previous internships or PoRs
+
+→ During the interview be honest while answering the questions, and do not try to fake answers. It’s usually more rewarding to go through your real thought process than panicking.
+
+→ Keep letting your interviewer know how you’re approaching the problem in steps, continuous interaction eases the atmosphere and they even help you get to the final solution sometimes.
+
+→ Do not let the pressure cloud your vision and judgment. As it happens, regardless of the #Day1 pressure, many amazing companies choose to come to the CDC drive later if that’s what matches with their schedule.
+
+→ KGP summers are sultry and tiring; it is important to keep yourself hydrated and maintain a proper diet.
+
+If anyone would like to discuss any CDC related matter that you think I might be able to help with, you can reach out to me at — https://www.linkedin.com/in/madhav-raju-nair-339b8754/
+
+7) What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+→ Be it coursework, projects or internships write them in the order of how confident you are about them! highlight/bold sentences you’d like recruiters to notice.
+
+→ Any research/experience is good experience even if it isn’t exactly matching with the job role. As I already mentioned, in case of NVIDIA, your knowledge in the subject is way more important than the density of your CV.
+
+→ if there are relevant projects, prepare small 2 min paragraphs on them; you will mostly be asked to ‘briefly’ explain them. You should be able to give a good summary without getting lost in the details.

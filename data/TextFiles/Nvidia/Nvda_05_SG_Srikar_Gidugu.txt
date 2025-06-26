@@ -1,0 +1,33 @@
+1 : Brief Introduction
+
+Hello, my name is Srikar Gidugu. I’m from the ECE department. I am from Hyderabad, Telangana.
+
+2 : How did you get into Nvidia? What was the selection procedure?
+
+The first round was a written test that had 21 questions, and it had to be submitted in an hour. The first 7 questions were on Digital Electronics, focusing mainly on counters and flip-flops. The next 7 questions covered the basics of programming, and the last 7 questions were on aptitude.
+
+The paper was logical and straightforward. Navigation was allowed in the exam, so you could choose which section to attempt first according to your strengths.
+
+The second stage was an interview. Mine was the first interview. There were 3 interviewers and all of them were very friendly. It started with a general introduction, and they asked me about the topics I was comfortable with. The first interviewer asked 2 very basic questions on combinational logic and multiplexers. Then they asked me 2 questions about aptitude, one of which I already knew. The last question was a simple programming question for which I had to just give the logic. The whole interview was also filled with general talks about games and graphics. They also asked why I would like to join the company and how it would benefit me. The panel was very friendly and helpful wherever I got stuck.
+
+4 : How to prepare for them?
+
+Start with revising the basics of digital electronics taught in 2nd year. Questions on building gates using multiplexers and the basics of flip flops and counters were asked. Once confident with these, learning Static Time Analysis and the basics of Verilog would be helpful but not necessary. When asked, I clearly said that these were not covered in our course, and I did not have much idea about them; the panel moved to ask questions on the topics I knew and was comfortable with. The questions on programming can be solved from the topics taught in PDS in the first year. I found the lectures of Neso Academy to be helpful for quick revision before the interview and the exam.
+
+5 : What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+I did not face any difficulties during the procedure. I would advise you to stay cool and confident during the exam and not panic. The questions were logical and could be solved if you gave it a good thought. Also, I would suggest you to focus on the basics and be very clear with them before moving on to higher-level topics.
+
+6 : According to you, who should ideally apply for this job?
+
+Anyone who is very much interested in Digital Electronics and would love to know Digital design would enjoy the work. Also, anyone with good aptitude and who isn’t sure about their profile can give it a shot, as it would not take much time to prepare.
+
+7 : Any specific advice you want to give to the junta sitting for internships this year?
+
+Understand that CDC can be very chaotic at times, and do not let it affect you. Stay in touch with your friends and take good care of them. Stay confident and hopeful throughout the process.
+
+During the interviews, make sure you voice your thoughts, as the interviewer will know the direction in which you are thinking and will help you if you are stuck. The procedure is more important than the final answer; hence, don’t be silent. Let them know your hobbies and interests and how the specific company aligns with them. Keep learning throughout the process.
+
+8 : What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+They did not focus much on my CV until I pointed out a fact that was written in it. I did not have any previous internships or projects. I mentioned a few PORs that I had. You can mention some quick projects to be on the safe side, although it isn’t mandatory. Good interaction and genuine interest in the company were more important than the CV.

@@ -1,0 +1,59 @@
+Brief Introduction
+
+Hello, my name is Anubhav Prasad. I’m from the ECE department. I’m also a member of KRSSG’s electronics and embedded team. I’m from Hajipur, Bihar.
+
+How did you get into NVIDIA ? What was the selection procedure?
+
+There are two steps in total, one is an exam and the 2nd is the interview round.
+
+Approx 19 questions were asked in total and the time given was 1 hour. Questions spanned the concepts of digital electronics, PDS (1st year) and probabilities. The difficulty of the paper was moderate. I got some previous year's questions from the JKR funda Facebook page and to my surprise, some questions were exactly the same with different data.
+
+For the interview Nvidia came on day 2. Mine Was the 1st interview. There were two interviewers, one was a kgpian (don’t remember his batch). So it started with the introduction part and then some random talks related to video games and GPUs. After that the 2nd guy started asking me questions like what is your interest, why you want to join Nvidia, do you want to go for higher studies, etc. It went for roughly 5 minutes and then the 1st interviewer (kgpian) started asking me technical questions. It started with some coding-based questions (basics of sorting) and then followed by a test question which I solved wrong (calculation mistake). So then I did that in front of him and also told him the method. He then asked me questions related to flip flops, multiplexers, etc. After that, he asked me whether I have knowledge of computer architecture and verilog or not. Since it wasn’t covered in my course, I told them I do know basic stuff but not properly. He then asked me whether I know memory hierarchy and pipelining hazards or not. I told them whatever I knew in short. After that the 2nd interviewer gave me a puzzle. I already knew the answer to that so I told them step by step and well that was my final question, after that we talked about some random stuff for 2–3 mins and the interview was over.
+
+How to prepare for them?
+
+For preparations there, the very 1st step should be digital electronics. One should be very clear with the concepts of digital electronics, (all small modules like adder, multiplexer, flip-flops, etc). Then try implementing flip-flops with 2-to-1, or 4-to-1 multiplexers. Once you’re confident with this stuff, then learn verilog and try implementing all the learned modules in verilog and try writing testbenches in it. It will give you an idea about how IC’s are designed. Circuit solving methods like KCL, KVL should be clear. Go through the response of the RLC circuits (important for other companies as well). Revise the concepts of PDS (taught in 1st year) that’s enough but additionally if interested you may go through STL, as a year before my CDC a question was asked on vectors.
+
+Once the above mentioned concepts are clear enough you can go through computer architecture. Memory hierarchy, Pipelining and its hazards are the most important concepts. Some VLSI concepts are also very important like static timing analysis (setup and hold time). Below are the links for computer architecture and VLSI stuff.
+
+https://www.youtube.com/watch?v=E0c7M_eEmLE&list=PL9un8tgZngo9-Y5dmi8Fh4dJEMixX6mz7&ab_channel=ComputerArchitectureandOrganization
+
+http://www.vlsi-expert.com/p/static-timing-analysis.html
+
+Although they won’t ask questions from these concepts if you’re a 2nd-year student. If you don’t know then tell them that these courses aren’t covered yet. Then they will ask you questions from the basis only.
+
+For puzzles, just go through the 1st chapter of heard on the street book. That’s more than enough
+
+https://drive.google.com/file/d/1SAizAj7x8jbfOgjCvQjYqEpUnVp6Xh6o/view?usp=sharing
+
+What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem
+
+I don’t face any difficulties as such while preparing. I was pretty sure that I don’t want to sit for SDE or other roles. I just wanted to sit for core profile (digital only). Staying in contact with friends helps a lot as one starts to panic as the CDC is approaching. I would advise you to keep faith in you and be confident. Have proper food, sleep, do regular workouts to be physically and mentally fit and just focus on learning rather than running for different profiles.
+
+According to you, who should ideally apply for this job?
+
+If you are interested in knowing the process of what goes into designing these complex devices capable of running high quality video games, high computation, etc then you should definitely give it a shot. Digital design is a vast and interesting field. If you are still in a dilemma in selecting a profile, I would suggest that try this as well. It won’t take much time to cover the concepts. The new curriculum already covered the digital electronics stuff so it won’t take much time to prepare for it.
+
+Any specific advice you want to give to the junta sitting for internships this year.
+
+Be clear with whatever you write in your CV. Don’t just fake stuff. If you are not confident with anything that you have written then it’s better not to write it.
+
+Keep interacting with interviewers during the interview. Don’t just be quiet, keep talking to them, tell them your approach. It will boost your confidence. They also give hints if you are stuck somewhere, and also it makes a good impression if you keep interacting. Don’t worry if you are not confident in speaking English, proceed with Hindi. They don’t judge the language at all.
+
+Be in touch with family and friends, it helps a lot. Be happy and keep learning.
+
+What are some of the major points you think would be valid to mention in your CV while targeting this profile?(any specific suggestions you would like to make?)
+
+Well they don’t focus much on CV, throughout my interview they didn’t ask anything from my CV. They just saw it once and asked about my field of interest. So it’s better to focus on making the fundamentals clear rather than running to make a good CV.
+
+For CV try to include a hardware project if possible, although not that important but still good to be on the safe side. I would suggest going through the course “NAND2TETRIS” part 1 on Coursera. It’s a project-oriented course and much fun to learn. Additionally, there are websites like fpga4student.com, etc. You may have a look at it if you have time but only after having the fundamentals strong.
+
+Finally all the best for the upcoming CDC. Happy learning. Be safe and healthy.
+
+In case you need any help then feel free to text me.
+
+Email: anubhav84prasad@gmail.com
+
+WhatsApp number: 7076168555
+
+LinkedIn: www.linkedin.com/in/anubhav84prasad

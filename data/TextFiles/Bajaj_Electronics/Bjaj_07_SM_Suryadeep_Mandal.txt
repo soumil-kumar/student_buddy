@@ -1,0 +1,49 @@
+Brief Introduction
+
+Hi, I am Suryadeep Mandal. I am a fourth-year undergraduate student in the Department of Electrical Engineering. I am currently an intern at Bajaj Auto in its R&D EEE Department. My project here is on the accurate calculation of power losses in a motor controller for varying drive cycles.
+
+How did you get into Bajaj Auto? What was the selection procedure?
+
+There was an initial MCQ test based on which shortlisting was done for the interview. The test consisted of English, General Aptitude, and Technical questions. For Electrical Engineering, technical questions were mostly from Power Electronics and Electrical Machines and were either theory-based or involved one or two small calculations. A few questions were also from Basic Electronics.
+
+After shortlisting, there were two rounds of interviews –
+
+Technical Round — General questions were asked from Basic Electronics and Electrical Machines. I had written in my CV that in a project I had designed a few circuits for the safety of automotive systems, so they told me to show them those circuits and asked me a few specific questions based on those (Relay Drivers, PWM, etc.)
+
+HR Round — After the technical interview, I received a call for the HR round within thirty minutes. HR first asked me to go through my CV and justify why I was suited for the internship role. Then, he asked a few questions like why I was not going for any other automotive company, what my future plans were, etc.
+
+After the HR round, I received a call from the CDC Representative about my selection by Bajaj Auto within an hour.
+
+How to prepare for them?
+
+For four-year students, revising the coursework on Electrical Machines would help. It would be great if you can utilise the rest of the summer vacation from now on and learn about Power Electronics. For five-year students, revising Electrical Machines and Power Electronics would be very helpful. A project will certainly provide you with an edge over others in the interviews. For those of you who do not know, Prof. Dipankar Debnath has some projects in these fields and is very approachable, so you can try to get a project under him.
+
+Instrumentation guys do not have either Electrical Machines or Power Electronics in their coursework, so you have to work a bit harder during the summers studying both these subjects if you want to crack the test. Do not be worried though, questions are fairly easy so you need not go into much depth.
+
+For the technical interview, be thorough with your CV and be sure that you understand each and every term that you have mentioned in it as they might also ask questions from some unrelated projects just to check your confidence and depth of knowledge (happened to a friend and co-intern of mine).
+
+For the HR interview, you may watch some interview videos on YouTube, or read HR interview questions on Google. It does not need much extra preparation though. In the end, just be yourself!
+
+What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+I had to study Power Electronics on my own, while also parallelly studying Digital and Analog electronics for other core profiles. I had a little less time as I was involved in a competition for most of my summers. I used GATE books to study the basics of Power Electronics, as well as revise Electrical Machines.
+
+A few more difficulties I faced -
+
+During the test, there was a time crunch, and there were almost seventy-five questions to be solved within an hour. There was also negative marking so I had to be cautious while answering the questions.
+
+During the HR interview, I faced some network fluctuations but the interviewer was very supportive and ultimately my HR interview was conducted over a phone call.
+
+According to you, who should ideally apply for this job?
+
+If you are interested in core electrical engineering and automotive systems, you should apply for this internship. There are projects given to interns here in Electrical and Mechanical R&D, Manufacturing, Materials, and Engineering Operations (involves robotic automation, embedded systems, AI, etc.) for those of you interested in the core.
+
+Any specific advice you want to give to the junta sitting for internships this year.
+
+Try to be thorough with everything you have mentioned in your CV, and do get it verified by at least one senior you know
+There will be a time crunch that you will face during the tests. Do solve practice questions from various sources beforehand and more importantly, do not panic.
+Be confident while appearing for the interviews. Do not overuse words like “uhh”, “maybe”, “like”, etc. while answering a question. Try to stick to a particular profile in which you are truly interested to have a future career.
+Most importantly, there are several opportunities beyond CDC. If you feel that there is no company from your particular field of interest, go ahead and apply for Off-campus internships or for Foreign Training Programs like MITACS, DAAD, etc. (You can search the web and find several such opportunities).
+What are some of the major points you think would be valid to mention in your CV while targeting this profile? (any specific suggestions you would like to make?)
+
+As mentioned earlier, if you have done any project in core EE or ME, it will be a great value addition to your CV. You can also mention any self-projects that you might have undertaken in the summer.

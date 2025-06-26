@@ -1,0 +1,26 @@
+How did you get into Google (Hardware)? What was the selection procedure?
+
+Selection: Was based on CV. I had a course project on Algo I under PPC sir, an ISRO project of UART implementation on FPGA.
+Google Hardware Interview Experience : There were two sets of interviews.
+Round 1: I was mostly asked questions from basic digital electronics FSM(Finite state machine) related questions. I was asked to draw the state transition diagram for a particular question. Then I was asked a question from analog regarding opamp. Then I told them that I mainly prepared for digital, so I would prefer if they asked questions from that. Then they gave me a
+logical question and asked me to implement it using digital circuits. It was related to binary search. Then they asked a few questions regarding programming and basic flip flops, latches and combinational circuits. Finally, he asked me for 1–2 puzzles, and that’s it. Even if you can’t answer the question perfectly, telling them your approach will help a lot.
+
+Round 2: Round 2 began with a complicated question on static timing analysis where a big
+circuit was given, and I had to explain every stage of how I approached it. They asked a question on K-map minimisation and then computer architecture basics like RAM, ROM,Cache and ISA. Lastly, they asked me a question on recursion(coding in C++). I solved it using both recursion and dynamic programming and they were very happy to see that.
+
+How to prepare for them?
+
+I aimed for the core- digital profile. So, I started my preparation from the summer after the end of my 4th semester. I went through a few courses on Digital Electronics (Neso Academy lectures), a basic course on Computer
+System and Architecture(basics from gfg), Static Timing analysis concepts. Knowledge about VHDL/Verilog is also recommended if time permits. I studied them thoroughly. Lastly, I revised my programming, data structure, and algorithms concepts (Since my second profile was software, I was also practicing from Interviewbit, which helped me a lot). I also briefly went
+through puzzle questions from the interview bit and gfg.
+
+Any specific advice you want to give to the junta sitting for internships this year.
+
+I got COVID positive at the end of April and basically began my preparations from May mid. I started with the NESO playlist of digital first and practiced questions which I gathered from past papers and seniors. I contacted Nagesh Patle, Rudrajyoti Roy and Hima Swetha, who also interned in core profiles. I asked them many questions to clear my concepts. Keeping in touch
+with seniors was a huge plus point as they guided me with their interview experience and field expertise. When the interview time was approaching, I also prepared the basics of computer architecture. I learnt VHDL as it was required in my ISRO project which helped me in the interview too. Due to the increased stress in CDC, you must take care of yourself. Do some exercise, get proper sleep and keep in touch with your friends. You have to give lots of tests,
+face rejections too, still keep on fighting. You need to keep calm, trust yourself, and utilize the summer break efficiently to bag an excellent core offer. That’s it from my side. Thank you! You are free to contact me on my
+
+my email
+haitdebdatta@gmail.com.
+
+All the best. Machake!!

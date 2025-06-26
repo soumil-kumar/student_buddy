@@ -1,0 +1,48 @@
+1) Brief Introduction
+
+Hello everyone! I’m Rashi Patil, a third-year undergraduate student from the Department of Electronics and Electrical Communication Engineering enrolled in its B.Tech course. I am a Boarder of SN/IG Hall of Residence. I got an internship offer from Google through the on-campus CDC drive last year (2022–23).
+
+2) How did you get into Google? What was the selection procedure?
+
+Google opens only for Students with Majors in Circuital departments (CS, ECE, EE, MnC, and IM) “and/or” Minors in Circuital departments “and/or” Micro specializations in Circuital courses. The selection process involved one coding round followed by two technical interview rounds. The coding test was conducted on the HackerEarth platform in which two questions were given to solve in 60 mins. Later, based on your score on the test and your CV, shortlisted people are allotted some panels for interviews.
+
+Round-1 (45 min): The interview started with an introduction. After this, I was given a medium-level 2-pointer problem. I quickly explained my logic and then jumped to the implementation. After this, the interviewer asked me a follow-up question about a K-pointer scenario. I went on to extend my 2-pointer solution to a k-pointer problem while discussing it with the interviewer and came up with a solution. Although, due to time constraints, I couldn’t implement the solution completely, the interviewer seemed happy and satisfied with my logic.
+
+About 15 min later, I got an invitation-mail for the second round of interviews scheduled for half an hour later.
+
+Round-2 (45 min): The interview started with an introduction. After this, I was given a medium-level Dynamic Programming problem. I quickly explained my logic and then jumped to the implementation. The interviewer went on to ask a few tricky questions related to the STLs I was using in my implementation. After completing the implementation, the interviewer asked me a follow-up question, to which we discussed a few approaches and came up with a greedy solution. He didn’t ask me to code it.
+
+Both the interviewers were quite friendly and helpful.
+
+3) How to prepare for them?
+
+A thorough understanding of algorithms and data structures is required for software engineering-based profiles. Once the basics of DSA are clear, there are many sources to practice problem-solving. If you are a beginner, then refer to Leetcode and InterviewBit. Once you feel confident in standard DSA, you can participate in competitive programming contests on codeforces to boost your problem-solving ability.
+
+For Google, much importance is given to the candidate’s resume, especially past Kickstart/Codejam performances. So, make sure to participate in these contests.
+
+CS core concepts like OOPS, DBMS, OS, etc., are also recommended if you are aiming for Day-1 or Day-2 companies. If you have a rough idea about them, you can just keep these for the end and prepare them two weeks before the interviews. Although Google doesn’t ask these in any round but some companies do.
+
+4) What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem
+
+Too much to prepare in less time, I overcame this problem by carefully designing my study plan for the entire summer vacation before CDC. Also, there were times when I felt stuck and demotivated; maintaining consistency at such times was very challenging. In fact, I used to read such blogs of students who got internships through the CDC to keep myself motivated. I didn’t feel very confident in the dynamic programming-related problems. So, to overcome this, I moved to leetcode and solved enough questions until I felt confident in it.
+
+5) According to you, who should ideally apply for this job?
+
+This profile is recommended for anyone who is good at problem-solving and enjoys coding and software development. There is a lot of scope for learning new technologies and skills during the internship.
+
+6) Any specific advice you want to give to the junta sitting for internships this year?
+
+Start preparing a bit early on, and be consistent throughout your preparation journey. Try to solve as many problems as you can while understanding the logic deeply to the roots of every problem. Give more contests on codeforces/CodeChef and get a hold of CP. The journey will be challenging, fun, and sometimes stressful. There will be times when you will feel demotivated. Don’t give up, and keep pushing forward. Make a group and practice; this will help with motivation. Plan your journey well so that you can utilize your time to the fullest. Keep revising the concepts you study.
+
+Try to stay confident and happy in the interviews. The interviewer mainly wants to judge how well you think and approach a problem. It is very important that while thinking about the problem’s solution, you think out loud.
+
+Keep talking with the interviewer about your approach so that even if you go wrong, he can give you a hint to get you back on track.
+
+All the best, Everyone!
+
+7) What are some of the major points you think would be valid to mention in your CV while targeting this profile? (Any specific suggestions you would like to make?)
+
+Projects and internships indicate hands-on experience, which interviewers generally take good note of. Projects can be anything from self-projects to course projects. Try to participate in as many programming contests as possible and write those ranks/ratings that will be useful during shortlisting. PoRs aren’t really required for this profile.
+
+Be honest with what you represent in your CV. Be ready to be grilled upon anything you write on the CV.
+

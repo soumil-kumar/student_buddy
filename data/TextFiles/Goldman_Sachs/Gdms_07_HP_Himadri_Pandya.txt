@@ -1,0 +1,61 @@
+1) Brief Introduction
+
+Hi Everyone! I am Himadri Pandya, a 4th-year undergraduate student of the Department of Mechanical Engineering. I am a boarder of Sarojini Naidu/Indira Gandhi Hall of residence. I sat for the CDC Internship drive last year and have joined Goldman Sachs as a Summer Analyst for the summer of 2023.
+
+2) How did you get into GS? What was the selection procedure?
+
+It’s fair to say that Goldman Sachs was my highest preferred company throughout my CDC preparation, after the shortlists and during the interviews. I focused my preparation around GS all throughout the summers and started solely preparing for the interviews once I was certain that I had performed well in the test and was expecting to get shortlisted for the interviews.
+
+The selection procedure consisted of:
+
+a. Test (for shortlisting): The test had 4 sections which were timed separately:
+
+b. Coding Section: This section had two medium to hard coding questions to be attempted in C++
+
+c. Probability, Statistics and Puzzles: This section had 25 questions on probability and statistics including a few easy puzzles
+
+d. Essay Question: This section was for language fluency in which we had to write a short paragraph on a given topic
+
+e. Computer Architecture: This section had around 20 questions on core CS topics including operating systems and algorithms
+
+f. Personal Interviews: I had two rounds of technical interviews (some people had three rounds) on Zoom where I was asked logic-based puzzles and questions on probability and statistics. They asked me the logic I would use to implement certain coding questions but I wasn’t asked to explicitly code anything. It started off with easy questions and progressed towards more difficult questions. I was called to a meet after these two rounds to confirm the offer.
+
+3) How to prepare for them?
+
+I started off with CP after the end of my 4th semester with only some background from PDS and PDS Lab courses. I started off with basic concepts and STL and slowly progressed with other topics.
+There are many resources available to study all of these topics and one can conveniently refer to gfg for theory and practice questions on InterviewBit. I’d say a decent grasp of DSA is essential to attempt the questions in the coding test. You can directly start attempting questions from different buckets on InterviewBit and learn different concepts as you encounter them.
+I also picked up the Algorithmic Toolbox course on Coursera. This course really helped me strengthen a few core concepts like Backtracking and DP along with practice questions to give a complete understanding of them since these are generally difficult concepts to pick up. I didn’t participate in any coding contests during my preparation but it can be a good way to practice attempting questions in a test-like environment and develop logical thinking given a limited time.
+As for the quant section, I practiced solving questions on Probability and puzzles from Brainstellar, Heard on the Street, and Fifty Challenging Problems in Probability, starting from the end of May. This helped me prepare my Quant section well. I solved all the puzzles on InterviewBit and a few puzzles on gfg. Understanding the process of approaching the questions from the given resources should give you enough hold on the concepts to think of an approach if you face a new question in the test or interviews. TED-Ed’s riddles videos are also a great and fun resource for these questions.
+I did not do any separate preparation for the section on computer architecture since it was frankly an open-ended section for someone with a non-CS major and mostly attempted the questions based on intuition. You can prepare by taking some course materials from your CS friends but I don’t have any list of important topics or resources to share.
+There is no preparation required for the essay section as it only evaluates your fluency and can be attempted within 5-10 minutes.
+As for the interview, I’ll always encourage you to be ready with a good introduction that’s brief and gives an overview of your work, involvements and interests (a few words on why you want to apply for the role can be added). Your introduction is a very important component of the first impression you’ll create on the interviewer and as for most cases, first impressions go a long way. It is essential to communicate with your interviewer throughout the interview. Tell them what you’re thinking, your approach and your thought process since they’re interested more in your analysis and approach than the final answer. Communicating will also help you reach a solution when you’re stuck somewhere since interviewers hint you towards the solution if they think your approach is incorrect. Be alert, be confident and most importantly be yourself because that’s when you’re your best possible version. As for the questions, your preparation for the test will be sufficient to guide you through the technical interview.
+4) What difficulties did you face while preparing for this Company/ Profile? How did you overcome this problem?
+
+The difficulties that I faced were primarily centered around the time that I was able to give to the preparation because of my extra-curricular involvements in KGP and the fact that I started my preparation a bit later than others. You shouldn’t face any of these problems for this particular role if you’ve been consistent and disciplined throughout your preparation
+
+Other than that, I’d suggest you contact seniors who have prepared for similar roles that you are interested in and get insights from them. Being connected will give you a more channeled approach and will also be a constant mental support when you need it.
+
+5) According to you, who should ideally apply for this job?
+
+The selection procedure revolves around problem solving abilities so folks with a natural knack for coding and logic-based puzzles have a slight edge in the entire process. However, one can conveniently prepare for all the sections by planning out their preparation well and following the deadlines they set for themselves. The internship majorly involves coding so if you’re someone who hates programming then this possibly isn’t the best option out there.
+
+Regardless, it’s a sought-after day 1 role and a great option for those opting for tech profiles.
+
+6) Any specific advice you want to give to the junta sitting for internships this year.
+
+In general for tech roles, coding is very important and should ideally take up at least 80% of your prep time. It is very important to plan how much time you will be devoting to each question during the tests. Try to gauge if you will be able to solve the question immediately after reading it or if you’ll have to go for a partial solution and thus a partial score.
+
+Your performance in the test is an essential data point both before and during your interview and has a role on how they perceive you throughout given the limited information they are given. So it is preferable to try to perform exceedingly well in the tests to have a good pre-impression on the interviewer. In fact, it is practically improbable to interview for more than two companies on a given day so your focus should not be to get multiple shortlists but to get preferable shortlists in the companies you’re genuinely interested in. It is better to perform “very well” in a few tests and disastrously in the others and getting 2 shortlists than performing “decently” in multiple companies and getting multiple inconvertible shortlists.
+
+As for the interviews, be very clear about your preferences in case you have multiple shortlists. By the end of the tests you should be able to get a fair idea of whether or not you have a chance of getting shortlisted for a given company. Once you’re ready with your preferences your sole focus should be to prepare for interviews and contact as many seniors as possible to understand what type of questions are asked and be certain about evaluations metrics for various companies. For example, I was shortlisted to interview for LEK but was fairly certain about getting a shortlist at GS and since I was clear about my preferences I devoted all my time to prepare for GS while skipping any and all case prep.
+
+Other than that, once you are certain about a shortlist in a few of your highly preferred companies you can consider skipping a few tests to prepare for the interviews of your preferred companies. It can be somewhat categorized as a gamble but if done correctly it can give you a very sharp edge during interview preparation since you’ll have to draw a line for preferences at some point anyway. Better sooner, than later.
+
+7) What are some of the major points you think would be valid to mention in your CV while targeting this profile?(any specific suggestions you would like to make?)
+
+I don’t think CV holds a high weightage for this profile since I wasn’t questioned on my past experiences and projects in any of the interview rounds except for a brief discussion of my PoR and FT project in the second round after my introduction. The focus should be on performing well in the tests and being active during the interview. However, here’s my two cents on CV building in general:
+Structure your CV depending upon the profile you’re targeting. For example, a tech CV should focus more on relevant projects and internships rather than extracurriculars and exceptional achievements
+Try to summarize every heading in two to three bullet points focussing more on results than methods. For example, if you’re mentioning an ML project, focus more on the accuracy you achieved and the amount of data that you used to train your model than the model itself
+Format your CV well and try to stay consistent with the number of points you mention under each heading
+Try to customize your CV for different profiles (say, Data, SDE and Quant) and leverage the fact that ERP allows you to submit 3 CVs
+Of course, don’t forget to get it reviewed by seniors to make the best out of your work.

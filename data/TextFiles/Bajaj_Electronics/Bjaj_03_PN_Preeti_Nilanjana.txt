@@ -1,0 +1,27 @@
+1) Brief Introduction
+
+Hello, I’m Preeti Nilanjana, a 3rd-year Department of Electrical Engineering undergraduate student enrolled in its B.Tech course.
+
+2) How did you get into Bajaj? What was the selection procedure?
+
+I was targeting core companies for my internship, so I applied. The first round was a written round with some maths questions, especially probability and statistics, mental ability questions, basic cp questions, and core electrical questions. It was for 90 minutes. If you score above certain marks, you must appear for a self-assessment test for around 15 minutes. Then comes the interview round and then the HR round.
+
+3) How to prepare for them?
+
+Aptitude and probability statistics questions were solvable. For questions related to the electrical core, one should know the basics of electrical machines, analog and digital electronics, measurements, and instrumentation. For the interview round, in my case, they asked me about what topics I was more interested in and asked me questions related to them. You can expect questions about the projects you have mentioned in your CV. For the HR round, one should know about the company and the field in which it offers an internship.
+
+4) What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+As I spent my first and second years online, I faced issues. I was worried because I did not have any practical knowledge. As fewer core companies come for an internship, one can prepare some other profiles. Revising analog and digital electronics and electrical machines will help a lot.
+
+5) According to you, who should ideally apply for this job?
+
+Anyone interested in EVs, electronics, and machines can apply for this job. It will help you to explore more in the field of electric vehicles and related areas.
+
+6) Any specific advice you want to give to the junta sitting for internships this year.
+
+It will be a new process for you, and even if you do not get shortlisted for your desired companies, feel encouraged. If you target specific companies, prepare accordingly. In interviews, be confident and do not lie or bluff. If the interviewer asks if you have any questions for them, do not say no. You can ask about the role the company is offering or anything related to the company; it will show your curiosity about the job.
+
+7) What are some of the major points you think would be valid to mention in your CV while targeting this profile? (Any specific suggestions you would like to make?)
+
+The interviewer goes through your CV and asks questions about it. Mentioning one or two projects will be good. The interviewer asked me questions related to the project I mentioned. Suppose you have done any internships before; you can mention them in your CV. Only add topics that you know about. You will make the wrong impression if you cannot explain things written in your CV.

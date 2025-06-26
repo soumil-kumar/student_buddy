@@ -1,0 +1,46 @@
+Brief introduction and description of offered role
+Hey everyone! I’m Sanskar Gupta, a 4th-year undergraduate student pursuing an integrated MSc in Economics. I’ll be interning at Goldman Sachs as a Quantitative Strategist.
+
+2. How did you get into Goldman Sachs ? What was the selection procedure?
+
+Goldman Sachs conducts two tests, one for the SDE and one for the Quant roles. Since I wasn’t targeting SDE, I only took the Quant test. It was a one-hour test on the HackerRank platform, comprising several sections:
+- Two subjective HR questions focusing on how will you handle team member performance issues and my lessons from previous projects/internships.
+- The quantitative aptitude section covers basic aptitude, probability, statistics, and JEE-level calculus and trigonometry questions.
+- Coding Section with three easy to medium standard questions from graph and array topics.
+
+Following the test, GS has 3 rounds of interviews. I gave only two as I got the offer by the end of the second round. They asked a good number of questions on probability and puzzles, which were mainly from the 3 standard resources mentioned below. They also grilled me on my corporate valuation project. They also asked me about the various distributions in statistics and their use case. I was also asked to write pseudocode for four coding problems, two of which were easy, and two were standard array and recursion questions.
+
+3. How to prepare for them?
+
+Preparing for a Quant role at Goldman Sachs requires a strong understanding of probability and statistics. For this, you can follow the following resources:
+- Stats110 for building foundational concepts.
+- Solving 50 challenging problems in probability and statistics, especially the first 30 problems.
+- Studying chapters 1 and 2 of “Heard on the Street.”
+- Practicing easy and medium Brainstellar puzzles.
+
+For coding preparation, understanding DSA concepts and practicing standard questions is essential. I started with videos and resources of Striver and Luv DSA. For the practice of the question, I used GFG along with LeetCode Blind 75.
+
+4. When did you start preparing for this role, and what is the ideal time for aspirants to begin their preparation?
+
+I started preparing for roles like this at the end of my second year, focusing on Machine Learning/Data Science. I began coding during the winter holidays after the 5th semester, as it will be required for most of the companies. You have to start coding practice as early as possible and dedicate significant time during the summer holidays to prepare for probability and statistics and refining your CV.
+
+5. What difficulties did you face while preparing for this Company/Profile? How did you overcome them?
+
+Managing a broad syllabus within a limited timeframe was one of the biggest challenges. To overcome this, I created a detailed roadmap prioritizing resources and kept track of my progress. Initially, the sheer volume of content and conversion rate may seem overwhelming. However, persisting and accomplishing small targets consistently prove beneficial in the long run.
+
+6. Are there any specific requirements such as department, CGPA, or other criteria for this position? Additionally, do certain PORs or EAAs enhance one’s chances of securing this internship?
+
+Goldman Sachs doesn’t have specific departmental criteria; candidates from various backgrounds were shortlisted. While a high CGPA is preferred, there’s no explicitly stated cutoff. For the Quant role, project/internship experience and competitions hold more weight than Positions of Responsibility (PORs).
+
+7. According to you, who should ideally apply for this job?
+
+This role suits individuals who enjoy problem-solving, have a strong inclination toward mathematics, and are interested in exploring finance.
+
+8. Kindly attach your CV/Resume. What are some of the major points you think would be valid to mention in CV while targeting this profile?
+
+In a CV targeting this profile, start with internships/projects and competitions, as these provide substantial topics for interview discussions. Maintain consistency and highlight the impact of your work, using numbers where possible for credibility. Only include points you can defend in interviews. Projects related to finance and analytics can boost your chances of selection. Seek feedback from peers and seniors on your CV, and conduct mock interviews to identify strengths and weaknesses.
+
+9. Lastly, what advice would you like to give to the students aiming to grab CDC internships this year?
+
+Stay confident in your preparation and keep working diligently. Seek support from friends and seniors whenever needed. Don’t stress over early results; many good opportunities are available later. Remember, a CDC internship is not the end-all; plenty of other opportunities will exist. Keep working hard, and success will follow in due time.
+

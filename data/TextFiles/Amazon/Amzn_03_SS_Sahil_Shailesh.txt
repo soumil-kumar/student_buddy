@@ -1,0 +1,49 @@
+Brief Introduction
+
+Hi! My name is Sahil Shailesh Pedamkar and I am a third-year undergraduate student from the Department of Metallurgical and Materials Engineering.
+
+I am currently doing my Summer Internship at Amazon Development Center, Bangalore.
+
+How did you get into Amazon(SWE)? What was the selection procedure?
+
+AMAZON visited our campus on Day 3. There were a total of 2 rounds.
+
+Online Round — The Online round consisted of three sections. In the first section, there were 6 or 7 questions where we had to debug the snippets of code. In the second section, we had to solve around 20–25 questions which were based on logical reasoning. The last section consisted of two coding questions.
+Interview Round — The Interview Round is of 1 hour. At the start of the Interview, the interviewer will ask you to introduce yourself and will then ask you a behavioural question based on AMAZONs Leadership principles for which you have to respond using STAR method. You will be given some time to construct your response. Then, the Interviewer will ask you two coding questions. Both the questions were simple data structure and algorithms questions with some modifications. Anyone with sufficient knowledge about DS Algo and time complexity would be able to solve it.
+How to prepare for them?
+
+To Prepare for AMAZON, you should have a very good knowledge of Data Structures and Algorithms.
+You should also have a good practice of debugging your code and keep a good habit of calculating time complexity and space complexity while solving a problem.
+You can also solve some AMAZON problems from Interview Bit.
+One thing which I personally used to do is that during lunch and dinner, I used to watch technical interviews on YouTube which would give you an idea about the interview process thus making you more confident and you could also learn new things.
+For the Interviews, you should be well-versed with the projects you have written in your CV.
+For the interviews, you should be familiar with the STAR (situation, task, action and result) method to prepare for the behavioural questions and also go through AMAZONs Leadership principles.
+What difficulties did you face while preparing for this Company/Profile? How did you overcome this problem?
+
+My communication skills were not strong enough and I was not able to properly convey my thoughts. So during the months of June and July, I had made a habit of speaking with my family members in English. My brother would take my mock interviews after dinner. I also used to watch technical interviews on YouTube during lunch and dinner which helped in removing my fear of interviews. My Best Friend would also take my mock interviews through google meet where he would ask me approaches for solving coding questions and would also give some important pointers. I also had a senior (who was previously an intern at AMAZON and successfully got the PPO) who provided me some valuable tips for acing the interview.
+
+As a result, my Interview was a success.
+
+I owe my family, seniors and best friends a great debt of thanks for their support and encouragement.
+
+According to you, who should ideally apply for this job?
+
+Anyone who is interested in Software roles should apply for this job. Your department would not act as a barrier therefore anyone can apply.
+
+Any specific advice you want to give to the junta sitting for internships this year.
+
+It is very important to have your CV reviewed by the seniors.
+It is always better to have around 2–3 projects mentioned in your CV.
+Keep a good habit of calculating time and space complexity while solving a problem.
+Keep a healthy routine.
+Always be in contact with your friends and regularly check mails to get the latest updates from CDC.
+Never be afraid of asking your seniors for doubts. They will be more than happy to help you.
+Practice mock interviews with your friends or family members.
+Always believe in yourself. Everything will be alright in the end.
+What are some of the major points you think would be valid to mention in your CV while targeting this profile?(any specific suggestions you would like to make?)
+
+It is always a safer choice to have around 2–3 projects mentioned in your CV.
+Mention properly in your CV all the languages and software’s in which you are proficient.
+You can mention the courses you have completed from Udemy, Algozenith, Coursera etc. in your CV.
+If you have completed any internship previously, do mention it in your CV.
+ALL THE BEST GUYS AND MACHAAKE AANA !!

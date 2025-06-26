@@ -1,0 +1,35 @@
+Brief Introduction
+
+Hello, I am Tarang Sur Chaudhury, a 3rd year Btech student from the Department of Electronics and Electrical Communication Engineering. I received an offer from Texas Instruments for a Digital Design internship last year.
+
+How did you get into Texas Instruments? What was the selection procedure?
+
+I secured this internship opportunity through the CDC campus internship drive. The selection procedure involves a screening test followed by an interview. The screening test was objective type and tested the applicants broadly on topics corresponding to the roles offered — Analog Design, Digital Design, Signal Processing, and Embedded Systems, along with a mandatory section of Aptitude type questions. One gets shortlisted for the role-specific interviews depending on their performance in the corresponding sections (and aptitude section) only. If someone applies for more than one profile, they would simply have to attempt all the sections that they applied for — and may also get shortlisted for multiple profiles. I had applied for all of them and got shortlisted for both the Digital Design and Signal Processing roles. I was offered the Digital Design internship immediately after the interview, which is why I didn’t get to appear for the Signal Processing interview. However, they might finalise the offers at the end of the day, which can result in multiple offers being made — however you may only choose a single role for your internship.
+
+How to prepare for them?
+
+The screening test primarily focuses on judging the strength of your fundamentals. Digital Electronic Circuits (4th sem EC course) is the definitive preparatory course one needs for the Digital Design profile — would also recommend Digital Design by M. Morris Mano. The questions were mostly based on logic gates, K-Maps, simple circuits like adders and ALUs. There were some basic questions from Computer Architecture related to cache and pipelining as well.
+I was not very good at Signals and Systems (getting shortlisted for the Signal Processing interview was a pleasant surprise), however the questions in the test were mostly based on fundamentals like Fourier analysis of signals and LTI systems.
+
+Guide to refer : CDC Guide for E&ECE Core companies
+
+The interview experience was quite unique. It went on for 50 minutes, but didn’t really feel that long, and definitely didn’t feel like an “interview” — it was more like a conversation about interesting problems and how to solve them. One key takeaway for me was that the interviewer is completely ok with you having no idea about a particular question — all they want to see is how you respond to being dropped into unknown territory, how you use your existing knowledge to try to decompose this new challenge into smaller problems that you know how to solve. Even if you’re unable to make any sense of it, they provide crucial hints to steer you towards the solution, so do interact with your interviewer and illustrate your whole thought process.
+
+What difficulties did you face while preparing for this Company /Profile? How did you overcome this problem?
+
+I am reasonably comfortable with interviews. The screening test was actually the toughest part for me. DEC was a course I thoroughly enjoyed in my 4th semester, so the questions played to my strengths. The problem is that I am bad at test taking itself, I always seem to get my time management wrong, eventually end up rushing at the end and scoring well below what I should have. I was nervous beyond measure while taking this test as well, but somehow managed to hold my nerves and was able to answer most of the questions that I knew. I expect the average JEE-qualified reader to be better than I am at taking MCQ tests, which is why I should offer some advice for the interview, since it might be a first time experience for many.
+The golden rule is to not let the room plunge into awkward silence. The interviewer asks a question, and you really have no clue about the solution. Standing mute in front of them for five minutes and thinking about it is not really going to help — the interviewer is unsure of whether you’re actually thinking about the problem, whether you’re just too stunned to speak or if you are daydreaming. It is okay to take your time and think, but do let the room know what you are thinking about, what is your exact approach, because the interviewer cannot read your mind. They will eventually drop a hint and guide your analysis, and might even credit your unconventional approach. Communication is key. Again, as I said previously, they don’t expect you to know everything, and they will judge you based on how you handle new challenges.
+
+According to you, who should ideally apply for this job?
+
+Applicants need to have a strong fundamental understanding of the domain they are applying for. Understandably, it is much easier for EC/EE people who already have completed relevant courses.
+
+Any specific advice you want to give to the junta sitting for internships this year.
+
+Compared to software, the number of opportunities in core is significantly less. A very lucrative option for many would be to prepare for a software profile during the summer break. However, it should not prevent anyone with a genuine love for their core subjects from applying to Texas Instruments, or even other core profiles. If I am being very honest, it does not even require one to prepare a lot in terms of actual content. All they have to do is back their strengths and be up to date with the relevant coursework.
+
+A very real challenge for some of the candidates would be if they decided to conduct in-person interviews this time around. I think I have already talked a lot about how to deal with an interview, it’s all about having a good mindset when you walk into the room. Don’t worry so much, you got this!
+
+What are some of the major points you think would be valid to mention in your CV while targeting this profile?
+
+Mention relevant coursework. That’s basically it — they really don’t care about PoRs or projects (I didn’t have any projects or PoRs to mention in my resume anyway — that should tell you how much they matter). Your CGPA might play a role, 8.5+ is always a bonus. You will mostly be judged on your interview performance and test results.

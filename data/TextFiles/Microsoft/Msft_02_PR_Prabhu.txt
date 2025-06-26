@@ -1,0 +1,43 @@
+1) Introduction
+Hello everyone!
+I am Prabhu, a fourth-year undergraduate student at IIT Kharagpur pursuing Mathematics and Computing (5 yr. Integ MSc). I am a boarder at LBS hall in KGP and am from Chennai, Tamil Nadu.
+My name is Aryaman Jain. I am a fourth-year undergraduate from the Department of Computer Science and Engineering. I am currently interning at Microsoft as an SDE.
+My name is Sunanda Mandal. As of 2021 during the CDC internship drive, I completed my second year of B. Tech in the Department of Computer Science and Engineering.
+We all got an internship offer at Microsoft as SDE interns.
+2) How did you all get into Microsoft? What was the selection procedure?
+Microsoft was open to all students with a CG greater than 7.5 and no active backlogs. Microsoft’s Screening Test was different from those of other companies. The test was conducted on Codility, which doesn’t require turning on the camera. Only two questions were asked, and both of them were very easy. However, unlike other tests, we only see the results of sample test cases during the test. Around 45 students were shortlisted based on Submission time and System tests.
+There were 3 rounds of interviews (2 technical and 1 Hr.).
+Round 1:
+The first question of the round was a CP question immediately after the introduction. In total, two questions were asked in this round, one of them was a Leetcode Hard level question. After round 1, I was called for round 2 within five minutes
+Round 2:
+This is, as far as I know, the round that determines your selection. This interview round lasted more than 1 hour and included questions about DSA, OOPS, OS and System design.
+Round 3:(Hr. round)
+I was asked about my plans after completing college. As I’m from MnC, the interviewer was interested in the CS courses we study and questions were asked from the same. This round also consisted of a couple of CP(DSA) questions (again here is one direct Leetcode Hard problem)
+I was asked about my motivation behind choosing ML over my core subjects, my favorite mechanical engineering subject and the reason behind it.
+PS, the interview round was quite different for different candidates and it will highly depend on your CV. If your CV is not much aligned to ML, you can also expect questions from algorithms and data structures or software-related projects/courses if you have mentioned any in your CV.
+3) How to prepare for them?
+Projects that are mentioned in the CV should be prepared thoroughly. Do not write anything in the CV that you are not aware of.
+maintaining a good CG and having a couple of software-related projects (self or supervised) are good to have
+Since you get to know the selection results a week before, I would advise the candidates to go through Microsoft careers page’s tips and tricks to prepare accordingly.
+For Online Assessment it was easy coding questions so anyone who solved a decent amount of questions were able to do it.
+For Interviews, Practicing leetcode questions from every DSA topic will be enough. Pick Leetcode Hard Problems by randomizing (Pick one option in LC) the questions. This helped to cover a wide range of topics in less time and boosted the confidence as well.
+For algorithms and data structures gave regular contests on codeforces and atcoder. For interviews and famous problems use interview bit and cses.fi.
+To understand complex concepts in DSA, follow this.
+And before appearing for an interview in any Company/profile try to learn what they do and why you want to apply.
+4) Difficulties faced while preparing for the Company/Profile and how to overcome them The major difficulties faced are having low confidence even with good experience with interviews, feeling demotivated whenever they do not give their best and not being able to explain their own code because of nervousness. Practicing mock interviews regularly is the best way to solve this. Contacting the people who are preparing for the same position/ similar interview and discussing the problems that aren’t solvable by ourselves will help overcome this.
+5) Who should apply for this internship?
+Anyone who is interested in Software profiles and has a good hold of DSA can apply. If you like to learn and work on the latest technologies and are interested in Software Development, you will like the work. They do not generally ask development related questions in the interviews. If
+If you are comfortable with solving coding problems and have knowledge of core CS concepts you should definitely apply for this job.
+6) What are some of the major points you think would be valid to mention in your CV while targeting this profile? (any specific suggestions you would like to make?)
+For Software Intern role software development projects are more valuable than ML projects. Nicely highlight all your achievements in the Academic Achievements sections. Put your handle ratings from websites like codeforces and codechef. Mention the rank if you
+participated in google codejam, Kickstart or Facebook hackercup. Put open source contributions if any.
+Finally do not focus on the number games of Day 1,2 etc.
+7) Any specific advice you all want to give to the junta sitting for internships this year.
+During the interview, always think out loud. Never try to fake anything in your CV and go prepared for questions about projects you mentioned in your CV. Follow your heart and sit for those roles only in which you are interested. Don’t apply for each and every company that comes in the first few days. It’s better to get an internship in a role you’re interested in, Day 2, 3 or even later than settling for a Day 1 internship completely different from the field of your interest. Be clear about the roles you are targeting and prepare accordingly. Make contacts with people who are preparing for the same. Discuss problems and doubts with them. After solving a problem, always go through editorials. It helps in exploring better coding styles and other approaches. Align your CVs according to the roles you’ll be applying for and get them reviewed by 2–3 seniors. Don’t be too stressed about CDC internships. CDC is not the end of the world. There are tons of opportunities including off-campus or research internships outside CDC.
+
+
+9
+
+
+
+
